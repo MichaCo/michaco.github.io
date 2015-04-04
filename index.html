@@ -1,9 +1,17 @@
 ﻿<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html ng-app="indexPage" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>MichaCo on github.io</title>
+    <title>Micha Conrad</title>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <script src="Scripts/jquery-1.9.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-route.js"></script>
+    <script src="Scripts/index.js"></script>
 </head>
 <body>
-    <h1>MichaCo on github.io</h1>
+    <div class="container" ng-controller="ContentCtrl">
+        <div ng-view></div>
+    </div>
 </body>
 </html>
