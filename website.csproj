@@ -1056,7 +1056,7 @@
     <Content Include="Documentation\CacheManager\Help\toc\T_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1.xml" />
     <Content Include="Documentation\CacheManager\Help\WebKI.xml" />
     <Content Include="Documentation\CacheManager\Help\WebTOC.xml" />
-    <Content Include="Index.html" />
+    <Content Include="index.html" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
