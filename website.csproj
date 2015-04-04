@@ -43,6 +43,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="cachemanager.shfbproj" />
+    <Content Include="CacheManager\images\bg_hr.png" />
+    <Content Include="CacheManager\images\blacktocat.png" />
+    <Content Include="CacheManager\images\icon_download.png" />
+    <Content Include="CacheManager\images\sprite_download.png" />
+    <Content Include="CacheManager\index.html" />
+    <Content Include="CacheManager\javascripts\main.js" />
+    <Content Include="CacheManager\javascripts\scale.fix.js" />
+    <Content Include="CacheManager\stylesheets\pygment_trac.css" />
+    <Content Include="CacheManager\stylesheets\styles.css" />
+    <Content Include="CacheManager\stylesheets\stylesheet.css" />
     <Content Include="Documentation\CacheManager\Help\html\Events_T_CacheManager_Core_Cache_BaseCacheManager_1.htm" />
     <Content Include="Documentation\CacheManager\Help\html\Events_T_CacheManager_Core_ICacheManager_1.htm" />
     <Content Include="Documentation\CacheManager\Help\html\E_CacheManager_Core_Cache_BaseCacheManager_1_OnAdd.htm" />
@@ -1091,6 +1101,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CacheManager\params.json" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
