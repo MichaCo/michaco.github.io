@@ -15,12 +15,14 @@
     <link href="Content/style.css" rel="stylesheet" />
 </head>
 <body class="blog">
-    <!--<div ng-include="'navigation.html'"></div>-->
     <div class="container" ng-controller="ContentCtrl">
         <div class="row">
             <div id="primary" class="content-area col-sm-12 col-md-12">
                 <main id="main" class="site-main" role="main">
-                    <div ng-view></div>
+                    <div ng-view>
+                        <a href="CacheManager">Cache Manager documentation</a><br />
+                        <a href="Documentation/CacheManager/Help/">Cache Manager html help</a>
+                    </div>
                 </main>
             </div>
         </div>
