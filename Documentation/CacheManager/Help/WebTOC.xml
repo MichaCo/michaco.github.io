@@ -1,53 +1,53 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="b2d6823f-961d-495a-9803-2713a5d24f38" Title="Packages" Url="html/R_Project_Cache_Manager_Documentation.htm">
-    <HelpTOCNode Id="6a53c324-7639-4ea8-bab1-db4642efcb5c" Title="CacheManager.AppFabricCache" Url="html/N_CacheManager_AppFabricCache.htm">
-      <HelpTOCNode Id="b71aa554-5841-438a-b74a-f3c045345f00" Title="AppFabricCacheHandle Class" Url="html/T_CacheManager_AppFabricCache_AppFabricCacheHandle.htm">
+  <HelpTOCNode Id="68335c16-3bc0-4018-a119-b85abc0d5791" Title="Packages" Url="html/R_Project_Cache_Manager_Documentation.htm">
+    <HelpTOCNode Id="e8c483df-66f7-406d-9410-36f66d77a9a6" Title="CacheManager.AppFabricCache" Url="html/N_CacheManager_AppFabricCache.htm">
+      <HelpTOCNode Id="c1ea9611-7ec4-48ec-9752-86ff12135141" Title="AppFabricCacheHandle Class" Url="html/T_CacheManager_AppFabricCache_AppFabricCacheHandle.htm">
         <HelpTOCNode Title="AppFabricCacheHandle Constructor " Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle__ctor.htm" />
         <HelpTOCNode Title="AppFabricCacheHandle Methods" Url="html/Methods_T_CacheManager_AppFabricCache_AppFabricCacheHandle.htm" />
         <HelpTOCNode Title="AppFabricCacheHandle Properties" Url="html/Properties_T_CacheManager_AppFabricCache_AppFabricCacheHandle.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b6756fcd-274e-4524-8564-f6286a917cd2" Title="AppFabricCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm">
+      <HelpTOCNode Id="62d18b61-1ff6-4f87-baa5-83f477948f1c" Title="AppFabricCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm">
         <HelpTOCNode Title="AppFabricCacheHandle(TCacheValue) Constructor " Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1__ctor.htm" />
-        <HelpTOCNode Id="4c398489-7c7c-466a-a671-574d464103c1" Title="AppFabricCacheHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm">
+        <HelpTOCNode Id="90b9f33a-cb7d-4d41-a718-a675d0995f81" Title="AppFabricCacheHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm">
           <HelpTOCNode Title="AddInternalPrepared Method " Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_AddInternalPrepared.htm" />
           <HelpTOCNode Title="Clear Method " Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_Clear.htm" />
           <HelpTOCNode Title="ClearRegion Method " Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_ClearRegion.htm" />
-          <HelpTOCNode Id="ad691a9c-f701-40e8-ba16-173d85c6c8f6" Title="GetCacheItemInternal Method " Url="html/Overload_CacheManager_AppFabricCache_AppFabricCacheHandle_1_GetCacheItemInternal.htm">
+          <HelpTOCNode Id="d9759685-be59-45ff-a44d-97d5caf4a817" Title="GetCacheItemInternal Method " Url="html/Overload_CacheManager_AppFabricCache_AppFabricCacheHandle_1_GetCacheItemInternal.htm">
             <HelpTOCNode Title="GetCacheItemInternal Method (String)" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_GetCacheItemInternal.htm" />
             <HelpTOCNode Title="GetCacheItemInternal Method (String, String)" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_GetCacheItemInternal_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="PutInternalPrepared Method " Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_PutInternalPrepared.htm" />
-          <HelpTOCNode Id="3a277a8f-b14f-4e7e-bdd7-47fa964eb347" Title="RemoveInternal Method " Url="html/Overload_CacheManager_AppFabricCache_AppFabricCacheHandle_1_RemoveInternal.htm">
+          <HelpTOCNode Id="29018b62-34d8-4f8c-a405-3e57ef5a7ec3" Title="RemoveInternal Method " Url="html/Overload_CacheManager_AppFabricCache_AppFabricCacheHandle_1_RemoveInternal.htm">
             <HelpTOCNode Title="RemoveInternal Method (String)" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_RemoveInternal.htm" />
             <HelpTOCNode Title="RemoveInternal Method (String, String)" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_RemoveInternal_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="b0f84793-032f-40d6-ad52-75a43229ed10" Title="Update Method " Url="html/Overload_CacheManager_AppFabricCache_AppFabricCacheHandle_1_Update.htm">
+          <HelpTOCNode Id="aa90ba4e-359c-4f58-860f-f1f80b78be5e" Title="Update Method " Url="html/Overload_CacheManager_AppFabricCache_AppFabricCacheHandle_1_Update.htm">
             <HelpTOCNode Title="Update Method (String, Func(TCacheValue, TCacheValue), UpdateItemConfig)" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_Update.htm" />
             <HelpTOCNode Title="Update Method (String, String, Func(TCacheValue, TCacheValue), UpdateItemConfig)" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_Update_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="e648fb34-9575-4541-80ad-14068b293fa1" Title="AppFabricCacheHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm">
+        <HelpTOCNode Id="4ec558e9-e45d-4b54-8665-62c7264324ff" Title="AppFabricCacheHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm">
           <HelpTOCNode Title="Count Property " Url="html/P_CacheManager_AppFabricCache_AppFabricCacheHandle_1_Count.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="7cd66a03-28d5-4f04-ac76-60f7e0ece1f3" Title="CacheManager.Core" Url="html/N_CacheManager_Core.htm">
-      <HelpTOCNode Id="e5a5fb1e-0b63-4bef-8878-43984860d35d" Title="CacheFactory Class" Url="html/T_CacheManager_Core_CacheFactory.htm">
-        <HelpTOCNode Id="093567a6-ed65-478a-b277-04571b0c0dc6" Title="CacheFactory Methods" Url="html/Methods_T_CacheManager_Core_CacheFactory.htm">
-          <HelpTOCNode Id="e6b024c5-45a3-4c21-aa9b-8557ad4954c7" Title="Build Method " Url="html/Overload_CacheManager_Core_CacheFactory_Build.htm">
+    <HelpTOCNode Id="bcfb7901-07fa-4d17-be84-6fdce7437841" Title="CacheManager.Core" Url="html/N_CacheManager_Core.htm">
+      <HelpTOCNode Id="775952c5-7bb1-4a50-beed-e9e2318b6c18" Title="CacheFactory Class" Url="html/T_CacheManager_Core_CacheFactory.htm">
+        <HelpTOCNode Id="e849b0a8-02d1-4f4e-b212-ae8bf9721560" Title="CacheFactory Methods" Url="html/Methods_T_CacheManager_Core_CacheFactory.htm">
+          <HelpTOCNode Id="194c7e95-94de-471b-99b8-0d0da09d830e" Title="Build Method " Url="html/Overload_CacheManager_Core_CacheFactory_Build.htm">
             <HelpTOCNode Title="Build Method (String, Action(ConfigurationBuilderCachePart(Object)))" Url="html/M_CacheManager_Core_CacheFactory_Build.htm" />
             <HelpTOCNode Title="Build(TCacheValue) Method (String, Action(ConfigurationBuilderCachePart(TCacheValue)))" Url="html/M_CacheManager_Core_CacheFactory_Build__1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="9350f569-f0bd-46a8-8ec4-f6f6ebe8ce38" Title="FromConfiguration Method " Url="html/Overload_CacheManager_Core_CacheFactory_FromConfiguration.htm">
+          <HelpTOCNode Id="3e325b19-1cdb-482c-b435-10e70c6649cc" Title="FromConfiguration Method " Url="html/Overload_CacheManager_Core_CacheFactory_FromConfiguration.htm">
             <HelpTOCNode Title="FromConfiguration(TCacheValue) Method (String)" Url="html/M_CacheManager_Core_CacheFactory_FromConfiguration__1_1.htm" />
             <HelpTOCNode Title="FromConfiguration(TCacheValue) Method (CacheManagerConfiguration(TCacheValue))" Url="html/M_CacheManager_Core_CacheFactory_FromConfiguration__1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="fba3bdcc-ac82-4a79-a165-22eb89bf0bca" Title="CacheItem(T) Class" Url="html/T_CacheManager_Core_CacheItem_1.htm">
-        <HelpTOCNode Id="63400d7f-c4e1-4445-b573-2521f32a84d9" Title="CacheItem(T) Constructor " Url="html/Overload_CacheManager_Core_CacheItem_1__ctor.htm">
+      <HelpTOCNode Id="f53b67f8-6ecd-4af6-9626-34e210f3e124" Title="CacheItem(T) Class" Url="html/T_CacheManager_Core_CacheItem_1.htm">
+        <HelpTOCNode Id="ca1e804b-4e15-481a-80fd-69e3cc739a0b" Title="CacheItem(T) Constructor " Url="html/Overload_CacheManager_Core_CacheItem_1__ctor.htm">
           <HelpTOCNode Title="CacheItem(T) Constructor " Url="html/M_CacheManager_Core_CacheItem_1__ctor.htm" />
           <HelpTOCNode Title="CacheItem(T) Constructor (SerializationInfo, StreamingContext)" Url="html/M_CacheManager_Core_CacheItem_1__ctor_1.htm" />
           <HelpTOCNode Title="CacheItem(T) Constructor (String, T)" Url="html/M_CacheManager_Core_CacheItem_1__ctor_2.htm" />
@@ -55,12 +55,12 @@
           <HelpTOCNode Title="CacheItem(T) Constructor (String, T, ExpirationMode, TimeSpan)" Url="html/M_CacheManager_Core_CacheItem_1__ctor_3.htm" />
           <HelpTOCNode Title="CacheItem(T) Constructor (String, T, String, ExpirationMode, TimeSpan)" Url="html/M_CacheManager_Core_CacheItem_1__ctor_5.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0b615387-29b5-4e18-a80b-bdca238db0d8" Title="CacheItem(T) Methods" Url="html/Methods_T_CacheManager_Core_CacheItem_1.htm">
+        <HelpTOCNode Id="d39f7e86-b395-4e20-8923-bb3f9677f34f" Title="CacheItem(T) Methods" Url="html/Methods_T_CacheManager_Core_CacheItem_1.htm">
           <HelpTOCNode Title="GetObjectData Method " Url="html/M_CacheManager_Core_CacheItem_1_GetObjectData.htm" />
           <HelpTOCNode Title="WithExpiration Method " Url="html/M_CacheManager_Core_CacheItem_1_WithExpiration.htm" />
           <HelpTOCNode Title="WithValue Method " Url="html/M_CacheManager_Core_CacheItem_1_WithValue.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d1933f09-6ce8-46c6-b436-632cf8f592db" Title="CacheItem(T) Properties" Url="html/Properties_T_CacheManager_Core_CacheItem_1.htm">
+        <HelpTOCNode Id="2c116478-7021-4bc2-80fa-34789e841041" Title="CacheItem(T) Properties" Url="html/Properties_T_CacheManager_Core_CacheItem_1.htm">
           <HelpTOCNode Title="CreatedUtc Property " Url="html/P_CacheManager_Core_CacheItem_1_CreatedUtc.htm" />
           <HelpTOCNode Title="ExpirationMode Property " Url="html/P_CacheManager_Core_CacheItem_1_ExpirationMode.htm" />
           <HelpTOCNode Title="ExpirationTimeout Property " Url="html/P_CacheManager_Core_CacheItem_1_ExpirationTimeout.htm" />
@@ -71,139 +71,139 @@
           <HelpTOCNode Title="ValueType Property " Url="html/P_CacheManager_Core_CacheItem_1_ValueType.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="27f90234-c2e1-4f27-a23d-bd2c63296410" Title="ConfigurationBuilderExtensions Class" Url="html/T_CacheManager_Core_ConfigurationBuilderExtensions.htm">
-        <HelpTOCNode Id="3a8fb4f9-8efe-4ef1-b5be-1a8d366e5821" Title="ConfigurationBuilderExtensions Methods" Url="html/Methods_T_CacheManager_Core_ConfigurationBuilderExtensions.htm">
-          <HelpTOCNode Id="e0480ea2-dac8-4b7a-a3b5-e0a4183e3684" Title="WithAppFabricCacheHandle Method " Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithAppFabricCacheHandle.htm">
+      <HelpTOCNode Id="670d0673-9267-40bb-9d26-8d10baba3689" Title="ConfigurationBuilderExtensions Class" Url="html/T_CacheManager_Core_ConfigurationBuilderExtensions.htm">
+        <HelpTOCNode Id="3a30bb49-2a50-4bf7-8fe9-f6abbd7776c0" Title="ConfigurationBuilderExtensions Methods" Url="html/Methods_T_CacheManager_Core_ConfigurationBuilderExtensions.htm">
+          <HelpTOCNode Id="e2fee4e2-2914-4a65-bb6f-7af586b82457" Title="WithAppFabricCacheHandle Method " Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithAppFabricCacheHandle.htm">
             <HelpTOCNode Title="WithAppFabricCacheHandle(TCacheValue) Method (ConfigurationBuilderCachePart(TCacheValue), String)" Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithAppFabricCacheHandle__1.htm" />
             <HelpTOCNode Title="WithAppFabricCacheHandle(TCacheValue) Method (ConfigurationBuilderCachePart(TCacheValue), String, Boolean)" Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithAppFabricCacheHandle__1_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="74b330ab-ba6c-45af-b825-24ad41a08207" Title="WithCouchbaseCacheHandle Method " Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseCacheHandle.htm">
+          <HelpTOCNode Id="bd593efc-9621-4c5b-a545-7c64264cd396" Title="WithCouchbaseCacheHandle Method " Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseCacheHandle.htm">
             <HelpTOCNode Title="WithCouchbaseCacheHandle(TCacheValue) Method (ConfigurationBuilderCachePart(TCacheValue), String)" Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseCacheHandle__1.htm" />
             <HelpTOCNode Title="WithCouchbaseCacheHandle(TCacheValue) Method (ConfigurationBuilderCachePart(TCacheValue), String, Boolean)" Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseCacheHandle__1_1.htm" />
             <HelpTOCNode Title="WithCouchbaseCacheHandle(TCacheValue) Method (ConfigurationBuilderCachePart(TCacheValue), String, String)" Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseCacheHandle__1_2.htm" />
             <HelpTOCNode Title="WithCouchbaseCacheHandle(TCacheValue) Method (ConfigurationBuilderCachePart(TCacheValue), String, String, Boolean)" Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseCacheHandle__1_3.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="WithCouchbaseConfiguration(TCacheValue) Method " Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseConfiguration__1.htm" />
-          <HelpTOCNode Id="f024a5da-d83f-4b92-820e-92e1c5d1532c" Title="WithMemcachedCacheHandle Method " Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithMemcachedCacheHandle.htm">
+          <HelpTOCNode Id="5e298327-8a08-4c37-90c9-a61e15b05708" Title="WithMemcachedCacheHandle Method " Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithMemcachedCacheHandle.htm">
             <HelpTOCNode Title="WithMemcachedCacheHandle(TCacheValue) Method (ConfigurationBuilderCachePart(TCacheValue), String)" Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithMemcachedCacheHandle__1.htm" />
             <HelpTOCNode Title="WithMemcachedCacheHandle(TCacheValue) Method (ConfigurationBuilderCachePart(TCacheValue), String, Boolean)" Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithMemcachedCacheHandle__1_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="WithRedisBackPlate(TCacheValue) Method " Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisBackPlate__1.htm" />
-          <HelpTOCNode Id="191c6ad1-80c9-4997-a109-0e27e5e17b46" Title="WithRedisCacheHandle Method " Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisCacheHandle.htm">
+          <HelpTOCNode Id="39672975-7677-487e-9fcf-07584cacfb06" Title="WithRedisCacheHandle Method " Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisCacheHandle.htm">
             <HelpTOCNode Title="WithRedisCacheHandle(TCacheValue) Method (ConfigurationBuilderCachePart(TCacheValue), String)" Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisCacheHandle__1.htm" />
             <HelpTOCNode Title="WithRedisCacheHandle(TCacheValue) Method (ConfigurationBuilderCachePart(TCacheValue), String, Boolean)" Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisCacheHandle__1_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="dce16982-9c23-402e-919c-41d44719c87b" Title="WithRedisConfiguration Method " Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisConfiguration.htm">
+          <HelpTOCNode Id="718b88f1-7135-4fed-a6f3-be98e4e737b0" Title="WithRedisConfiguration Method " Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisConfiguration.htm">
             <HelpTOCNode Title="WithRedisConfiguration(TCacheValue) Method (ConfigurationBuilderCachePart(TCacheValue), String, Action(RedisConfigurationBuilder))" Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisConfiguration__1.htm" />
             <HelpTOCNode Title="WithRedisConfiguration(TCacheValue) Method (ConfigurationBuilderCachePart(TCacheValue), String, String)" Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisConfiguration__1_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="b04d1e3f-65c3-44af-97b1-7c4766b5de64" Title="WithSystemRuntimeCacheHandle Method " Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithSystemRuntimeCacheHandle.htm">
+          <HelpTOCNode Id="4477cf7f-1a5e-44d7-86ab-e6d98450071a" Title="WithSystemRuntimeCacheHandle Method " Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithSystemRuntimeCacheHandle.htm">
             <HelpTOCNode Title="WithSystemRuntimeCacheHandle(TCacheValue) Method (ConfigurationBuilderCachePart(TCacheValue), String)" Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithSystemRuntimeCacheHandle__1.htm" />
             <HelpTOCNode Title="WithSystemRuntimeCacheHandle(TCacheValue) Method (ConfigurationBuilderCachePart(TCacheValue), String, Boolean)" Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithSystemRuntimeCacheHandle__1_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ddf82747-fe13-400a-bc78-dffd9672ed24" Title="ICache(TCacheValue) Interface" Url="html/T_CacheManager_Core_ICache_1.htm">
-        <HelpTOCNode Id="9d889129-2242-46ea-a26f-6701411cea3b" Title="ICache(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_ICache_1.htm">
-          <HelpTOCNode Id="41f33b35-d34e-40c2-a412-f35cc86554ae" Title="Add Method " Url="html/Overload_CacheManager_Core_ICache_1_Add.htm">
+      <HelpTOCNode Id="4180f114-93be-4b01-8705-9be697757977" Title="ICache(TCacheValue) Interface" Url="html/T_CacheManager_Core_ICache_1.htm">
+        <HelpTOCNode Id="62c85f51-54d1-490f-8c99-45899478f257" Title="ICache(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_ICache_1.htm">
+          <HelpTOCNode Id="5d0e94b5-248b-42f5-91a1-0c5f7e1b922e" Title="Add Method " Url="html/Overload_CacheManager_Core_ICache_1_Add.htm">
             <HelpTOCNode Title="Add Method (CacheItem(TCacheValue))" Url="html/M_CacheManager_Core_ICache_1_Add.htm" />
             <HelpTOCNode Title="Add Method (String, TCacheValue)" Url="html/M_CacheManager_Core_ICache_1_Add_1.htm" />
             <HelpTOCNode Title="Add Method (String, TCacheValue, String)" Url="html/M_CacheManager_Core_ICache_1_Add_2.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="Clear Method " Url="html/M_CacheManager_Core_ICache_1_Clear.htm" />
           <HelpTOCNode Title="ClearRegion Method " Url="html/M_CacheManager_Core_ICache_1_ClearRegion.htm" />
-          <HelpTOCNode Id="30d67d74-a6c8-4a34-a20e-05fc43258202" Title="Get Method " Url="html/Overload_CacheManager_Core_ICache_1_Get.htm">
+          <HelpTOCNode Id="12b1e494-80e5-4dea-b14c-cd35079ae1d6" Title="Get Method " Url="html/Overload_CacheManager_Core_ICache_1_Get.htm">
             <HelpTOCNode Title="Get Method (String)" Url="html/M_CacheManager_Core_ICache_1_Get.htm" />
             <HelpTOCNode Title="Get(TOut) Method (String)" Url="html/M_CacheManager_Core_ICache_1_Get__1.htm" />
             <HelpTOCNode Title="Get Method (String, String)" Url="html/M_CacheManager_Core_ICache_1_Get_1.htm" />
             <HelpTOCNode Title="Get(TOut) Method (String, String)" Url="html/M_CacheManager_Core_ICache_1_Get__1_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="fe773546-2095-4e74-847c-1bd838e132f8" Title="GetCacheItem Method " Url="html/Overload_CacheManager_Core_ICache_1_GetCacheItem.htm">
+          <HelpTOCNode Id="d1a779a7-bada-4906-8162-2bb6a591a4bd" Title="GetCacheItem Method " Url="html/Overload_CacheManager_Core_ICache_1_GetCacheItem.htm">
             <HelpTOCNode Title="GetCacheItem Method (String)" Url="html/M_CacheManager_Core_ICache_1_GetCacheItem.htm" />
             <HelpTOCNode Title="GetCacheItem Method (String, String)" Url="html/M_CacheManager_Core_ICache_1_GetCacheItem_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="31173123-ed98-4c06-855c-025c2ce5b85f" Title="Put Method " Url="html/Overload_CacheManager_Core_ICache_1_Put.htm">
+          <HelpTOCNode Id="661b1a47-3075-49a6-a963-69fea870278a" Title="Put Method " Url="html/Overload_CacheManager_Core_ICache_1_Put.htm">
             <HelpTOCNode Title="Put Method (CacheItem(TCacheValue))" Url="html/M_CacheManager_Core_ICache_1_Put.htm" />
             <HelpTOCNode Title="Put Method (String, TCacheValue)" Url="html/M_CacheManager_Core_ICache_1_Put_1.htm" />
             <HelpTOCNode Title="Put Method (String, TCacheValue, String)" Url="html/M_CacheManager_Core_ICache_1_Put_2.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="dc1e0500-034e-4a8d-8fde-c767019d4ab6" Title="Remove Method " Url="html/Overload_CacheManager_Core_ICache_1_Remove.htm">
+          <HelpTOCNode Id="3f62037c-07e3-49db-8736-2e7fcc08b564" Title="Remove Method " Url="html/Overload_CacheManager_Core_ICache_1_Remove.htm">
             <HelpTOCNode Title="Remove Method (String)" Url="html/M_CacheManager_Core_ICache_1_Remove.htm" />
             <HelpTOCNode Title="Remove Method (String, String)" Url="html/M_CacheManager_Core_ICache_1_Remove_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="2d599cc6-d2f3-42fc-8c6d-2952b8b0e9da" Title="ICache(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_ICache_1.htm">
-          <HelpTOCNode Id="7a2689ec-4654-4254-8fc9-49728573537a" Title="Item Property " Url="html/Overload_CacheManager_Core_ICache_1_Item.htm">
+        <HelpTOCNode Id="99a4e621-e24c-462b-adbc-407fa27f0a72" Title="ICache(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_ICache_1.htm">
+          <HelpTOCNode Id="8b0b4577-8034-48ef-862e-fd48f8ada3b1" Title="Item Property " Url="html/Overload_CacheManager_Core_ICache_1_Item.htm">
             <HelpTOCNode Title="Item Property (String)" Url="html/P_CacheManager_Core_ICache_1_Item.htm" />
             <HelpTOCNode Title="Item Property (String, String)" Url="html/P_CacheManager_Core_ICache_1_Item_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="0337a341-0aed-4e78-b2a8-e858004385fe" Title="ICacheBackPlate Interface" Url="html/T_CacheManager_Core_ICacheBackPlate.htm">
-        <HelpTOCNode Id="f082e976-5828-466e-81d6-68ce02cd08b7" Title="ICacheBackPlate Methods" Url="html/Methods_T_CacheManager_Core_ICacheBackPlate.htm">
-          <HelpTOCNode Id="6ebe73a4-5136-47f9-808d-f9ec03fbe99d" Title="NotifyChange Method " Url="html/Overload_CacheManager_Core_ICacheBackPlate_NotifyChange.htm">
+      <HelpTOCNode Id="f4b97ab9-b62f-4af0-a4d5-671bc9ebd4e4" Title="ICacheBackPlate Interface" Url="html/T_CacheManager_Core_ICacheBackPlate.htm">
+        <HelpTOCNode Id="f6aca233-cf5d-4fa0-95cf-6bd3609fd788" Title="ICacheBackPlate Methods" Url="html/Methods_T_CacheManager_Core_ICacheBackPlate.htm">
+          <HelpTOCNode Id="3d4906b6-ab7e-4b41-b045-6cb8339cb582" Title="NotifyChange Method " Url="html/Overload_CacheManager_Core_ICacheBackPlate_NotifyChange.htm">
             <HelpTOCNode Title="NotifyChange Method (String)" Url="html/M_CacheManager_Core_ICacheBackPlate_NotifyChange.htm" />
             <HelpTOCNode Title="NotifyChange Method (String, String)" Url="html/M_CacheManager_Core_ICacheBackPlate_NotifyChange_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="NotifyClear Method " Url="html/M_CacheManager_Core_ICacheBackPlate_NotifyClear.htm" />
           <HelpTOCNode Title="NotifyClearRegion Method " Url="html/M_CacheManager_Core_ICacheBackPlate_NotifyClearRegion.htm" />
-          <HelpTOCNode Id="2bc85c42-470d-4f03-86e0-d78ec7746d0c" Title="NotifyRemove Method " Url="html/Overload_CacheManager_Core_ICacheBackPlate_NotifyRemove.htm">
+          <HelpTOCNode Id="d88061c0-305c-4ba7-a899-45a18a53babb" Title="NotifyRemove Method " Url="html/Overload_CacheManager_Core_ICacheBackPlate_NotifyRemove.htm">
             <HelpTOCNode Title="NotifyRemove Method (String)" Url="html/M_CacheManager_Core_ICacheBackPlate_NotifyRemove.htm" />
             <HelpTOCNode Title="NotifyRemove Method (String, String)" Url="html/M_CacheManager_Core_ICacheBackPlate_NotifyRemove_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="91cc3c7f-7d0b-4540-84c5-717b5e1ff1bd" Title="OnChange Method " Url="html/Overload_CacheManager_Core_ICacheBackPlate_OnChange.htm">
+          <HelpTOCNode Id="3ad92772-9f6f-4e58-9cca-a819e1c715c7" Title="OnChange Method " Url="html/Overload_CacheManager_Core_ICacheBackPlate_OnChange.htm">
             <HelpTOCNode Title="OnChange Method (String)" Url="html/M_CacheManager_Core_ICacheBackPlate_OnChange.htm" />
             <HelpTOCNode Title="OnChange Method (String, String)" Url="html/M_CacheManager_Core_ICacheBackPlate_OnChange_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="OnClear Method " Url="html/M_CacheManager_Core_ICacheBackPlate_OnClear.htm" />
           <HelpTOCNode Title="OnClearRegion Method " Url="html/M_CacheManager_Core_ICacheBackPlate_OnClearRegion.htm" />
-          <HelpTOCNode Id="61623de1-6dc3-4f4c-aae1-dad3e200ca45" Title="OnRemove Method " Url="html/Overload_CacheManager_Core_ICacheBackPlate_OnRemove.htm">
+          <HelpTOCNode Id="a1ce9596-7668-4a33-a2bd-443f2f87af8f" Title="OnRemove Method " Url="html/Overload_CacheManager_Core_ICacheBackPlate_OnRemove.htm">
             <HelpTOCNode Title="OnRemove Method (String)" Url="html/M_CacheManager_Core_ICacheBackPlate_OnRemove.htm" />
             <HelpTOCNode Title="OnRemove Method (String, String)" Url="html/M_CacheManager_Core_ICacheBackPlate_OnRemove_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="539522ad-888b-4dd0-a26e-562a705076fa" Title="SubscribeChanged Method " Url="html/Overload_CacheManager_Core_ICacheBackPlate_SubscribeChanged.htm">
+          <HelpTOCNode Id="566cd538-b370-468a-a82b-ffc75c2ddc4c" Title="SubscribeChanged Method " Url="html/Overload_CacheManager_Core_ICacheBackPlate_SubscribeChanged.htm">
             <HelpTOCNode Title="SubscribeChanged Method (Action(String))" Url="html/M_CacheManager_Core_ICacheBackPlate_SubscribeChanged.htm" />
             <HelpTOCNode Title="SubscribeChanged Method (Action(String, String))" Url="html/M_CacheManager_Core_ICacheBackPlate_SubscribeChanged_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="SubscribeClear Method " Url="html/M_CacheManager_Core_ICacheBackPlate_SubscribeClear.htm" />
           <HelpTOCNode Title="SubscribeClearRegion Method " Url="html/M_CacheManager_Core_ICacheBackPlate_SubscribeClearRegion.htm" />
-          <HelpTOCNode Id="b504f7a8-d343-4054-8cc8-78ecaf8d822c" Title="SubscribeRemove Method " Url="html/Overload_CacheManager_Core_ICacheBackPlate_SubscribeRemove.htm">
+          <HelpTOCNode Id="f09c7b5f-4450-436d-bbce-6464b37ed0c8" Title="SubscribeRemove Method " Url="html/Overload_CacheManager_Core_ICacheBackPlate_SubscribeRemove.htm">
             <HelpTOCNode Title="SubscribeRemove Method (Action(String))" Url="html/M_CacheManager_Core_ICacheBackPlate_SubscribeRemove.htm" />
             <HelpTOCNode Title="SubscribeRemove Method (Action(String, String))" Url="html/M_CacheManager_Core_ICacheBackPlate_SubscribeRemove_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="fbc2b06e-3c7b-419a-a2a7-81daf9d0339d" Title="ICacheBackPlate Properties" Url="html/Properties_T_CacheManager_Core_ICacheBackPlate.htm">
+        <HelpTOCNode Id="e37f0a45-0a12-4494-9c53-7d8846aaeb5b" Title="ICacheBackPlate Properties" Url="html/Properties_T_CacheManager_Core_ICacheBackPlate.htm">
           <HelpTOCNode Title="Configuration Property " Url="html/P_CacheManager_Core_ICacheBackPlate_Configuration.htm" />
           <HelpTOCNode Title="Name Property " Url="html/P_CacheManager_Core_ICacheBackPlate_Name.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="5d7ac5cd-0357-4408-908c-c6f33a8fd5c4" Title="ICacheHandle(TCacheValue) Interface" Url="html/T_CacheManager_Core_ICacheHandle_1.htm">
-        <HelpTOCNode Id="90abf5f1-ad70-4516-833e-9bcfbb1d47bc" Title="ICacheHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_ICacheHandle_1.htm">
-          <HelpTOCNode Id="3d235797-1be3-4380-bd18-2c9b58c5cd37" Title="Update Method " Url="html/Overload_CacheManager_Core_ICacheHandle_1_Update.htm">
+      <HelpTOCNode Id="2bf2a081-db40-40df-a5dd-1dc229b6a6e4" Title="ICacheHandle(TCacheValue) Interface" Url="html/T_CacheManager_Core_ICacheHandle_1.htm">
+        <HelpTOCNode Id="5d5077bd-2e2a-492b-81e2-8b4c845893ea" Title="ICacheHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_ICacheHandle_1.htm">
+          <HelpTOCNode Id="eccd6e95-f07d-4d4a-85eb-7307360cbcb0" Title="Update Method " Url="html/Overload_CacheManager_Core_ICacheHandle_1_Update.htm">
             <HelpTOCNode Title="Update Method (String, Func(TCacheValue, TCacheValue), UpdateItemConfig)" Url="html/M_CacheManager_Core_ICacheHandle_1_Update.htm" />
             <HelpTOCNode Title="Update Method (String, String, Func(TCacheValue, TCacheValue), UpdateItemConfig)" Url="html/M_CacheManager_Core_ICacheHandle_1_Update_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="86f730c9-640b-4fee-9b9b-d93868324e49" Title="ICacheHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_ICacheHandle_1.htm">
+        <HelpTOCNode Id="7000a861-7357-434e-bad7-b726ab7bd2ae" Title="ICacheHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_ICacheHandle_1.htm">
           <HelpTOCNode Title="Configuration Property " Url="html/P_CacheManager_Core_ICacheHandle_1_Configuration.htm" />
           <HelpTOCNode Title="Count Property " Url="html/P_CacheManager_Core_ICacheHandle_1_Count.htm" />
           <HelpTOCNode Title="Stats Property " Url="html/P_CacheManager_Core_ICacheHandle_1_Stats.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="02940ace-e8d3-4f36-b58b-1b7f6cf25f55" Title="ICacheManager(TCacheValue) Interface" Url="html/T_CacheManager_Core_ICacheManager_1.htm">
-        <HelpTOCNode Id="98941d62-9ed0-4aaf-863b-f534bb300168" Title="ICacheManager(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_ICacheManager_1.htm">
-          <HelpTOCNode Id="f1560869-3600-4af6-acb8-044d2f3ab3d9" Title="Update Method " Url="html/Overload_CacheManager_Core_ICacheManager_1_Update.htm">
+      <HelpTOCNode Id="3eaa051c-b3ec-4caf-b25c-1c887afda927" Title="ICacheManager(TCacheValue) Interface" Url="html/T_CacheManager_Core_ICacheManager_1.htm">
+        <HelpTOCNode Id="82479c98-d9ea-43ef-883b-b220517f9f39" Title="ICacheManager(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_ICacheManager_1.htm">
+          <HelpTOCNode Id="396565c5-8ada-426b-8e57-37dd6084617b" Title="Update Method " Url="html/Overload_CacheManager_Core_ICacheManager_1_Update.htm">
             <HelpTOCNode Title="Update Method (String, Func(TCacheValue, TCacheValue))" Url="html/M_CacheManager_Core_ICacheManager_1_Update.htm" />
             <HelpTOCNode Title="Update Method (String, Func(TCacheValue, TCacheValue), UpdateItemConfig)" Url="html/M_CacheManager_Core_ICacheManager_1_Update_1.htm" />
             <HelpTOCNode Title="Update Method (String, String, Func(TCacheValue, TCacheValue))" Url="html/M_CacheManager_Core_ICacheManager_1_Update_2.htm" />
             <HelpTOCNode Title="Update Method (String, String, Func(TCacheValue, TCacheValue), UpdateItemConfig)" Url="html/M_CacheManager_Core_ICacheManager_1_Update_3.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="ce011542-19e6-444f-adbc-6dcff3f49b74" Title="ICacheManager(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_ICacheManager_1.htm">
+        <HelpTOCNode Id="cde76b3f-9090-4b94-a868-70925d3efc65" Title="ICacheManager(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_ICacheManager_1.htm">
           <HelpTOCNode Title="CacheHandles Property " Url="html/P_CacheManager_Core_ICacheManager_1_CacheHandles.htm" />
           <HelpTOCNode Title="Configuration Property " Url="html/P_CacheManager_Core_ICacheManager_1_Configuration.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="1c602ab2-ead4-4403-bf01-fb16667d661b" Title="ICacheManager(TCacheValue) Events" Url="html/Events_T_CacheManager_Core_ICacheManager_1.htm">
+        <HelpTOCNode Id="4dc70d62-69ac-4c97-839e-4ad3c219bd2c" Title="ICacheManager(TCacheValue) Events" Url="html/Events_T_CacheManager_Core_ICacheManager_1.htm">
           <HelpTOCNode Title="OnAdd Event" Url="html/E_CacheManager_Core_ICacheManager_1_OnAdd.htm" />
           <HelpTOCNode Title="OnClear Event" Url="html/E_CacheManager_Core_ICacheManager_1_OnClear.htm" />
           <HelpTOCNode Title="OnClearRegion Event" Url="html/E_CacheManager_Core_ICacheManager_1_OnClearRegion.htm" />
@@ -213,22 +213,22 @@
           <HelpTOCNode Title="OnUpdate Event" Url="html/E_CacheManager_Core_ICacheManager_1_OnUpdate.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="34bdba64-af96-4099-a77d-3bf32f9a53e6" Title="UpdateItemConfig Class" Url="html/T_CacheManager_Core_UpdateItemConfig.htm">
-        <HelpTOCNode Id="6744ebf9-ee4c-4b05-8f90-958c5f9f5304" Title="UpdateItemConfig Constructor " Url="html/Overload_CacheManager_Core_UpdateItemConfig__ctor.htm">
+      <HelpTOCNode Id="3b38a66a-4c70-410e-b475-952c5eb847a2" Title="UpdateItemConfig Class" Url="html/T_CacheManager_Core_UpdateItemConfig.htm">
+        <HelpTOCNode Id="2ef983dc-1ac2-4352-be3c-ffeec3c9b3ae" Title="UpdateItemConfig Constructor " Url="html/Overload_CacheManager_Core_UpdateItemConfig__ctor.htm">
           <HelpTOCNode Title="UpdateItemConfig Constructor " Url="html/M_CacheManager_Core_UpdateItemConfig__ctor.htm" />
           <HelpTOCNode Title="UpdateItemConfig Constructor (VersionConflictHandling)" Url="html/M_CacheManager_Core_UpdateItemConfig__ctor_1.htm" />
           <HelpTOCNode Title="UpdateItemConfig Constructor (Int32, VersionConflictHandling)" Url="html/M_CacheManager_Core_UpdateItemConfig__ctor_2.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="UpdateItemConfig Methods" Url="html/Methods_T_CacheManager_Core_UpdateItemConfig.htm" />
-        <HelpTOCNode Id="6de565c5-6475-42bf-914e-4bb597ec2c72" Title="UpdateItemConfig Properties" Url="html/Properties_T_CacheManager_Core_UpdateItemConfig.htm">
+        <HelpTOCNode Id="654cec56-15b6-4c2e-b72f-98ff731cfdc3" Title="UpdateItemConfig Properties" Url="html/Properties_T_CacheManager_Core_UpdateItemConfig.htm">
           <HelpTOCNode Title="MaxRetries Property " Url="html/P_CacheManager_Core_UpdateItemConfig_MaxRetries.htm" />
           <HelpTOCNode Title="VersionConflictOperation Property " Url="html/P_CacheManager_Core_UpdateItemConfig_VersionConflictOperation.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="71b8c78e-b670-4dc5-a60d-bf3cbb9d1121" Title="UpdateItemResult Class" Url="html/T_CacheManager_Core_UpdateItemResult.htm">
+      <HelpTOCNode Id="c5c7fe9e-b95a-49f0-ba6f-bd061ea3a65c" Title="UpdateItemResult Class" Url="html/T_CacheManager_Core_UpdateItemResult.htm">
         <HelpTOCNode Title="UpdateItemResult Constructor " Url="html/M_CacheManager_Core_UpdateItemResult__ctor.htm" />
         <HelpTOCNode Title="UpdateItemResult Methods" Url="html/Methods_T_CacheManager_Core_UpdateItemResult.htm" />
-        <HelpTOCNode Id="5b1d0cfd-fbc3-4fb6-ab1a-08323a6c28d1" Title="UpdateItemResult Properties" Url="html/Properties_T_CacheManager_Core_UpdateItemResult.htm">
+        <HelpTOCNode Id="44bd750d-908f-45ec-ad4b-a603abcf9054" Title="UpdateItemResult Properties" Url="html/Properties_T_CacheManager_Core_UpdateItemResult.htm">
           <HelpTOCNode Title="NumberOfRetriesNeeded Property " Url="html/P_CacheManager_Core_UpdateItemResult_NumberOfRetriesNeeded.htm" />
           <HelpTOCNode Title="Success Property " Url="html/P_CacheManager_Core_UpdateItemResult_Success.htm" />
           <HelpTOCNode Title="VersionConflictOccurred Property " Url="html/P_CacheManager_Core_UpdateItemResult_VersionConflictOccurred.htm" />
@@ -236,34 +236,34 @@
       </HelpTOCNode>
       <HelpTOCNode Title="VersionConflictHandling Enumeration" Url="html/T_CacheManager_Core_VersionConflictHandling.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="81ef7d27-97f4-40a9-9f71-c758e589b626" Title="CacheManager.Core.Cache" Url="html/N_CacheManager_Core_Cache.htm">
+    <HelpTOCNode Id="86d2ed4a-37bb-42bc-a50e-e3426c9a2a0f" Title="CacheManager.Core.Cache" Url="html/N_CacheManager_Core_Cache.htm">
       <HelpTOCNode Title="BackPlateAction Enumeration" Url="html/T_CacheManager_Core_Cache_BackPlateAction.htm" />
-      <HelpTOCNode Id="2a946629-de70-430e-9df1-cc97c57bf9eb" Title="BackPlateMessage Class" Url="html/T_CacheManager_Core_Cache_BackPlateMessage.htm">
-        <HelpTOCNode Id="765f348e-b58f-4a85-863f-5a8c62a3cdda" Title="BackPlateMessage Methods" Url="html/Methods_T_CacheManager_Core_Cache_BackPlateMessage.htm">
+      <HelpTOCNode Id="f9e9c7d0-ef16-46f7-b00c-f84883f690c5" Title="BackPlateMessage Class" Url="html/T_CacheManager_Core_Cache_BackPlateMessage.htm">
+        <HelpTOCNode Id="caecf0f1-8b7b-452c-b0b8-eef370c487f8" Title="BackPlateMessage Methods" Url="html/Methods_T_CacheManager_Core_Cache_BackPlateMessage.htm">
           <HelpTOCNode Title="Deserialize Method " Url="html/M_CacheManager_Core_Cache_BackPlateMessage_Deserialize.htm" />
-          <HelpTOCNode Id="8896a6d3-524d-439c-b93a-81cfb647cdb5" Title="ForChanged Method " Url="html/Overload_CacheManager_Core_Cache_BackPlateMessage_ForChanged.htm">
+          <HelpTOCNode Id="a596df18-adac-4029-b28b-0bfa9437f448" Title="ForChanged Method " Url="html/Overload_CacheManager_Core_Cache_BackPlateMessage_ForChanged.htm">
             <HelpTOCNode Title="ForChanged Method (String, String)" Url="html/M_CacheManager_Core_Cache_BackPlateMessage_ForChanged.htm" />
             <HelpTOCNode Title="ForChanged Method (String, String, String)" Url="html/M_CacheManager_Core_Cache_BackPlateMessage_ForChanged_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="ForClear Method " Url="html/M_CacheManager_Core_Cache_BackPlateMessage_ForClear.htm" />
           <HelpTOCNode Title="ForClearRegion Method " Url="html/M_CacheManager_Core_Cache_BackPlateMessage_ForClearRegion.htm" />
-          <HelpTOCNode Id="617e35fd-2814-466b-9ae4-d98dc66bd01c" Title="ForRemoved Method " Url="html/Overload_CacheManager_Core_Cache_BackPlateMessage_ForRemoved.htm">
+          <HelpTOCNode Id="13f1c2af-533d-467f-9ff7-c319914bc019" Title="ForRemoved Method " Url="html/Overload_CacheManager_Core_Cache_BackPlateMessage_ForRemoved.htm">
             <HelpTOCNode Title="ForRemoved Method (String, String)" Url="html/M_CacheManager_Core_Cache_BackPlateMessage_ForRemoved.htm" />
             <HelpTOCNode Title="ForRemoved Method (String, String, String)" Url="html/M_CacheManager_Core_Cache_BackPlateMessage_ForRemoved_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="Serialize Method " Url="html/M_CacheManager_Core_Cache_BackPlateMessage_Serialize.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8bbaca30-42e5-483f-a6bf-23194b1808b0" Title="BackPlateMessage Properties" Url="html/Properties_T_CacheManager_Core_Cache_BackPlateMessage.htm">
+        <HelpTOCNode Id="c258968c-8893-4f68-ae2e-9217619a4094" Title="BackPlateMessage Properties" Url="html/Properties_T_CacheManager_Core_Cache_BackPlateMessage.htm">
           <HelpTOCNode Title="Action Property " Url="html/P_CacheManager_Core_Cache_BackPlateMessage_Action.htm" />
           <HelpTOCNode Title="Key Property " Url="html/P_CacheManager_Core_Cache_BackPlateMessage_Key.htm" />
           <HelpTOCNode Title="OwnerIdentity Property " Url="html/P_CacheManager_Core_Cache_BackPlateMessage_OwnerIdentity.htm" />
           <HelpTOCNode Title="Region Property " Url="html/P_CacheManager_Core_Cache_BackPlateMessage_Region.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ea7fecce-a239-4fcb-b663-d300d5e1a70c" Title="BaseCache(TCacheValue) Class" Url="html/T_CacheManager_Core_Cache_BaseCache_1.htm">
+      <HelpTOCNode Id="f7f90d03-1fde-42ae-a63b-477359eb8c0a" Title="BaseCache(TCacheValue) Class" Url="html/T_CacheManager_Core_Cache_BaseCache_1.htm">
         <HelpTOCNode Title="BaseCache(TCacheValue) Constructor " Url="html/M_CacheManager_Core_Cache_BaseCache_1__ctor.htm" />
-        <HelpTOCNode Id="38920730-efd3-4110-8e28-72ab5318aeda" Title="BaseCache(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_Cache_BaseCache_1.htm">
-          <HelpTOCNode Id="8e4b6b0e-807d-44dc-a880-dd72e655e1dc" Title="Add Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_Add.htm">
+        <HelpTOCNode Id="7906234f-0399-4c21-a569-305bbb55f12e" Title="BaseCache(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_Cache_BaseCache_1.htm">
+          <HelpTOCNode Id="184b0fe9-af1c-4a9b-97e9-cafbf6b6f0e3" Title="Add Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_Add.htm">
             <HelpTOCNode Title="Add Method (CacheItem(TCacheValue))" Url="html/M_CacheManager_Core_Cache_BaseCache_1_Add.htm" />
             <HelpTOCNode Title="Add Method (String, TCacheValue)" Url="html/M_CacheManager_Core_Cache_BaseCache_1_Add_1.htm" />
             <HelpTOCNode Title="Add Method (String, TCacheValue, String)" Url="html/M_CacheManager_Core_Cache_BaseCache_1_Add_2.htm" />
@@ -271,90 +271,90 @@
           <HelpTOCNode Title="AddInternal Method " Url="html/M_CacheManager_Core_Cache_BaseCache_1_AddInternal.htm" />
           <HelpTOCNode Title="Clear Method " Url="html/M_CacheManager_Core_Cache_BaseCache_1_Clear.htm" />
           <HelpTOCNode Title="ClearRegion Method " Url="html/M_CacheManager_Core_Cache_BaseCache_1_ClearRegion.htm" />
-          <HelpTOCNode Id="70593ce3-f78a-4b01-b93e-d81e77791315" Title="Dispose Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_Dispose.htm">
+          <HelpTOCNode Id="21a52000-234f-4ceb-a4f2-fd4f83471f03" Title="Dispose Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_Dispose.htm">
             <HelpTOCNode Title="Dispose Method " Url="html/M_CacheManager_Core_Cache_BaseCache_1_Dispose.htm" />
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_CacheManager_Core_Cache_BaseCache_1_Dispose_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="Finalize Method " Url="html/M_CacheManager_Core_Cache_BaseCache_1_Finalize.htm" />
-          <HelpTOCNode Id="78df2bc3-116d-4052-b722-07028abe34c3" Title="Get Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_Get.htm">
+          <HelpTOCNode Id="86011588-5ca6-4ade-94bc-57a081c25974" Title="Get Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_Get.htm">
             <HelpTOCNode Title="Get Method (String)" Url="html/M_CacheManager_Core_Cache_BaseCache_1_Get.htm" />
             <HelpTOCNode Title="Get(TOut) Method (String)" Url="html/M_CacheManager_Core_Cache_BaseCache_1_Get__1.htm" />
             <HelpTOCNode Title="Get Method (String, String)" Url="html/M_CacheManager_Core_Cache_BaseCache_1_Get_1.htm" />
             <HelpTOCNode Title="Get(TOut) Method (String, String)" Url="html/M_CacheManager_Core_Cache_BaseCache_1_Get__1_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="2ed0d333-8576-460a-bfe5-3372beaae75c" Title="GetCacheItem Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_GetCacheItem.htm">
+          <HelpTOCNode Id="f60a9246-23ef-484b-8114-b15ce012517c" Title="GetCacheItem Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_GetCacheItem.htm">
             <HelpTOCNode Title="GetCacheItem Method (String)" Url="html/M_CacheManager_Core_Cache_BaseCache_1_GetCacheItem.htm" />
             <HelpTOCNode Title="GetCacheItem Method (String, String)" Url="html/M_CacheManager_Core_Cache_BaseCache_1_GetCacheItem_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="e26b3a03-2b81-496a-87a3-d0045dd12fb9" Title="GetCacheItemInternal Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_GetCacheItemInternal.htm">
+          <HelpTOCNode Id="dc664366-08c9-46d6-9617-7038f4346db8" Title="GetCacheItemInternal Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_GetCacheItemInternal.htm">
             <HelpTOCNode Title="GetCacheItemInternal Method (String)" Url="html/M_CacheManager_Core_Cache_BaseCache_1_GetCacheItemInternal.htm" />
             <HelpTOCNode Title="GetCacheItemInternal Method (String, String)" Url="html/M_CacheManager_Core_Cache_BaseCache_1_GetCacheItemInternal_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="c8aa0567-574f-4d2e-bf69-d9b7addec22d" Title="Put Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_Put.htm">
+          <HelpTOCNode Id="919a7490-ad48-47ca-a45e-780b9a681f10" Title="Put Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_Put.htm">
             <HelpTOCNode Title="Put Method (CacheItem(TCacheValue))" Url="html/M_CacheManager_Core_Cache_BaseCache_1_Put.htm" />
             <HelpTOCNode Title="Put Method (String, TCacheValue)" Url="html/M_CacheManager_Core_Cache_BaseCache_1_Put_1.htm" />
             <HelpTOCNode Title="Put Method (String, TCacheValue, String)" Url="html/M_CacheManager_Core_Cache_BaseCache_1_Put_2.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="PutInternal Method " Url="html/M_CacheManager_Core_Cache_BaseCache_1_PutInternal.htm" />
-          <HelpTOCNode Id="47e723d3-008b-4ca8-955a-ad56dc63e7c3" Title="Remove Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_Remove.htm">
+          <HelpTOCNode Id="f2a1567c-2549-4657-8a49-362558169f17" Title="Remove Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_Remove.htm">
             <HelpTOCNode Title="Remove Method (String)" Url="html/M_CacheManager_Core_Cache_BaseCache_1_Remove.htm" />
             <HelpTOCNode Title="Remove Method (String, String)" Url="html/M_CacheManager_Core_Cache_BaseCache_1_Remove_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="086d63a8-0d23-47e1-83ae-b7acaa3c32d9" Title="RemoveInternal Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_RemoveInternal.htm">
+          <HelpTOCNode Id="030f4c32-832d-46da-9439-1f577fe3d1cd" Title="RemoveInternal Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_RemoveInternal.htm">
             <HelpTOCNode Title="RemoveInternal Method (String)" Url="html/M_CacheManager_Core_Cache_BaseCache_1_RemoveInternal.htm" />
             <HelpTOCNode Title="RemoveInternal Method (String, String)" Url="html/M_CacheManager_Core_Cache_BaseCache_1_RemoveInternal_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="0661a320-0cb3-49e5-9775-08034cf93ba8" Title="BaseCache(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_Cache_BaseCache_1.htm">
+        <HelpTOCNode Id="cc0096b7-6b69-4d65-ba82-b67a93f61a31" Title="BaseCache(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_Cache_BaseCache_1.htm">
           <HelpTOCNode Title="Disposed Property " Url="html/P_CacheManager_Core_Cache_BaseCache_1_Disposed.htm" />
           <HelpTOCNode Title="Disposing Property " Url="html/P_CacheManager_Core_Cache_BaseCache_1_Disposing.htm" />
-          <HelpTOCNode Id="fc7ca9db-3765-4461-b2f0-8c630abb1470" Title="Item Property " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_Item.htm">
+          <HelpTOCNode Id="e9795fa4-2f65-47af-87ae-9760e78b92f8" Title="Item Property " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_Item.htm">
             <HelpTOCNode Title="Item Property (String)" Url="html/P_CacheManager_Core_Cache_BaseCache_1_Item.htm" />
             <HelpTOCNode Title="Item Property (String, String)" Url="html/P_CacheManager_Core_Cache_BaseCache_1_Item_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="3cf1c0ce-2d96-4d00-894c-246c25496bd1" Title="BaseCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_Core_Cache_BaseCacheHandle_1.htm">
+      <HelpTOCNode Id="b992a79b-9c7a-4556-af25-ee73eda7fc6e" Title="BaseCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_Core_Cache_BaseCacheHandle_1.htm">
         <HelpTOCNode Title="BaseCacheHandle(TCacheValue) Constructor " Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1__ctor.htm" />
-        <HelpTOCNode Id="5be8f759-bc58-4e3a-8c9f-acd54a0ad59a" Title="BaseCacheHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_Cache_BaseCacheHandle_1.htm">
+        <HelpTOCNode Id="ee4e263a-0aa2-4bb0-bd54-8c33c925770b" Title="BaseCacheHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_Cache_BaseCacheHandle_1.htm">
           <HelpTOCNode Title="AddInternal Method " Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1_AddInternal.htm" />
           <HelpTOCNode Title="AddInternalPrepared Method " Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1_AddInternalPrepared.htm" />
-          <HelpTOCNode Id="7a4aba42-13db-470f-8bde-62bcb0e57c7c" Title="Dispose Method " Url="html/Overload_CacheManager_Core_Cache_BaseCacheHandle_1_Dispose.htm">
+          <HelpTOCNode Id="f0358ae6-3a20-4a24-9957-5a3beb678365" Title="Dispose Method " Url="html/Overload_CacheManager_Core_Cache_BaseCacheHandle_1_Dispose.htm">
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1_Dispose.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="GetItemExpiration Method " Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1_GetItemExpiration.htm" />
           <HelpTOCNode Title="PutInternal Method " Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1_PutInternal.htm" />
           <HelpTOCNode Title="PutInternalPrepared Method " Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1_PutInternalPrepared.htm" />
-          <HelpTOCNode Id="12e6a509-a7d9-4a9b-b463-89440a573732" Title="Update Method " Url="html/Overload_CacheManager_Core_Cache_BaseCacheHandle_1_Update.htm">
+          <HelpTOCNode Id="5e1f2c89-694e-4369-9a87-203996175b5a" Title="Update Method " Url="html/Overload_CacheManager_Core_Cache_BaseCacheHandle_1_Update.htm">
             <HelpTOCNode Title="Update Method (String, Func(TCacheValue, TCacheValue), UpdateItemConfig)" Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1_Update.htm" />
             <HelpTOCNode Title="Update Method (String, String, Func(TCacheValue, TCacheValue), UpdateItemConfig)" Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1_Update_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="05b6bc4a-36fb-417b-a1dd-44f4455902bf" Title="BaseCacheHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_Cache_BaseCacheHandle_1.htm">
+        <HelpTOCNode Id="239fea6c-d27e-44d6-85d4-6845b077dde1" Title="BaseCacheHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_Cache_BaseCacheHandle_1.htm">
           <HelpTOCNode Title="Configuration Property " Url="html/P_CacheManager_Core_Cache_BaseCacheHandle_1_Configuration.htm" />
           <HelpTOCNode Title="Count Property " Url="html/P_CacheManager_Core_Cache_BaseCacheHandle_1_Count.htm" />
           <HelpTOCNode Title="Manager Property " Url="html/P_CacheManager_Core_Cache_BaseCacheHandle_1_Manager.htm" />
           <HelpTOCNode Title="Stats Property " Url="html/P_CacheManager_Core_Cache_BaseCacheHandle_1_Stats.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="c0d4f952-6aa3-49e3-83d6-2f55fc2048bc" Title="BaseCacheManager(TCacheValue) Class" Url="html/T_CacheManager_Core_Cache_BaseCacheManager_1.htm">
+      <HelpTOCNode Id="a3cae815-c61b-450a-b8d1-9ae237d0c07a" Title="BaseCacheManager(TCacheValue) Class" Url="html/T_CacheManager_Core_Cache_BaseCacheManager_1.htm">
         <HelpTOCNode Title="BaseCacheManager(TCacheValue) Constructor " Url="html/M_CacheManager_Core_Cache_BaseCacheManager_1__ctor.htm" />
-        <HelpTOCNode Id="92c21b10-1be4-437d-88db-7ac4942b5e2a" Title="BaseCacheManager(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_Cache_BaseCacheManager_1.htm">
+        <HelpTOCNode Id="87b58661-98e7-4b56-84d2-a40eafb1b55d" Title="BaseCacheManager(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_Cache_BaseCacheManager_1.htm">
           <HelpTOCNode Title="AddCacheHandle Method " Url="html/M_CacheManager_Core_Cache_BaseCacheManager_1_AddCacheHandle.htm" />
           <HelpTOCNode Title="Clear Method " Url="html/M_CacheManager_Core_Cache_BaseCacheManager_1_Clear.htm" />
           <HelpTOCNode Title="ClearRegion Method " Url="html/M_CacheManager_Core_Cache_BaseCacheManager_1_ClearRegion.htm" />
-          <HelpTOCNode Id="51c321b7-e6b7-461a-9b01-3dd26b7ac24a" Title="Update Method " Url="html/Overload_CacheManager_Core_Cache_BaseCacheManager_1_Update.htm">
+          <HelpTOCNode Id="0b1fb247-06c2-4a91-87f3-78b9cfc2b390" Title="Update Method " Url="html/Overload_CacheManager_Core_Cache_BaseCacheManager_1_Update.htm">
             <HelpTOCNode Title="Update Method (String, Func(TCacheValue, TCacheValue))" Url="html/M_CacheManager_Core_Cache_BaseCacheManager_1_Update.htm" />
             <HelpTOCNode Title="Update Method (String, Func(TCacheValue, TCacheValue), UpdateItemConfig)" Url="html/M_CacheManager_Core_Cache_BaseCacheManager_1_Update_1.htm" />
             <HelpTOCNode Title="Update Method (String, String, Func(TCacheValue, TCacheValue))" Url="html/M_CacheManager_Core_Cache_BaseCacheManager_1_Update_2.htm" />
             <HelpTOCNode Title="Update Method (String, String, Func(TCacheValue, TCacheValue), UpdateItemConfig)" Url="html/M_CacheManager_Core_Cache_BaseCacheManager_1_Update_3.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="95f4e4fe-e2a1-4719-b5ca-caaa653f96d5" Title="BaseCacheManager(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_Cache_BaseCacheManager_1.htm">
+        <HelpTOCNode Id="18bf623f-4865-4e2c-9d27-fc08bcb69dee" Title="BaseCacheManager(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_Cache_BaseCacheManager_1.htm">
           <HelpTOCNode Title="CacheHandles Property " Url="html/P_CacheManager_Core_Cache_BaseCacheManager_1_CacheHandles.htm" />
           <HelpTOCNode Title="Configuration Property " Url="html/P_CacheManager_Core_Cache_BaseCacheManager_1_Configuration.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="6f6d7cd1-bc41-4c59-8557-22202423c54e" Title="BaseCacheManager(TCacheValue) Events" Url="html/Events_T_CacheManager_Core_Cache_BaseCacheManager_1.htm">
+        <HelpTOCNode Id="d655f874-6e4b-4a91-977d-38b17347d978" Title="BaseCacheManager(TCacheValue) Events" Url="html/Events_T_CacheManager_Core_Cache_BaseCacheManager_1.htm">
           <HelpTOCNode Title="OnAdd Event" Url="html/E_CacheManager_Core_Cache_BaseCacheManager_1_OnAdd.htm" />
           <HelpTOCNode Title="OnClear Event" Url="html/E_CacheManager_Core_Cache_BaseCacheManager_1_OnClear.htm" />
           <HelpTOCNode Title="OnClearRegion Event" Url="html/E_CacheManager_Core_Cache_BaseCacheManager_1_OnClearRegion.htm" />
@@ -364,74 +364,74 @@
           <HelpTOCNode Title="OnUpdate Event" Url="html/E_CacheManager_Core_Cache_BaseCacheManager_1_OnUpdate.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="40099da4-2bca-43dd-acd4-7800e5e2a7c5" Title="CacheActionEventArgs Class" Url="html/T_CacheManager_Core_Cache_CacheActionEventArgs.htm">
+      <HelpTOCNode Id="61dfd37a-a16b-4106-8287-2214185cf109" Title="CacheActionEventArgs Class" Url="html/T_CacheManager_Core_Cache_CacheActionEventArgs.htm">
         <HelpTOCNode Title="CacheActionEventArgs Constructor " Url="html/M_CacheManager_Core_Cache_CacheActionEventArgs__ctor.htm" />
         <HelpTOCNode Title="CacheActionEventArgs Methods" Url="html/Methods_T_CacheManager_Core_Cache_CacheActionEventArgs.htm" />
-        <HelpTOCNode Id="7f43dcb9-1eac-4682-a987-d5f01f416f4c" Title="CacheActionEventArgs Properties" Url="html/Properties_T_CacheManager_Core_Cache_CacheActionEventArgs.htm">
+        <HelpTOCNode Id="12c0d764-1fae-4046-894b-e6ea07eea834" Title="CacheActionEventArgs Properties" Url="html/Properties_T_CacheManager_Core_Cache_CacheActionEventArgs.htm">
           <HelpTOCNode Title="Key Property " Url="html/P_CacheManager_Core_Cache_CacheActionEventArgs_Key.htm" />
           <HelpTOCNode Title="Region Property " Url="html/P_CacheManager_Core_Cache_CacheActionEventArgs_Region.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ec2c5282-f98e-4dc9-acf5-3c78928df0cf" Title="CacheBackPlate Class" Url="html/T_CacheManager_Core_Cache_CacheBackPlate.htm">
+      <HelpTOCNode Id="2ec8781f-bd3a-4c21-b943-172abfc20269" Title="CacheBackPlate Class" Url="html/T_CacheManager_Core_Cache_CacheBackPlate.htm">
         <HelpTOCNode Title="CacheBackPlate Constructor " Url="html/M_CacheManager_Core_Cache_CacheBackPlate__ctor.htm" />
-        <HelpTOCNode Id="6e6efc21-915c-436c-9124-bd68d0fbf5c4" Title="CacheBackPlate Methods" Url="html/Methods_T_CacheManager_Core_Cache_CacheBackPlate.htm">
-          <HelpTOCNode Id="b14e0788-60f3-4541-9ba2-5d1b0f86b93f" Title="Dispose Method " Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_Dispose.htm">
+        <HelpTOCNode Id="a445cb5e-dc57-406e-a24c-b15af2fd230a" Title="CacheBackPlate Methods" Url="html/Methods_T_CacheManager_Core_Cache_CacheBackPlate.htm">
+          <HelpTOCNode Id="00a6aea7-b247-422e-ae98-8070da02e227" Title="Dispose Method " Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_Dispose.htm">
             <HelpTOCNode Title="Dispose Method " Url="html/M_CacheManager_Core_Cache_CacheBackPlate_Dispose.htm" />
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_CacheManager_Core_Cache_CacheBackPlate_Dispose_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="Finalize Method " Url="html/M_CacheManager_Core_Cache_CacheBackPlate_Finalize.htm" />
-          <HelpTOCNode Id="73ac3057-6a02-4a05-a9b4-9f53ae430d09" Title="NotifyChange Method " Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_NotifyChange.htm">
+          <HelpTOCNode Id="82520440-f63d-41ec-909b-99356871953c" Title="NotifyChange Method " Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_NotifyChange.htm">
             <HelpTOCNode Title="NotifyChange Method (String)" Url="html/M_CacheManager_Core_Cache_CacheBackPlate_NotifyChange.htm" />
             <HelpTOCNode Title="NotifyChange Method (String, String)" Url="html/M_CacheManager_Core_Cache_CacheBackPlate_NotifyChange_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="NotifyClear Method " Url="html/M_CacheManager_Core_Cache_CacheBackPlate_NotifyClear.htm" />
           <HelpTOCNode Title="NotifyClearRegion Method " Url="html/M_CacheManager_Core_Cache_CacheBackPlate_NotifyClearRegion.htm" />
-          <HelpTOCNode Id="fe51b5f5-72eb-4055-b2f3-07af5e16fca7" Title="NotifyRemove Method " Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_NotifyRemove.htm">
+          <HelpTOCNode Id="877d6490-2ac1-4e81-8709-75a9b2164f1f" Title="NotifyRemove Method " Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_NotifyRemove.htm">
             <HelpTOCNode Title="NotifyRemove Method (String)" Url="html/M_CacheManager_Core_Cache_CacheBackPlate_NotifyRemove.htm" />
             <HelpTOCNode Title="NotifyRemove Method (String, String)" Url="html/M_CacheManager_Core_Cache_CacheBackPlate_NotifyRemove_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="64152004-cada-4abe-b4d2-6ac50305bbab" Title="OnChange Method " Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_OnChange.htm">
+          <HelpTOCNode Id="3f5062ed-fc38-4fbd-bdfd-34437bf18d0a" Title="OnChange Method " Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_OnChange.htm">
             <HelpTOCNode Title="OnChange Method (String)" Url="html/M_CacheManager_Core_Cache_CacheBackPlate_OnChange.htm" />
             <HelpTOCNode Title="OnChange Method (String, String)" Url="html/M_CacheManager_Core_Cache_CacheBackPlate_OnChange_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="OnClear Method " Url="html/M_CacheManager_Core_Cache_CacheBackPlate_OnClear.htm" />
           <HelpTOCNode Title="OnClearRegion Method " Url="html/M_CacheManager_Core_Cache_CacheBackPlate_OnClearRegion.htm" />
-          <HelpTOCNode Id="ca187ffa-c41c-4233-ba0b-3b763b22bafe" Title="OnRemove Method " Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_OnRemove.htm">
+          <HelpTOCNode Id="0438f634-0c47-4fd1-88aa-1f75546a4901" Title="OnRemove Method " Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_OnRemove.htm">
             <HelpTOCNode Title="OnRemove Method (String)" Url="html/M_CacheManager_Core_Cache_CacheBackPlate_OnRemove.htm" />
             <HelpTOCNode Title="OnRemove Method (String, String)" Url="html/M_CacheManager_Core_Cache_CacheBackPlate_OnRemove_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="2d119219-a173-4745-a1e2-675437015d3b" Title="SubscribeChanged Method " Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_SubscribeChanged.htm">
+          <HelpTOCNode Id="f37e3835-2141-4ad9-8431-1c092474e56a" Title="SubscribeChanged Method " Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_SubscribeChanged.htm">
             <HelpTOCNode Title="SubscribeChanged Method (Action(String))" Url="html/M_CacheManager_Core_Cache_CacheBackPlate_SubscribeChanged.htm" />
             <HelpTOCNode Title="SubscribeChanged Method (Action(String, String))" Url="html/M_CacheManager_Core_Cache_CacheBackPlate_SubscribeChanged_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="SubscribeClear Method " Url="html/M_CacheManager_Core_Cache_CacheBackPlate_SubscribeClear.htm" />
           <HelpTOCNode Title="SubscribeClearRegion Method " Url="html/M_CacheManager_Core_Cache_CacheBackPlate_SubscribeClearRegion.htm" />
-          <HelpTOCNode Id="480897d6-0aa1-41cb-aefd-e5f868a0d7b0" Title="SubscribeRemove Method " Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_SubscribeRemove.htm">
+          <HelpTOCNode Id="9b74196f-f6a0-457c-81fc-023a210723b6" Title="SubscribeRemove Method " Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_SubscribeRemove.htm">
             <HelpTOCNode Title="SubscribeRemove Method (Action(String))" Url="html/M_CacheManager_Core_Cache_CacheBackPlate_SubscribeRemove.htm" />
             <HelpTOCNode Title="SubscribeRemove Method (Action(String, String))" Url="html/M_CacheManager_Core_Cache_CacheBackPlate_SubscribeRemove_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="3d16b5d4-ee24-4170-b6c3-1882fa4a6416" Title="CacheBackPlate Properties" Url="html/Properties_T_CacheManager_Core_Cache_CacheBackPlate.htm">
+        <HelpTOCNode Id="bb8b2cae-75d6-4a5b-97fd-5f0a0c6e3517" Title="CacheBackPlate Properties" Url="html/Properties_T_CacheManager_Core_Cache_CacheBackPlate.htm">
           <HelpTOCNode Title="Configuration Property " Url="html/P_CacheManager_Core_Cache_CacheBackPlate_Configuration.htm" />
           <HelpTOCNode Title="Name Property " Url="html/P_CacheManager_Core_Cache_CacheBackPlate_Name.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="afdf3979-fbab-4343-8e3f-ed27d397fdd1" Title="CacheClearEventArgs Class" Url="html/T_CacheManager_Core_Cache_CacheClearEventArgs.htm">
+      <HelpTOCNode Id="8af4f4dc-33a4-4feb-a8d6-aa23c9c64bfc" Title="CacheClearEventArgs Class" Url="html/T_CacheManager_Core_Cache_CacheClearEventArgs.htm">
         <HelpTOCNode Title="CacheClearEventArgs Constructor " Url="html/M_CacheManager_Core_Cache_CacheClearEventArgs__ctor.htm" />
         <HelpTOCNode Title="CacheClearEventArgs Methods" Url="html/Methods_T_CacheManager_Core_Cache_CacheClearEventArgs.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="97d43932-a017-4de5-97e1-e70eeced1af9" Title="CacheClearRegionEventArgs Class" Url="html/T_CacheManager_Core_Cache_CacheClearRegionEventArgs.htm">
+      <HelpTOCNode Id="6cc1058e-5a87-4e06-8b07-8146a5f8e9fe" Title="CacheClearRegionEventArgs Class" Url="html/T_CacheManager_Core_Cache_CacheClearRegionEventArgs.htm">
         <HelpTOCNode Title="CacheClearRegionEventArgs Constructor " Url="html/M_CacheManager_Core_Cache_CacheClearRegionEventArgs__ctor.htm" />
         <HelpTOCNode Title="CacheClearRegionEventArgs Methods" Url="html/Methods_T_CacheManager_Core_Cache_CacheClearRegionEventArgs.htm" />
-        <HelpTOCNode Id="6e323988-8b37-473b-a191-ff1c9bf096af" Title="CacheClearRegionEventArgs Properties" Url="html/Properties_T_CacheManager_Core_Cache_CacheClearRegionEventArgs.htm">
+        <HelpTOCNode Id="e6a2a177-a908-49eb-9136-d5fd3d3e956a" Title="CacheClearRegionEventArgs Properties" Url="html/Properties_T_CacheManager_Core_Cache_CacheClearRegionEventArgs.htm">
           <HelpTOCNode Title="Region Property " Url="html/P_CacheManager_Core_Cache_CacheClearRegionEventArgs_Region.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="24793aaf-80f8-43d9-9bfa-a30d81580917" Title="CacheStats(T) Class" Url="html/T_CacheManager_Core_Cache_CacheStats_1.htm">
+      <HelpTOCNode Id="1ff67957-20d2-4d2e-844e-8520a2e9d658" Title="CacheStats(T) Class" Url="html/T_CacheManager_Core_Cache_CacheStats_1.htm">
         <HelpTOCNode Title="CacheStats(T) Constructor " Url="html/M_CacheManager_Core_Cache_CacheStats_1__ctor.htm" />
-        <HelpTOCNode Id="9e88c4b9-243e-482a-ba32-da8d4892b211" Title="CacheStats(T) Methods" Url="html/Methods_T_CacheManager_Core_Cache_CacheStats_1.htm">
+        <HelpTOCNode Id="d4387a84-a809-4047-93c3-2657361857c6" Title="CacheStats(T) Methods" Url="html/Methods_T_CacheManager_Core_Cache_CacheStats_1.htm">
           <HelpTOCNode Title="Dispose Method " Url="html/M_CacheManager_Core_Cache_CacheStats_1_Dispose.htm" />
-          <HelpTOCNode Id="2e743509-6bb6-4486-91ac-edb171263dd4" Title="GetStatistic Method " Url="html/Overload_CacheManager_Core_Cache_CacheStats_1_GetStatistic.htm">
+          <HelpTOCNode Id="e3e73f19-03e6-43a4-95cb-782ed18a3169" Title="GetStatistic Method " Url="html/Overload_CacheManager_Core_Cache_CacheStats_1_GetStatistic.htm">
             <HelpTOCNode Title="GetStatistic Method (CacheStatsCounterType)" Url="html/M_CacheManager_Core_Cache_CacheStats_1_GetStatistic.htm" />
             <HelpTOCNode Title="GetStatistic Method (CacheStatsCounterType, String)" Url="html/M_CacheManager_Core_Cache_CacheStats_1_GetStatistic_1.htm" />
           </HelpTOCNode>
@@ -447,50 +447,50 @@
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="CacheStatsCounterType Enumeration" Url="html/T_CacheManager_Core_Cache_CacheStatsCounterType.htm" />
-      <HelpTOCNode Id="34b201c9-7574-4d9a-bef4-15fa1758e72f" Title="CacheUpdateEventArgs Class" Url="html/T_CacheManager_Core_Cache_CacheUpdateEventArgs.htm">
+      <HelpTOCNode Id="bde7cceb-9d25-4024-84fe-be59427141ea" Title="CacheUpdateEventArgs Class" Url="html/T_CacheManager_Core_Cache_CacheUpdateEventArgs.htm">
         <HelpTOCNode Title="CacheUpdateEventArgs Constructor " Url="html/M_CacheManager_Core_Cache_CacheUpdateEventArgs__ctor.htm" />
         <HelpTOCNode Title="CacheUpdateEventArgs Methods" Url="html/Methods_T_CacheManager_Core_Cache_CacheUpdateEventArgs.htm" />
-        <HelpTOCNode Id="d9a972cd-0b65-49cb-b0a9-7daf3204b1b8" Title="CacheUpdateEventArgs Properties" Url="html/Properties_T_CacheManager_Core_Cache_CacheUpdateEventArgs.htm">
+        <HelpTOCNode Id="33c85902-91e6-48c5-8894-130fe6fa5baf" Title="CacheUpdateEventArgs Properties" Url="html/Properties_T_CacheManager_Core_Cache_CacheUpdateEventArgs.htm">
           <HelpTOCNode Title="Config Property " Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_Config.htm" />
           <HelpTOCNode Title="Key Property " Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_Key.htm" />
           <HelpTOCNode Title="Region Property " Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_Region.htm" />
           <HelpTOCNode Title="Result Property " Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_Result.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bd5dc1f8-0d6d-490a-b21c-9807b7f12ecb" Title="DictionaryCacheHandle Class" Url="html/T_CacheManager_Core_Cache_DictionaryCacheHandle.htm">
+      <HelpTOCNode Id="dae9c661-714a-4f3b-bb7d-eb3518f50b4d" Title="DictionaryCacheHandle Class" Url="html/T_CacheManager_Core_Cache_DictionaryCacheHandle.htm">
         <HelpTOCNode Title="DictionaryCacheHandle Constructor " Url="html/M_CacheManager_Core_Cache_DictionaryCacheHandle__ctor.htm" />
         <HelpTOCNode Title="DictionaryCacheHandle Methods" Url="html/Methods_T_CacheManager_Core_Cache_DictionaryCacheHandle.htm" />
         <HelpTOCNode Title="DictionaryCacheHandle Properties" Url="html/Properties_T_CacheManager_Core_Cache_DictionaryCacheHandle.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3e3e3784-c730-4031-9b04-a98355503257" Title="DictionaryCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_Core_Cache_DictionaryCacheHandle_1.htm">
+      <HelpTOCNode Id="31bd8558-9681-4707-b15a-e99b09f4bc83" Title="DictionaryCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_Core_Cache_DictionaryCacheHandle_1.htm">
         <HelpTOCNode Title="DictionaryCacheHandle(TCacheValue) Constructor " Url="html/M_CacheManager_Core_Cache_DictionaryCacheHandle_1__ctor.htm" />
-        <HelpTOCNode Id="dd27fc32-b5cc-4044-ac93-ca513f0382d0" Title="DictionaryCacheHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_Cache_DictionaryCacheHandle_1.htm">
+        <HelpTOCNode Id="1dbd352c-73f3-4a6f-ba09-a07102700dfe" Title="DictionaryCacheHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_Cache_DictionaryCacheHandle_1.htm">
           <HelpTOCNode Title="AddInternalPrepared Method " Url="html/M_CacheManager_Core_Cache_DictionaryCacheHandle_1_AddInternalPrepared.htm" />
           <HelpTOCNode Title="Clear Method " Url="html/M_CacheManager_Core_Cache_DictionaryCacheHandle_1_Clear.htm" />
           <HelpTOCNode Title="ClearRegion Method " Url="html/M_CacheManager_Core_Cache_DictionaryCacheHandle_1_ClearRegion.htm" />
-          <HelpTOCNode Id="45d12cf0-5bdd-4812-b302-e91acf271096" Title="GetCacheItemInternal Method " Url="html/Overload_CacheManager_Core_Cache_DictionaryCacheHandle_1_GetCacheItemInternal.htm">
+          <HelpTOCNode Id="2424fe47-2ab6-4d2c-94d7-20d357480381" Title="GetCacheItemInternal Method " Url="html/Overload_CacheManager_Core_Cache_DictionaryCacheHandle_1_GetCacheItemInternal.htm">
             <HelpTOCNode Title="GetCacheItemInternal Method (String)" Url="html/M_CacheManager_Core_Cache_DictionaryCacheHandle_1_GetCacheItemInternal.htm" />
             <HelpTOCNode Title="GetCacheItemInternal Method (String, String)" Url="html/M_CacheManager_Core_Cache_DictionaryCacheHandle_1_GetCacheItemInternal_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="PutInternalPrepared Method " Url="html/M_CacheManager_Core_Cache_DictionaryCacheHandle_1_PutInternalPrepared.htm" />
-          <HelpTOCNode Id="f5a73e88-0477-4304-a2d7-d16526b37a73" Title="RemoveInternal Method " Url="html/Overload_CacheManager_Core_Cache_DictionaryCacheHandle_1_RemoveInternal.htm">
+          <HelpTOCNode Id="192f46a7-651b-4cc3-86ae-acbd5f0b7ede" Title="RemoveInternal Method " Url="html/Overload_CacheManager_Core_Cache_DictionaryCacheHandle_1_RemoveInternal.htm">
             <HelpTOCNode Title="RemoveInternal Method (String)" Url="html/M_CacheManager_Core_Cache_DictionaryCacheHandle_1_RemoveInternal.htm" />
             <HelpTOCNode Title="RemoveInternal Method (String, String)" Url="html/M_CacheManager_Core_Cache_DictionaryCacheHandle_1_RemoveInternal_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="2a557a35-bac1-46d9-8ad5-2cf35173923c" Title="Update Method " Url="html/Overload_CacheManager_Core_Cache_DictionaryCacheHandle_1_Update.htm">
+          <HelpTOCNode Id="4d2bc6d7-e6fc-4522-ad48-f0144f7ce986" Title="Update Method " Url="html/Overload_CacheManager_Core_Cache_DictionaryCacheHandle_1_Update.htm">
             <HelpTOCNode Title="Update Method (String, Func(TCacheValue, TCacheValue), UpdateItemConfig)" Url="html/M_CacheManager_Core_Cache_DictionaryCacheHandle_1_Update.htm" />
             <HelpTOCNode Title="Update Method (String, String, Func(TCacheValue, TCacheValue), UpdateItemConfig)" Url="html/M_CacheManager_Core_Cache_DictionaryCacheHandle_1_Update_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="1485b8e3-5b1a-4101-8a50-f836f53328b6" Title="DictionaryCacheHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_Cache_DictionaryCacheHandle_1.htm">
+        <HelpTOCNode Id="25b0ab1c-c6a8-4c23-bb16-94f6ef57a2cd" Title="DictionaryCacheHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_Cache_DictionaryCacheHandle_1.htm">
           <HelpTOCNode Title="Count Property " Url="html/P_CacheManager_Core_Cache_DictionaryCacheHandle_1_Count.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="6b950e0c-baec-456f-86c0-9726ac0df77b" Title="CacheManager.Core.Configuration" Url="html/N_CacheManager_Core_Configuration.htm">
-      <HelpTOCNode Id="38187d1a-a684-4b9d-bdc1-d78990309589" Title="CacheHandleConfiguration(TCacheValue) Class" Url="html/T_CacheManager_Core_Configuration_CacheHandleConfiguration_1.htm">
+    <HelpTOCNode Id="1ade4c78-e171-4994-a80a-39a4c98d5e60" Title="CacheManager.Core.Configuration" Url="html/N_CacheManager_Core_Configuration.htm">
+      <HelpTOCNode Id="dff41c2d-2123-47db-8d3e-215135774c4c" Title="CacheHandleConfiguration(TCacheValue) Class" Url="html/T_CacheManager_Core_Configuration_CacheHandleConfiguration_1.htm">
         <HelpTOCNode Title="CacheHandleConfiguration(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_Configuration_CacheHandleConfiguration_1.htm" />
-        <HelpTOCNode Id="09d8d8c6-58a5-4097-aa64-6ec96aafdcce" Title="CacheHandleConfiguration(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_Configuration_CacheHandleConfiguration_1.htm">
+        <HelpTOCNode Id="5d7bcd9b-8953-4f36-8f6d-c39e176dd95a" Title="CacheHandleConfiguration(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_Configuration_CacheHandleConfiguration_1.htm">
           <HelpTOCNode Title="CacheName Property " Url="html/P_CacheManager_Core_Configuration_CacheHandleConfiguration_1_CacheName.htm" />
           <HelpTOCNode Title="EnablePerformanceCounters Property " Url="html/P_CacheManager_Core_Configuration_CacheHandleConfiguration_1_EnablePerformanceCounters.htm" />
           <HelpTOCNode Title="EnableStatistics Property " Url="html/P_CacheManager_Core_Configuration_CacheHandleConfiguration_1_EnableStatistics.htm" />
@@ -500,33 +500,33 @@
           <HelpTOCNode Title="IsBackPlateSource Property " Url="html/P_CacheManager_Core_Configuration_CacheHandleConfiguration_1_IsBackPlateSource.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="eccdd6f3-10a9-4796-ab90-cc085ac6bc73" Title="CacheHandleDefinition Class" Url="html/T_CacheManager_Core_Configuration_CacheHandleDefinition.htm">
+      <HelpTOCNode Id="d058ec20-4a7a-4ad1-b22a-adf758c86bc0" Title="CacheHandleDefinition Class" Url="html/T_CacheManager_Core_Configuration_CacheHandleDefinition.htm">
         <HelpTOCNode Title="CacheHandleDefinition Constructor " Url="html/M_CacheManager_Core_Configuration_CacheHandleDefinition__ctor.htm" />
         <HelpTOCNode Title="CacheHandleDefinition Methods" Url="html/Methods_T_CacheManager_Core_Configuration_CacheHandleDefinition.htm" />
-        <HelpTOCNode Id="10d0aaeb-e382-4cfc-a7d7-85a95bab064d" Title="CacheHandleDefinition Properties" Url="html/Properties_T_CacheManager_Core_Configuration_CacheHandleDefinition.htm">
+        <HelpTOCNode Id="fd2a3a58-8c89-4c11-a9fd-3017f2f77203" Title="CacheHandleDefinition Properties" Url="html/Properties_T_CacheManager_Core_Configuration_CacheHandleDefinition.htm">
           <HelpTOCNode Title="DefaultExpirationMode Property " Url="html/P_CacheManager_Core_Configuration_CacheHandleDefinition_DefaultExpirationMode.htm" />
           <HelpTOCNode Title="DefaultTimeout Property " Url="html/P_CacheManager_Core_Configuration_CacheHandleDefinition_DefaultTimeout.htm" />
           <HelpTOCNode Title="HandleType Property " Url="html/P_CacheManager_Core_Configuration_CacheHandleDefinition_HandleType.htm" />
           <HelpTOCNode Title="Id Property " Url="html/P_CacheManager_Core_Configuration_CacheHandleDefinition_Id.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="48b0e146-4903-4269-b5a6-f513adf65732" Title="CacheHandleDefinitionCollection Class" Url="html/T_CacheManager_Core_Configuration_CacheHandleDefinitionCollection.htm">
+      <HelpTOCNode Id="77b73197-aa98-4786-af19-dc52d7a61b87" Title="CacheHandleDefinitionCollection Class" Url="html/T_CacheManager_Core_Configuration_CacheHandleDefinitionCollection.htm">
         <HelpTOCNode Title="CacheHandleDefinitionCollection Constructor " Url="html/M_CacheManager_Core_Configuration_CacheHandleDefinitionCollection__ctor.htm" />
-        <HelpTOCNode Id="bb165452-83ba-434d-a788-175efaee3c6f" Title="CacheHandleDefinitionCollection Methods" Url="html/Methods_T_CacheManager_Core_Configuration_CacheHandleDefinitionCollection.htm">
+        <HelpTOCNode Id="92c76051-0981-49f5-96b0-4202a557db81" Title="CacheHandleDefinitionCollection Methods" Url="html/Methods_T_CacheManager_Core_Configuration_CacheHandleDefinitionCollection.htm">
           <HelpTOCNode Title="GetEnumerator Method " Url="html/M_CacheManager_Core_Configuration_CacheHandleDefinitionCollection_GetEnumerator.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="CacheHandleDefinitionCollection Properties" Url="html/Properties_T_CacheManager_Core_Configuration_CacheHandleDefinitionCollection.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="ae26f022-a141-4c31-9a30-cc5f1eaeff85" Title="CacheManagerCollection Class" Url="html/T_CacheManager_Core_Configuration_CacheManagerCollection.htm">
+      <HelpTOCNode Id="679fc6d8-e98b-4282-b38d-36810597c6d4" Title="CacheManagerCollection Class" Url="html/T_CacheManager_Core_Configuration_CacheManagerCollection.htm">
         <HelpTOCNode Title="CacheManagerCollection Constructor " Url="html/M_CacheManager_Core_Configuration_CacheManagerCollection__ctor.htm" />
-        <HelpTOCNode Id="937a06cb-a064-4335-8d96-85d668ca49a7" Title="CacheManagerCollection Methods" Url="html/Methods_T_CacheManager_Core_Configuration_CacheManagerCollection.htm">
+        <HelpTOCNode Id="8ea6f525-707f-495a-ba3b-ea0a9b330e6f" Title="CacheManagerCollection Methods" Url="html/Methods_T_CacheManager_Core_Configuration_CacheManagerCollection.htm">
           <HelpTOCNode Title="GetEnumerator Method " Url="html/M_CacheManager_Core_Configuration_CacheManagerCollection_GetEnumerator.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="CacheManagerCollection Properties" Url="html/Properties_T_CacheManager_Core_Configuration_CacheManagerCollection.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c617df03-8631-4b2d-9d79-5426ab58492d" Title="CacheManagerConfiguration(TCacheValue) Class" Url="html/T_CacheManager_Core_Configuration_CacheManagerConfiguration_1.htm">
+      <HelpTOCNode Id="dd1c7814-f07b-426a-b538-ea99141a3d86" Title="CacheManagerConfiguration(TCacheValue) Class" Url="html/T_CacheManager_Core_Configuration_CacheManagerConfiguration_1.htm">
         <HelpTOCNode Title="CacheManagerConfiguration(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_Configuration_CacheManagerConfiguration_1.htm" />
-        <HelpTOCNode Id="d13f0c75-9010-4948-a851-27a0aed9fcf5" Title="CacheManagerConfiguration(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_Configuration_CacheManagerConfiguration_1.htm">
+        <HelpTOCNode Id="4cc81259-8f5f-4b8b-8823-a7c25a27624e" Title="CacheManagerConfiguration(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_Configuration_CacheManagerConfiguration_1.htm">
           <HelpTOCNode Title="BackPlateName Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerConfiguration_1_BackPlateName.htm" />
           <HelpTOCNode Title="CacheUpdateMode Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerConfiguration_1_CacheUpdateMode.htm" />
           <HelpTOCNode Title="MaxRetries Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerConfiguration_1_MaxRetries.htm" />
@@ -534,10 +534,10 @@
           <HelpTOCNode Title="RetryTimeout Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerConfiguration_1_RetryTimeout.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="6f5a6db6-9c52-46dd-941b-688295e199d3" Title="CacheManagerHandle Class" Url="html/T_CacheManager_Core_Configuration_CacheManagerHandle.htm">
+      <HelpTOCNode Id="8d259738-8df3-4219-b602-7f8817169cd7" Title="CacheManagerHandle Class" Url="html/T_CacheManager_Core_Configuration_CacheManagerHandle.htm">
         <HelpTOCNode Title="CacheManagerHandle Constructor " Url="html/M_CacheManager_Core_Configuration_CacheManagerHandle__ctor.htm" />
         <HelpTOCNode Title="CacheManagerHandle Methods" Url="html/Methods_T_CacheManager_Core_Configuration_CacheManagerHandle.htm" />
-        <HelpTOCNode Id="11d64a83-0dac-4457-9020-6eae7801f495" Title="CacheManagerHandle Properties" Url="html/Properties_T_CacheManager_Core_Configuration_CacheManagerHandle.htm">
+        <HelpTOCNode Id="0f62e53a-b0d0-4e1e-9d2f-ef7f1daa2201" Title="CacheManagerHandle Properties" Url="html/Properties_T_CacheManager_Core_Configuration_CacheManagerHandle.htm">
           <HelpTOCNode Title="ExpirationMode Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerHandle_ExpirationMode.htm" />
           <HelpTOCNode Title="IsBackPlateSource Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerHandle_IsBackPlateSource.htm" />
           <HelpTOCNode Title="Name Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerHandle_Name.htm" />
@@ -545,12 +545,12 @@
           <HelpTOCNode Title="Timeout Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerHandle_Timeout.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b5d639fa-75b3-4675-8240-4999c8f40a57" Title="CacheManagerHandleCollection Class" Url="html/T_CacheManager_Core_Configuration_CacheManagerHandleCollection.htm">
+      <HelpTOCNode Id="8ee4e81a-88b9-41d7-92fd-dd0544df141a" Title="CacheManagerHandleCollection Class" Url="html/T_CacheManager_Core_Configuration_CacheManagerHandleCollection.htm">
         <HelpTOCNode Title="CacheManagerHandleCollection Constructor " Url="html/M_CacheManager_Core_Configuration_CacheManagerHandleCollection__ctor.htm" />
-        <HelpTOCNode Id="b36db97e-2b5e-4570-b5f5-1322f2b7caf7" Title="CacheManagerHandleCollection Methods" Url="html/Methods_T_CacheManager_Core_Configuration_CacheManagerHandleCollection.htm">
+        <HelpTOCNode Id="2a26d560-85b7-4f5e-af8e-91058eb62e04" Title="CacheManagerHandleCollection Methods" Url="html/Methods_T_CacheManager_Core_Configuration_CacheManagerHandleCollection.htm">
           <HelpTOCNode Title="GetEnumerator Method " Url="html/M_CacheManager_Core_Configuration_CacheManagerHandleCollection_GetEnumerator.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3a00009b-69c8-4de5-951a-b21cd063a4c3" Title="CacheManagerHandleCollection Properties" Url="html/Properties_T_CacheManager_Core_Configuration_CacheManagerHandleCollection.htm">
+        <HelpTOCNode Id="2d62f502-e75e-4e47-b2a2-bd8a52e21cda" Title="CacheManagerHandleCollection Properties" Url="html/Properties_T_CacheManager_Core_Configuration_CacheManagerHandleCollection.htm">
           <HelpTOCNode Title="BackPlateName Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerHandleCollection_BackPlateName.htm" />
           <HelpTOCNode Title="BackPlateType Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerHandleCollection_BackPlateType.htm" />
           <HelpTOCNode Title="EnablePerformanceCounters Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerHandleCollection_EnablePerformanceCounters.htm" />
@@ -561,48 +561,48 @@
           <HelpTOCNode Title="UpdateMode Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerHandleCollection_UpdateMode.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="30acd892-caa6-4e6d-846a-e40f0f2b49db" Title="CacheManagerSection Class" Url="html/T_CacheManager_Core_Configuration_CacheManagerSection.htm">
+      <HelpTOCNode Id="df6c6f18-cd5b-416d-a415-660fed2d59ad" Title="CacheManagerSection Class" Url="html/T_CacheManager_Core_Configuration_CacheManagerSection.htm">
         <HelpTOCNode Title="CacheManagerSection Constructor " Url="html/M_CacheManager_Core_Configuration_CacheManagerSection__ctor.htm" />
-        <HelpTOCNode Id="14cb2e52-91cb-40e1-addb-8426b1d6966a" Title="CacheManagerSection Fields" Url="html/Fields_T_CacheManager_Core_Configuration_CacheManagerSection.htm">
+        <HelpTOCNode Id="8489f7ad-fea7-4481-923b-59875f69f7ac" Title="CacheManagerSection Fields" Url="html/Fields_T_CacheManager_Core_Configuration_CacheManagerSection.htm">
           <HelpTOCNode Title="DefaultSectionName Field" Url="html/F_CacheManager_Core_Configuration_CacheManagerSection_DefaultSectionName.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="CacheManagerSection Methods" Url="html/Methods_T_CacheManager_Core_Configuration_CacheManagerSection.htm" />
-        <HelpTOCNode Id="0b9f2b47-c53c-4ea7-af17-1f4505b60eae" Title="CacheManagerSection Properties" Url="html/Properties_T_CacheManager_Core_Configuration_CacheManagerSection.htm">
+        <HelpTOCNode Id="8234d411-2b53-4282-92f1-c33d28c7e85a" Title="CacheManagerSection Properties" Url="html/Properties_T_CacheManager_Core_Configuration_CacheManagerSection.htm">
           <HelpTOCNode Title="CacheHandleDefinitions Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerSection_CacheHandleDefinitions.htm" />
           <HelpTOCNode Title="CacheManagers Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerSection_CacheManagers.htm" />
           <HelpTOCNode Title="Xmlns Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerSection_Xmlns.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="CacheUpdateMode Enumeration" Url="html/T_CacheManager_Core_Configuration_CacheUpdateMode.htm" />
-      <HelpTOCNode Id="3ad50805-ba2d-446f-843c-ce8a8632d0d2" Title="ConfigurationBuilder Class" Url="html/T_CacheManager_Core_Configuration_ConfigurationBuilder.htm">
-        <HelpTOCNode Id="117fb819-584f-44a9-81cc-36e78abead65" Title="ConfigurationBuilder Methods" Url="html/Methods_T_CacheManager_Core_Configuration_ConfigurationBuilder.htm">
+      <HelpTOCNode Id="9d217d72-aced-4943-893d-95742f1b5560" Title="ConfigurationBuilder Class" Url="html/T_CacheManager_Core_Configuration_ConfigurationBuilder.htm">
+        <HelpTOCNode Id="8aa280e3-c4d6-42cc-a8d2-f358cd716f1e" Title="ConfigurationBuilder Methods" Url="html/Methods_T_CacheManager_Core_Configuration_ConfigurationBuilder.htm">
           <HelpTOCNode Title="BuildConfiguration(TCacheValue) Method " Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilder_BuildConfiguration__1.htm" />
-          <HelpTOCNode Id="203ce0ca-0d93-4a2a-8ceb-aa413ae2bd8f" Title="LoadConfiguration Method " Url="html/Overload_CacheManager_Core_Configuration_ConfigurationBuilder_LoadConfiguration.htm">
+          <HelpTOCNode Id="f3691bc8-939b-49af-b35b-21e858aba6ae" Title="LoadConfiguration Method " Url="html/Overload_CacheManager_Core_Configuration_ConfigurationBuilder_LoadConfiguration.htm">
             <HelpTOCNode Title="LoadConfiguration(TCacheValue) Method (String)" Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilder_LoadConfiguration__1.htm" />
             <HelpTOCNode Title="LoadConfiguration(TCacheValue) Method (String, String)" Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilder_LoadConfiguration__1_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="90814ef6-7c4d-4288-861f-95c1326fab0a" Title="LoadConfigurationFile Method " Url="html/Overload_CacheManager_Core_Configuration_ConfigurationBuilder_LoadConfigurationFile.htm">
+          <HelpTOCNode Id="5958f7f0-1268-4218-a77a-09fc802faf75" Title="LoadConfigurationFile Method " Url="html/Overload_CacheManager_Core_Configuration_ConfigurationBuilder_LoadConfigurationFile.htm">
             <HelpTOCNode Title="LoadConfigurationFile(TCacheValue) Method (String, String)" Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilder_LoadConfigurationFile__1.htm" />
             <HelpTOCNode Title="LoadConfigurationFile(TCacheValue) Method (String, String, String)" Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilder_LoadConfigurationFile__1_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bd8ab7b4-aff8-4e18-9a56-a88b23ac5bd4" Title="ConfigurationBuilderCacheHandlePart(TCacheValue) Class" Url="html/T_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1.htm">
-        <HelpTOCNode Id="4625d764-bc65-4884-9674-e21461815892" Title="ConfigurationBuilderCacheHandlePart(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1.htm">
+      <HelpTOCNode Id="d8b9a195-967c-4503-bf95-b361cd45832e" Title="ConfigurationBuilderCacheHandlePart(TCacheValue) Class" Url="html/T_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1.htm">
+        <HelpTOCNode Id="8b2b780c-4682-4827-b5c9-e1ccdd2a27b3" Title="ConfigurationBuilderCacheHandlePart(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1.htm">
           <HelpTOCNode Title="DisablePerformanceCounters Method " Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1_DisablePerformanceCounters.htm" />
           <HelpTOCNode Title="DisableStatistics Method " Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1_DisableStatistics.htm" />
           <HelpTOCNode Title="EnablePerformanceCounters Method " Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1_EnablePerformanceCounters.htm" />
           <HelpTOCNode Title="EnableStatistics Method " Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1_EnableStatistics.htm" />
           <HelpTOCNode Title="WithExpiration Method " Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1_WithExpiration.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="ef0ddb86-7577-411b-a463-c22e5a339daf" Title="ConfigurationBuilderCacheHandlePart(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1.htm">
+        <HelpTOCNode Id="6e7ca91c-c1f7-418a-afb5-68371d947368" Title="ConfigurationBuilderCacheHandlePart(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1.htm">
           <HelpTOCNode Title="And Property " Url="html/P_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1_And.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b08e6676-1a19-4edf-9076-bf1e546664b2" Title="ConfigurationBuilderCachePart(TCacheValue) Class" Url="html/T_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1.htm">
-        <HelpTOCNode Id="cdc51112-c4c3-4c33-93d0-fb34543b8c7a" Title="ConfigurationBuilderCachePart(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1.htm">
+      <HelpTOCNode Id="c1c2a9dc-c647-40dc-b9ca-3065df310f8a" Title="ConfigurationBuilderCachePart(TCacheValue) Class" Url="html/T_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1.htm">
+        <HelpTOCNode Id="9c900124-e2c8-4acd-acd8-a8768428cf0d" Title="ConfigurationBuilderCachePart(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1.htm">
           <HelpTOCNode Title="WithBackPlate(TBackPlate) Method " Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1_WithBackPlate__1.htm" />
-          <HelpTOCNode Id="e61dc9a9-ca83-4e9f-a841-3b683adecd85" Title="WithHandle Method " Url="html/Overload_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1_WithHandle.htm">
+          <HelpTOCNode Id="ae0c1950-e33e-4151-85f2-9dfe1924696a" Title="WithHandle Method " Url="html/Overload_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1_WithHandle.htm">
             <HelpTOCNode Title="WithHandle(TCacheHandle) Method (String)" Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1_WithHandle__1.htm" />
             <HelpTOCNode Title="WithHandle(TCacheHandle) Method (String, Boolean)" Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1_WithHandle__1_1.htm" />
           </HelpTOCNode>
@@ -612,8 +612,8 @@
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="ExpirationMode Enumeration" Url="html/T_CacheManager_Core_Configuration_ExpirationMode.htm" />
-      <HelpTOCNode Id="1f611164-9d82-4577-a23d-4d73e1424dc5" Title="ICacheHandleConfiguration Interface" Url="html/T_CacheManager_Core_Configuration_ICacheHandleConfiguration.htm">
-        <HelpTOCNode Id="dba2a770-a9c4-4a23-8c09-9879ec92b615" Title="ICacheHandleConfiguration Properties" Url="html/Properties_T_CacheManager_Core_Configuration_ICacheHandleConfiguration.htm">
+      <HelpTOCNode Id="87aab9fe-6a40-43bb-9376-55314fe8dc9d" Title="ICacheHandleConfiguration Interface" Url="html/T_CacheManager_Core_Configuration_ICacheHandleConfiguration.htm">
+        <HelpTOCNode Id="db564352-80a8-4f98-889c-1d75670b6ff3" Title="ICacheHandleConfiguration Properties" Url="html/Properties_T_CacheManager_Core_Configuration_ICacheHandleConfiguration.htm">
           <HelpTOCNode Title="CacheName Property " Url="html/P_CacheManager_Core_Configuration_ICacheHandleConfiguration_CacheName.htm" />
           <HelpTOCNode Title="EnablePerformanceCounters Property " Url="html/P_CacheManager_Core_Configuration_ICacheHandleConfiguration_EnablePerformanceCounters.htm" />
           <HelpTOCNode Title="EnableStatistics Property " Url="html/P_CacheManager_Core_Configuration_ICacheHandleConfiguration_EnableStatistics.htm" />
@@ -623,8 +623,8 @@
           <HelpTOCNode Title="IsBackPlateSource Property " Url="html/P_CacheManager_Core_Configuration_ICacheHandleConfiguration_IsBackPlateSource.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="8c580e75-6b16-483c-b468-2db4ba330383" Title="ICacheManagerConfiguration Interface" Url="html/T_CacheManager_Core_Configuration_ICacheManagerConfiguration.htm">
-        <HelpTOCNode Id="23b2b909-36cf-40c3-8e48-41abe12955dd" Title="ICacheManagerConfiguration Properties" Url="html/Properties_T_CacheManager_Core_Configuration_ICacheManagerConfiguration.htm">
+      <HelpTOCNode Id="91cee148-7eb1-463c-8c78-d052e4ec1613" Title="ICacheManagerConfiguration Interface" Url="html/T_CacheManager_Core_Configuration_ICacheManagerConfiguration.htm">
+        <HelpTOCNode Id="76b07b6a-52de-4e2d-9b29-d71e9bf93864" Title="ICacheManagerConfiguration Properties" Url="html/Properties_T_CacheManager_Core_Configuration_ICacheManagerConfiguration.htm">
           <HelpTOCNode Title="CacheUpdateMode Property " Url="html/P_CacheManager_Core_Configuration_ICacheManagerConfiguration_CacheUpdateMode.htm" />
           <HelpTOCNode Title="MaxRetries Property " Url="html/P_CacheManager_Core_Configuration_ICacheManagerConfiguration_MaxRetries.htm" />
           <HelpTOCNode Title="Name Property " Url="html/P_CacheManager_Core_Configuration_ICacheManagerConfiguration_Name.htm" />
@@ -632,37 +632,37 @@
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="29980e4c-0ef8-4839-8807-1c7677239215" Title="CacheManager.Couchbase" Url="html/N_CacheManager_Couchbase.htm">
-      <HelpTOCNode Id="09530c47-fbb2-4ac9-92af-6fa981a149ec" Title="BucketCacheHandle Class" Url="html/T_CacheManager_Couchbase_BucketCacheHandle.htm">
+    <HelpTOCNode Id="c43722df-aaf2-4b4f-839d-122f1b08474d" Title="CacheManager.Couchbase" Url="html/N_CacheManager_Couchbase.htm">
+      <HelpTOCNode Id="c94d162e-290a-409d-b662-ec0823db1f50" Title="BucketCacheHandle Class" Url="html/T_CacheManager_Couchbase_BucketCacheHandle.htm">
         <HelpTOCNode Title="BucketCacheHandle Constructor " Url="html/M_CacheManager_Couchbase_BucketCacheHandle__ctor.htm" />
         <HelpTOCNode Title="BucketCacheHandle Methods" Url="html/Methods_T_CacheManager_Couchbase_BucketCacheHandle.htm" />
         <HelpTOCNode Title="BucketCacheHandle Properties" Url="html/Properties_T_CacheManager_Couchbase_BucketCacheHandle.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="54be3f39-bf92-45a5-9b81-f2d5c0465786" Title="BucketCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_Couchbase_BucketCacheHandle_1.htm">
+      <HelpTOCNode Id="f9e96194-dfd6-4ddf-80d2-3d98d53c92f1" Title="BucketCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_Couchbase_BucketCacheHandle_1.htm">
         <HelpTOCNode Title="BucketCacheHandle(TCacheValue) Constructor " Url="html/M_CacheManager_Couchbase_BucketCacheHandle_1__ctor.htm" />
-        <HelpTOCNode Id="b8549365-1be2-4e13-b67c-0f6361c01bf4" Title="BucketCacheHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Couchbase_BucketCacheHandle_1.htm">
+        <HelpTOCNode Id="60d22409-a4e4-42b3-aa99-9a9040c598eb" Title="BucketCacheHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Couchbase_BucketCacheHandle_1.htm">
           <HelpTOCNode Title="AddInternalPrepared Method " Url="html/M_CacheManager_Couchbase_BucketCacheHandle_1_AddInternalPrepared.htm" />
           <HelpTOCNode Title="Clear Method " Url="html/M_CacheManager_Couchbase_BucketCacheHandle_1_Clear.htm" />
           <HelpTOCNode Title="ClearRegion Method " Url="html/M_CacheManager_Couchbase_BucketCacheHandle_1_ClearRegion.htm" />
-          <HelpTOCNode Id="b6b0c455-bfb2-435b-b098-f6650e2f6223" Title="Dispose Method " Url="html/Overload_CacheManager_Couchbase_BucketCacheHandle_1_Dispose.htm">
+          <HelpTOCNode Id="d0fb7bce-5a4e-4023-92a0-92a5e92e24f5" Title="Dispose Method " Url="html/Overload_CacheManager_Couchbase_BucketCacheHandle_1_Dispose.htm">
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_CacheManager_Couchbase_BucketCacheHandle_1_Dispose.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="7b2ea118-7a01-4031-a413-1e2a734bb5cc" Title="GetCacheItemInternal Method " Url="html/Overload_CacheManager_Couchbase_BucketCacheHandle_1_GetCacheItemInternal.htm">
+          <HelpTOCNode Id="c6ca69a5-f1cd-4ecd-a8bd-fac8e73d12f3" Title="GetCacheItemInternal Method " Url="html/Overload_CacheManager_Couchbase_BucketCacheHandle_1_GetCacheItemInternal.htm">
             <HelpTOCNode Title="GetCacheItemInternal Method (String)" Url="html/M_CacheManager_Couchbase_BucketCacheHandle_1_GetCacheItemInternal.htm" />
             <HelpTOCNode Title="GetCacheItemInternal Method (String, String)" Url="html/M_CacheManager_Couchbase_BucketCacheHandle_1_GetCacheItemInternal_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="PutInternalPrepared Method " Url="html/M_CacheManager_Couchbase_BucketCacheHandle_1_PutInternalPrepared.htm" />
-          <HelpTOCNode Id="50cf0c3a-3b79-4496-aa38-7e1767c0ba47" Title="RemoveInternal Method " Url="html/Overload_CacheManager_Couchbase_BucketCacheHandle_1_RemoveInternal.htm">
+          <HelpTOCNode Id="da2a7f8c-f4f0-4855-97a2-3f7b38373d5f" Title="RemoveInternal Method " Url="html/Overload_CacheManager_Couchbase_BucketCacheHandle_1_RemoveInternal.htm">
             <HelpTOCNode Title="RemoveInternal Method (String)" Url="html/M_CacheManager_Couchbase_BucketCacheHandle_1_RemoveInternal.htm" />
             <HelpTOCNode Title="RemoveInternal Method (String, String)" Url="html/M_CacheManager_Couchbase_BucketCacheHandle_1_RemoveInternal_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="e77c2377-b135-4d9e-8393-2c9c92645970" Title="BucketCacheHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Couchbase_BucketCacheHandle_1.htm">
+        <HelpTOCNode Id="586cb30c-e1e5-48d6-98fd-e590fb5460b2" Title="BucketCacheHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Couchbase_BucketCacheHandle_1.htm">
           <HelpTOCNode Title="Count Property " Url="html/P_CacheManager_Couchbase_BucketCacheHandle_1_Count.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="545d1ce5-863f-495f-98e0-68d212c8a1e7" Title="CouchbaseConfigurationManager Class" Url="html/T_CacheManager_Couchbase_CouchbaseConfigurationManager.htm">
-        <HelpTOCNode Id="3ecbcd16-6597-433f-b665-43527eadfcb0" Title="CouchbaseConfigurationManager Methods" Url="html/Methods_T_CacheManager_Couchbase_CouchbaseConfigurationManager.htm">
+      <HelpTOCNode Id="d0303499-a83f-4106-b231-f42127a0570b" Title="CouchbaseConfigurationManager Class" Url="html/T_CacheManager_Couchbase_CouchbaseConfigurationManager.htm">
+        <HelpTOCNode Id="08d00878-4797-499f-9f26-30868758f742" Title="CouchbaseConfigurationManager Methods" Url="html/Methods_T_CacheManager_Couchbase_CouchbaseConfigurationManager.htm">
           <HelpTOCNode Title="AddConfiguration Method " Url="html/M_CacheManager_Couchbase_CouchbaseConfigurationManager_AddConfiguration.htm" />
           <HelpTOCNode Title="GetBucketConfiguration Method " Url="html/M_CacheManager_Couchbase_CouchbaseConfigurationManager_GetBucketConfiguration.htm" />
           <HelpTOCNode Title="GetCluster Method " Url="html/M_CacheManager_Couchbase_CouchbaseConfigurationManager_GetCluster.htm" />
@@ -670,126 +670,126 @@
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="4e14736b-1ff8-45ea-b857-0f755a7fec5c" Title="CacheManager.Memcached" Url="html/N_CacheManager_Memcached.htm">
-      <HelpTOCNode Id="aae88da9-fc2b-40cd-b46a-bea5d12ac8e2" Title="MemcachedCacheHandle Class" Url="html/T_CacheManager_Memcached_MemcachedCacheHandle.htm">
+    <HelpTOCNode Id="1937fec8-30c8-4710-b1bd-af202aa13d38" Title="CacheManager.Memcached" Url="html/N_CacheManager_Memcached.htm">
+      <HelpTOCNode Id="c722fc54-dfdc-48ea-9dae-2beca664409c" Title="MemcachedCacheHandle Class" Url="html/T_CacheManager_Memcached_MemcachedCacheHandle.htm">
         <HelpTOCNode Title="MemcachedCacheHandle Constructor " Url="html/M_CacheManager_Memcached_MemcachedCacheHandle__ctor.htm" />
         <HelpTOCNode Title="MemcachedCacheHandle Methods" Url="html/Methods_T_CacheManager_Memcached_MemcachedCacheHandle.htm" />
         <HelpTOCNode Title="MemcachedCacheHandle Properties" Url="html/Properties_T_CacheManager_Memcached_MemcachedCacheHandle.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="7ebea7e9-64a3-41ae-8cfd-9063588d9b34" Title="MemcachedCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_Memcached_MemcachedCacheHandle_1.htm">
+      <HelpTOCNode Id="cc2b1cbd-1723-44fc-a763-4519c43ac9e0" Title="MemcachedCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_Memcached_MemcachedCacheHandle_1.htm">
         <HelpTOCNode Title="MemcachedCacheHandle(TCacheValue) Constructor " Url="html/M_CacheManager_Memcached_MemcachedCacheHandle_1__ctor.htm" />
-        <HelpTOCNode Id="13afd06f-6f22-4d6b-9f9c-2a365c1fa135" Title="MemcachedCacheHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Memcached_MemcachedCacheHandle_1.htm">
+        <HelpTOCNode Id="a33803fc-ac95-476e-ae29-fa63a7a1eba3" Title="MemcachedCacheHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Memcached_MemcachedCacheHandle_1.htm">
           <HelpTOCNode Title="GetServerCount Method " Url="html/M_CacheManager_Memcached_MemcachedCacheHandle_1_GetServerCount.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5d47d52b-48f3-49f2-87ef-a30356250d01" Title="MemcachedCacheHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Memcached_MemcachedCacheHandle_1.htm">
+        <HelpTOCNode Id="47a30cb1-fc5e-49da-9a9e-ecc871c2d9ec" Title="MemcachedCacheHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Memcached_MemcachedCacheHandle_1.htm">
           <HelpTOCNode Title="GetMemcachedClientConfiguration Property " Url="html/P_CacheManager_Memcached_MemcachedCacheHandle_1_GetMemcachedClientConfiguration.htm" />
           <HelpTOCNode Title="Servers Property " Url="html/P_CacheManager_Memcached_MemcachedCacheHandle_1_Servers.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="9c598b35-6a5d-4994-a7c0-c467b1b3b39f" Title="MemcachedClientHandle(TCacheValue) Class" Url="html/T_CacheManager_Memcached_MemcachedClientHandle_1.htm">
+      <HelpTOCNode Id="1876449c-3b0d-438d-939d-f6802a05909c" Title="MemcachedClientHandle(TCacheValue) Class" Url="html/T_CacheManager_Memcached_MemcachedClientHandle_1.htm">
         <HelpTOCNode Title="MemcachedClientHandle(TCacheValue) Constructor " Url="html/M_CacheManager_Memcached_MemcachedClientHandle_1__ctor.htm" />
-        <HelpTOCNode Id="e368edc8-1509-4d90-be61-98cde3542c38" Title="MemcachedClientHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Memcached_MemcachedClientHandle_1.htm">
+        <HelpTOCNode Id="f33142e1-7d19-40bd-877c-7d8c3d933793" Title="MemcachedClientHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Memcached_MemcachedClientHandle_1.htm">
           <HelpTOCNode Title="AddInternalPrepared Method " Url="html/M_CacheManager_Memcached_MemcachedClientHandle_1_AddInternalPrepared.htm" />
           <HelpTOCNode Title="Clear Method " Url="html/M_CacheManager_Memcached_MemcachedClientHandle_1_Clear.htm" />
           <HelpTOCNode Title="ClearRegion Method " Url="html/M_CacheManager_Memcached_MemcachedClientHandle_1_ClearRegion.htm" />
-          <HelpTOCNode Id="f8f7a574-92f6-4d3e-80b2-339f7e3b3257" Title="Dispose Method " Url="html/Overload_CacheManager_Memcached_MemcachedClientHandle_1_Dispose.htm">
+          <HelpTOCNode Id="51c90d91-b931-4bf7-93a9-3f6c1d0cb5b5" Title="Dispose Method " Url="html/Overload_CacheManager_Memcached_MemcachedClientHandle_1_Dispose.htm">
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_CacheManager_Memcached_MemcachedClientHandle_1_Dispose.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="2deea082-ba62-491e-9151-835049e60e00" Title="GetCacheItemInternal Method " Url="html/Overload_CacheManager_Memcached_MemcachedClientHandle_1_GetCacheItemInternal.htm">
+          <HelpTOCNode Id="463b8441-2533-4eb1-a030-3215e96ad332" Title="GetCacheItemInternal Method " Url="html/Overload_CacheManager_Memcached_MemcachedClientHandle_1_GetCacheItemInternal.htm">
             <HelpTOCNode Title="GetCacheItemInternal Method (String)" Url="html/M_CacheManager_Memcached_MemcachedClientHandle_1_GetCacheItemInternal.htm" />
             <HelpTOCNode Title="GetCacheItemInternal Method (String, String)" Url="html/M_CacheManager_Memcached_MemcachedClientHandle_1_GetCacheItemInternal_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="PutInternalPrepared Method " Url="html/M_CacheManager_Memcached_MemcachedClientHandle_1_PutInternalPrepared.htm" />
-          <HelpTOCNode Id="3dbbacdd-ccbf-4657-a54e-9963ad121ce4" Title="RemoveInternal Method " Url="html/Overload_CacheManager_Memcached_MemcachedClientHandle_1_RemoveInternal.htm">
+          <HelpTOCNode Id="16a2317f-aed9-4bdd-a81e-6c661115cf15" Title="RemoveInternal Method " Url="html/Overload_CacheManager_Memcached_MemcachedClientHandle_1_RemoveInternal.htm">
             <HelpTOCNode Title="RemoveInternal Method (String)" Url="html/M_CacheManager_Memcached_MemcachedClientHandle_1_RemoveInternal.htm" />
             <HelpTOCNode Title="RemoveInternal Method (String, String)" Url="html/M_CacheManager_Memcached_MemcachedClientHandle_1_RemoveInternal_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="Store Method " Url="html/M_CacheManager_Memcached_MemcachedClientHandle_1_Store.htm" />
-          <HelpTOCNode Id="f914b04d-865d-45d3-9ac3-6afb8133858d" Title="Update Method " Url="html/Overload_CacheManager_Memcached_MemcachedClientHandle_1_Update.htm">
+          <HelpTOCNode Id="7913cfbe-e37b-4660-b72a-b4339e913677" Title="Update Method " Url="html/Overload_CacheManager_Memcached_MemcachedClientHandle_1_Update.htm">
             <HelpTOCNode Title="Update Method (String, Func(TCacheValue, TCacheValue), UpdateItemConfig)" Url="html/M_CacheManager_Memcached_MemcachedClientHandle_1_Update.htm" />
             <HelpTOCNode Title="Update Method (String, String, Func(TCacheValue, TCacheValue), UpdateItemConfig)" Url="html/M_CacheManager_Memcached_MemcachedClientHandle_1_Update_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="29b9c921-f765-41b8-8185-ad8a7d58f45e" Title="MemcachedClientHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Memcached_MemcachedClientHandle_1.htm">
+        <HelpTOCNode Id="ca89ef0d-74cd-4a75-ac25-8dfd18828895" Title="MemcachedClientHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Memcached_MemcachedClientHandle_1.htm">
           <HelpTOCNode Title="Cache Property " Url="html/P_CacheManager_Memcached_MemcachedClientHandle_1_Cache.htm" />
           <HelpTOCNode Title="Count Property " Url="html/P_CacheManager_Memcached_MemcachedClientHandle_1_Count.htm" />
           <HelpTOCNode Title="ServerStats Property " Url="html/P_CacheManager_Memcached_MemcachedClientHandle_1_ServerStats.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="cbfbee55-6344-40e1-897e-4cb66ded4247" Title="CacheManager.Redis" Url="html/N_CacheManager_Redis.htm">
-      <HelpTOCNode Id="ffe922bd-79e2-4733-8e80-7159f87f3096" Title="Endpoint Class" Url="html/T_CacheManager_Redis_Endpoint.htm">
+    <HelpTOCNode Id="75276c71-2e19-4a53-a3be-7c29d856283b" Title="CacheManager.Redis" Url="html/N_CacheManager_Redis.htm">
+      <HelpTOCNode Id="e46b6ead-32ca-4ccb-bef5-35b71249aea5" Title="Endpoint Class" Url="html/T_CacheManager_Redis_Endpoint.htm">
         <HelpTOCNode Title="Endpoint Constructor " Url="html/M_CacheManager_Redis_Endpoint__ctor.htm" />
         <HelpTOCNode Title="Endpoint Methods" Url="html/Methods_T_CacheManager_Redis_Endpoint.htm" />
-        <HelpTOCNode Id="be1df4c2-4062-46c6-aa87-415dcac741c2" Title="Endpoint Properties" Url="html/Properties_T_CacheManager_Redis_Endpoint.htm">
+        <HelpTOCNode Id="06bf2f90-db42-4400-8d8b-b1e517542104" Title="Endpoint Properties" Url="html/Properties_T_CacheManager_Redis_Endpoint.htm">
           <HelpTOCNode Title="Host Property " Url="html/P_CacheManager_Redis_Endpoint_Host.htm" />
           <HelpTOCNode Title="Port Property " Url="html/P_CacheManager_Redis_Endpoint_Port.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="892142c4-2ae6-4329-88fc-617a157d8157" Title="EndpointCollection Class" Url="html/T_CacheManager_Redis_EndpointCollection.htm">
+      <HelpTOCNode Id="c43c5dc3-dc3f-4e6b-b3f2-cc0a93feb734" Title="EndpointCollection Class" Url="html/T_CacheManager_Redis_EndpointCollection.htm">
         <HelpTOCNode Title="EndpointCollection Constructor " Url="html/M_CacheManager_Redis_EndpointCollection__ctor.htm" />
-        <HelpTOCNode Id="827e8f16-e6a9-4b46-9bab-65e8d21a75e3" Title="EndpointCollection Methods" Url="html/Methods_T_CacheManager_Redis_EndpointCollection.htm">
+        <HelpTOCNode Id="6adc70a3-2962-4612-ab9c-0c6b683a05da" Title="EndpointCollection Methods" Url="html/Methods_T_CacheManager_Redis_EndpointCollection.htm">
           <HelpTOCNode Title="GetEnumerator Method " Url="html/M_CacheManager_Redis_EndpointCollection_GetEnumerator.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="EndpointCollection Properties" Url="html/Properties_T_CacheManager_Redis_EndpointCollection.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="bb7be7ca-3bb1-45f7-ba13-2c370b1d3487" Title="RedisCacheBackPlate Class" Url="html/T_CacheManager_Redis_RedisCacheBackPlate.htm">
+      <HelpTOCNode Id="632e3b42-1f4d-4415-bb08-52a3e1d920c7" Title="RedisCacheBackPlate Class" Url="html/T_CacheManager_Redis_RedisCacheBackPlate.htm">
         <HelpTOCNode Title="RedisCacheBackPlate Constructor " Url="html/M_CacheManager_Redis_RedisCacheBackPlate__ctor.htm" />
-        <HelpTOCNode Id="813cf6c8-4b60-4350-a5fc-3c54bf6a0f56" Title="RedisCacheBackPlate Methods" Url="html/Methods_T_CacheManager_Redis_RedisCacheBackPlate.htm">
-          <HelpTOCNode Id="bac912d0-2880-4636-94ea-ff0c0337b1cb" Title="NotifyChange Method " Url="html/Overload_CacheManager_Redis_RedisCacheBackPlate_NotifyChange.htm">
+        <HelpTOCNode Id="3abe94a7-6ba0-49d8-85d9-3b5f791f1e4f" Title="RedisCacheBackPlate Methods" Url="html/Methods_T_CacheManager_Redis_RedisCacheBackPlate.htm">
+          <HelpTOCNode Id="e56a7f0e-1799-46a5-9909-e72a8907244e" Title="NotifyChange Method " Url="html/Overload_CacheManager_Redis_RedisCacheBackPlate_NotifyChange.htm">
             <HelpTOCNode Title="NotifyChange Method (String)" Url="html/M_CacheManager_Redis_RedisCacheBackPlate_NotifyChange.htm" />
             <HelpTOCNode Title="NotifyChange Method (String, String)" Url="html/M_CacheManager_Redis_RedisCacheBackPlate_NotifyChange_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="NotifyClear Method " Url="html/M_CacheManager_Redis_RedisCacheBackPlate_NotifyClear.htm" />
           <HelpTOCNode Title="NotifyClearRegion Method " Url="html/M_CacheManager_Redis_RedisCacheBackPlate_NotifyClearRegion.htm" />
-          <HelpTOCNode Id="25f6b3a5-b5f6-4bbb-bbc2-6b024322bd45" Title="NotifyRemove Method " Url="html/Overload_CacheManager_Redis_RedisCacheBackPlate_NotifyRemove.htm">
+          <HelpTOCNode Id="1ad5a393-5988-4c81-9f37-353e082cbfa3" Title="NotifyRemove Method " Url="html/Overload_CacheManager_Redis_RedisCacheBackPlate_NotifyRemove.htm">
             <HelpTOCNode Title="NotifyRemove Method (String)" Url="html/M_CacheManager_Redis_RedisCacheBackPlate_NotifyRemove.htm" />
             <HelpTOCNode Title="NotifyRemove Method (String, String)" Url="html/M_CacheManager_Redis_RedisCacheBackPlate_NotifyRemove_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
         <HelpTOCNode Title="RedisCacheBackPlate Properties" Url="html/Properties_T_CacheManager_Redis_RedisCacheBackPlate.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c58dad2f-6719-4fe5-a279-fa8d9f71d8e6" Title="RedisCacheHandle Class" Url="html/T_CacheManager_Redis_RedisCacheHandle.htm">
+      <HelpTOCNode Id="9ca2bd9b-2d84-4077-b3fe-c56e5ed3ef6e" Title="RedisCacheHandle Class" Url="html/T_CacheManager_Redis_RedisCacheHandle.htm">
         <HelpTOCNode Title="RedisCacheHandle Constructor " Url="html/M_CacheManager_Redis_RedisCacheHandle__ctor.htm" />
         <HelpTOCNode Title="RedisCacheHandle Methods" Url="html/Methods_T_CacheManager_Redis_RedisCacheHandle.htm" />
         <HelpTOCNode Title="RedisCacheHandle Properties" Url="html/Properties_T_CacheManager_Redis_RedisCacheHandle.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="f0883e5b-3e96-4fe1-8505-4cc1051056ec" Title="RedisCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_Redis_RedisCacheHandle_1.htm">
+      <HelpTOCNode Id="6835c2cb-a716-47a0-912b-eaa21b0e4bde" Title="RedisCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_Redis_RedisCacheHandle_1.htm">
         <HelpTOCNode Title="RedisCacheHandle(TCacheValue) Constructor " Url="html/M_CacheManager_Redis_RedisCacheHandle_1__ctor.htm" />
-        <HelpTOCNode Id="c8ad4524-d3c9-4258-98b0-449a58d1c67d" Title="RedisCacheHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Redis_RedisCacheHandle_1.htm">
+        <HelpTOCNode Id="1b02768e-aecf-4838-aee0-08b1726141a7" Title="RedisCacheHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_Redis_RedisCacheHandle_1.htm">
           <HelpTOCNode Title="AddInternalPrepared Method " Url="html/M_CacheManager_Redis_RedisCacheHandle_1_AddInternalPrepared.htm" />
           <HelpTOCNode Title="Clear Method " Url="html/M_CacheManager_Redis_RedisCacheHandle_1_Clear.htm" />
           <HelpTOCNode Title="ClearRegion Method " Url="html/M_CacheManager_Redis_RedisCacheHandle_1_ClearRegion.htm" />
-          <HelpTOCNode Id="e9519316-7cba-43ac-b9af-2a348c964ecb" Title="Dispose Method " Url="html/Overload_CacheManager_Redis_RedisCacheHandle_1_Dispose.htm">
+          <HelpTOCNode Id="e7ea992e-8406-4597-9dea-84f3ee6bf759" Title="Dispose Method " Url="html/Overload_CacheManager_Redis_RedisCacheHandle_1_Dispose.htm">
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_CacheManager_Redis_RedisCacheHandle_1_Dispose.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="7907abb7-76a6-4d6c-8737-e224a05ad75d" Title="GetCacheItemInternal Method " Url="html/Overload_CacheManager_Redis_RedisCacheHandle_1_GetCacheItemInternal.htm">
+          <HelpTOCNode Id="badd03c4-ef51-49d0-9d27-e825da42962a" Title="GetCacheItemInternal Method " Url="html/Overload_CacheManager_Redis_RedisCacheHandle_1_GetCacheItemInternal.htm">
             <HelpTOCNode Title="GetCacheItemInternal Method (String)" Url="html/M_CacheManager_Redis_RedisCacheHandle_1_GetCacheItemInternal.htm" />
             <HelpTOCNode Title="GetCacheItemInternal Method (String, String)" Url="html/M_CacheManager_Redis_RedisCacheHandle_1_GetCacheItemInternal_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="GetServers Method " Url="html/M_CacheManager_Redis_RedisCacheHandle_1_GetServers.htm" />
           <HelpTOCNode Title="PutInternal Method " Url="html/M_CacheManager_Redis_RedisCacheHandle_1_PutInternal.htm" />
           <HelpTOCNode Title="PutInternalPrepared Method " Url="html/M_CacheManager_Redis_RedisCacheHandle_1_PutInternalPrepared.htm" />
-          <HelpTOCNode Id="44d31d9e-b7b7-45bd-a773-6a33585a0888" Title="RemoveInternal Method " Url="html/Overload_CacheManager_Redis_RedisCacheHandle_1_RemoveInternal.htm">
+          <HelpTOCNode Id="47df16d1-a976-4651-bcda-b0d21a012eff" Title="RemoveInternal Method " Url="html/Overload_CacheManager_Redis_RedisCacheHandle_1_RemoveInternal.htm">
             <HelpTOCNode Title="RemoveInternal Method (String)" Url="html/M_CacheManager_Redis_RedisCacheHandle_1_RemoveInternal.htm" />
             <HelpTOCNode Title="RemoveInternal Method (String, String)" Url="html/M_CacheManager_Redis_RedisCacheHandle_1_RemoveInternal_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="f295e12c-c8ba-4f58-a494-aabf0d384e8d" Title="Update Method " Url="html/Overload_CacheManager_Redis_RedisCacheHandle_1_Update.htm">
+          <HelpTOCNode Id="d30071c8-8db3-4e7e-8996-64934775b2d8" Title="Update Method " Url="html/Overload_CacheManager_Redis_RedisCacheHandle_1_Update.htm">
             <HelpTOCNode Title="Update Method (String, Func(TCacheValue, TCacheValue), UpdateItemConfig)" Url="html/M_CacheManager_Redis_RedisCacheHandle_1_Update.htm" />
             <HelpTOCNode Title="Update Method (String, String, Func(TCacheValue, TCacheValue), UpdateItemConfig)" Url="html/M_CacheManager_Redis_RedisCacheHandle_1_Update_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="6f4b10c2-011a-47b6-9962-06e5fca82740" Title="RedisCacheHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Redis_RedisCacheHandle_1.htm">
+        <HelpTOCNode Id="a37123ad-53ee-4b9a-96be-f7c6c769c049" Title="RedisCacheHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_Redis_RedisCacheHandle_1.htm">
           <HelpTOCNode Title="Count Property " Url="html/P_CacheManager_Redis_RedisCacheHandle_1_Count.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="4066828f-012f-4c21-9ddb-8415962dbaa7" Title="RedisConfiguration Class" Url="html/T_CacheManager_Redis_RedisConfiguration.htm">
-        <HelpTOCNode Id="4aa54e58-2ffe-4b12-ab67-95adca97dd1e" Title="RedisConfiguration Constructor " Url="html/Overload_CacheManager_Redis_RedisConfiguration__ctor.htm">
+      <HelpTOCNode Id="2985607d-6963-48a1-9ac6-3cfe2315c441" Title="RedisConfiguration Class" Url="html/T_CacheManager_Redis_RedisConfiguration.htm">
+        <HelpTOCNode Id="f2c86f00-b52d-4807-84dd-11a8d6782a8b" Title="RedisConfiguration Constructor " Url="html/Overload_CacheManager_Redis_RedisConfiguration__ctor.htm">
           <HelpTOCNode Title="RedisConfiguration Constructor (String, String)" Url="html/M_CacheManager_Redis_RedisConfiguration__ctor_1.htm" />
           <HelpTOCNode Title="RedisConfiguration Constructor (String, IList(ServerEndPoint), Int32, String, Boolean, String, Int32, Boolean)" Url="html/M_CacheManager_Redis_RedisConfiguration__ctor.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="RedisConfiguration Methods" Url="html/Methods_T_CacheManager_Redis_RedisConfiguration.htm" />
-        <HelpTOCNode Id="28a5eef4-d2aa-4230-bce0-72a6f0636228" Title="RedisConfiguration Properties" Url="html/Properties_T_CacheManager_Redis_RedisConfiguration.htm">
+        <HelpTOCNode Id="60db367b-3b6f-4a8f-917d-e8049b94aad0" Title="RedisConfiguration Properties" Url="html/Properties_T_CacheManager_Redis_RedisConfiguration.htm">
           <HelpTOCNode Title="AllowAdmin Property " Url="html/P_CacheManager_Redis_RedisConfiguration_AllowAdmin.htm" />
           <HelpTOCNode Title="ConnectionString Property " Url="html/P_CacheManager_Redis_RedisConfiguration_ConnectionString.htm" />
           <HelpTOCNode Title="ConnectionTimeout Property " Url="html/P_CacheManager_Redis_RedisConfiguration_ConnectionTimeout.htm" />
@@ -801,9 +801,9 @@
           <HelpTOCNode Title="SslHost Property " Url="html/P_CacheManager_Redis_RedisConfiguration_SslHost.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b0986e22-4ce1-4690-bd29-3f6133334668" Title="RedisConfigurationBuilder Class" Url="html/T_CacheManager_Redis_RedisConfigurationBuilder.htm">
+      <HelpTOCNode Id="d2d14207-90bb-4a97-b524-04b873fdad26" Title="RedisConfigurationBuilder Class" Url="html/T_CacheManager_Redis_RedisConfigurationBuilder.htm">
         <HelpTOCNode Title="RedisConfigurationBuilder Constructor " Url="html/M_CacheManager_Redis_RedisConfigurationBuilder__ctor.htm" />
-        <HelpTOCNode Id="6a723957-40a2-4538-a578-dba37396d92b" Title="RedisConfigurationBuilder Methods" Url="html/Methods_T_CacheManager_Redis_RedisConfigurationBuilder.htm">
+        <HelpTOCNode Id="16283351-d6fc-4280-b80c-a9694645c755" Title="RedisConfigurationBuilder Methods" Url="html/Methods_T_CacheManager_Redis_RedisConfigurationBuilder.htm">
           <HelpTOCNode Title="Build Method " Url="html/M_CacheManager_Redis_RedisConfigurationBuilder_Build.htm" />
           <HelpTOCNode Title="WithAllowAdmin Method " Url="html/M_CacheManager_Redis_RedisConfigurationBuilder_WithAllowAdmin.htm" />
           <HelpTOCNode Title="WithConnectionTimeout Method " Url="html/M_CacheManager_Redis_RedisConfigurationBuilder_WithConnectionTimeout.htm" />
@@ -813,11 +813,11 @@
           <HelpTOCNode Title="WithSsl Method " Url="html/M_CacheManager_Redis_RedisConfigurationBuilder_WithSsl.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="5076f68f-dbfd-4f6c-96f4-bde6cce7ff71" Title="RedisConfigurations Class" Url="html/T_CacheManager_Redis_RedisConfigurations.htm">
-        <HelpTOCNode Id="475a95e6-7d16-467f-9bc3-665ab85d1f6d" Title="RedisConfigurations Methods" Url="html/Methods_T_CacheManager_Redis_RedisConfigurations.htm">
+      <HelpTOCNode Id="1d7cf14c-c999-44be-b55e-a19fcf88da9b" Title="RedisConfigurations Class" Url="html/T_CacheManager_Redis_RedisConfigurations.htm">
+        <HelpTOCNode Id="5c2800ef-40bf-4b30-87ba-56fc130388aa" Title="RedisConfigurations Methods" Url="html/Methods_T_CacheManager_Redis_RedisConfigurations.htm">
           <HelpTOCNode Title="AddConfiguration Method " Url="html/M_CacheManager_Redis_RedisConfigurations_AddConfiguration.htm" />
           <HelpTOCNode Title="GetConfiguration Method " Url="html/M_CacheManager_Redis_RedisConfigurations_GetConfiguration.htm" />
-          <HelpTOCNode Id="e061cbf1-f95b-42fb-a6ca-44c36a536f00" Title="LoadConfiguration Method " Url="html/Overload_CacheManager_Redis_RedisConfigurations_LoadConfiguration.htm">
+          <HelpTOCNode Id="7adbf74a-56bf-4163-9c8d-a905a249b03a" Title="LoadConfiguration Method " Url="html/Overload_CacheManager_Redis_RedisConfigurations_LoadConfiguration.htm">
             <HelpTOCNode Title="LoadConfiguration Method " Url="html/M_CacheManager_Redis_RedisConfigurations_LoadConfiguration.htm" />
             <HelpTOCNode Title="LoadConfiguration Method (String)" Url="html/M_CacheManager_Redis_RedisConfigurations_LoadConfiguration_2.htm" />
             <HelpTOCNode Title="LoadConfiguration Method (RedisConfigurationSection)" Url="html/M_CacheManager_Redis_RedisConfigurations_LoadConfiguration_1.htm" />
@@ -825,28 +825,28 @@
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="01c52f26-dde6-4009-aacd-da4607981838" Title="RedisConfigurationSection Class" Url="html/T_CacheManager_Redis_RedisConfigurationSection.htm">
+      <HelpTOCNode Id="a29e4b5a-b59e-4e62-9dd6-1d7fc5768a15" Title="RedisConfigurationSection Class" Url="html/T_CacheManager_Redis_RedisConfigurationSection.htm">
         <HelpTOCNode Title="RedisConfigurationSection Constructor " Url="html/M_CacheManager_Redis_RedisConfigurationSection__ctor.htm" />
-        <HelpTOCNode Id="3272e0b2-7f60-4ea8-bb40-5404913c432a" Title="RedisConfigurationSection Fields" Url="html/Fields_T_CacheManager_Redis_RedisConfigurationSection.htm">
+        <HelpTOCNode Id="6b63e590-e019-43be-a24b-c6d29a6f3ff1" Title="RedisConfigurationSection Fields" Url="html/Fields_T_CacheManager_Redis_RedisConfigurationSection.htm">
           <HelpTOCNode Title="DefaultSectionName Field" Url="html/F_CacheManager_Redis_RedisConfigurationSection_DefaultSectionName.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="RedisConfigurationSection Methods" Url="html/Methods_T_CacheManager_Redis_RedisConfigurationSection.htm" />
-        <HelpTOCNode Id="1559d231-a4f2-40af-a754-d14a77d45879" Title="RedisConfigurationSection Properties" Url="html/Properties_T_CacheManager_Redis_RedisConfigurationSection.htm">
+        <HelpTOCNode Id="a4d501fb-300c-4c6c-a3a1-62341227ca53" Title="RedisConfigurationSection Properties" Url="html/Properties_T_CacheManager_Redis_RedisConfigurationSection.htm">
           <HelpTOCNode Title="Connections Property " Url="html/P_CacheManager_Redis_RedisConfigurationSection_Connections.htm" />
           <HelpTOCNode Title="Xmlns Property " Url="html/P_CacheManager_Redis_RedisConfigurationSection_Xmlns.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e0b714b4-0bc5-499b-98b4-f5230aa5087e" Title="RedisOptionCollection Class" Url="html/T_CacheManager_Redis_RedisOptionCollection.htm">
+      <HelpTOCNode Id="abc10f24-5c75-46cf-b557-1e24bbffe3cc" Title="RedisOptionCollection Class" Url="html/T_CacheManager_Redis_RedisOptionCollection.htm">
         <HelpTOCNode Title="RedisOptionCollection Constructor " Url="html/M_CacheManager_Redis_RedisOptionCollection__ctor.htm" />
-        <HelpTOCNode Id="97395bee-6bb3-48c3-bbfd-f559520ba00c" Title="RedisOptionCollection Methods" Url="html/Methods_T_CacheManager_Redis_RedisOptionCollection.htm">
+        <HelpTOCNode Id="8e302953-ae00-4f39-8c76-345f232e575e" Title="RedisOptionCollection Methods" Url="html/Methods_T_CacheManager_Redis_RedisOptionCollection.htm">
           <HelpTOCNode Title="GetEnumerator Method " Url="html/M_CacheManager_Redis_RedisOptionCollection_GetEnumerator.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="RedisOptionCollection Properties" Url="html/Properties_T_CacheManager_Redis_RedisOptionCollection.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="58d2d3f3-9c75-4189-bc6c-0beba39f14ec" Title="RedisOptions Class" Url="html/T_CacheManager_Redis_RedisOptions.htm">
+      <HelpTOCNode Id="854492e4-0ef4-4dca-ab77-b9cc056ec146" Title="RedisOptions Class" Url="html/T_CacheManager_Redis_RedisOptions.htm">
         <HelpTOCNode Title="RedisOptions Constructor " Url="html/M_CacheManager_Redis_RedisOptions__ctor.htm" />
         <HelpTOCNode Title="RedisOptions Methods" Url="html/Methods_T_CacheManager_Redis_RedisOptions.htm" />
-        <HelpTOCNode Id="5e8b31cf-eeba-4b7a-b1c3-3848cf3a5faf" Title="RedisOptions Properties" Url="html/Properties_T_CacheManager_Redis_RedisOptions.htm">
+        <HelpTOCNode Id="c37e7cc1-f91d-47b1-af8a-4cc917750339" Title="RedisOptions Properties" Url="html/Properties_T_CacheManager_Redis_RedisOptions.htm">
           <HelpTOCNode Title="AllowAdmin Property " Url="html/P_CacheManager_Redis_RedisOptions_AllowAdmin.htm" />
           <HelpTOCNode Title="ConnectionString Property " Url="html/P_CacheManager_Redis_RedisOptions_ConnectionString.htm" />
           <HelpTOCNode Title="ConnectionTimeout Property " Url="html/P_CacheManager_Redis_RedisOptions_ConnectionTimeout.htm" />
@@ -858,76 +858,76 @@
           <HelpTOCNode Title="SslHost Property " Url="html/P_CacheManager_Redis_RedisOptions_SslHost.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="08cc368d-0791-431c-aec3-7a043d7a355d" Title="ServerEndPoint Class" Url="html/T_CacheManager_Redis_ServerEndPoint.htm">
+      <HelpTOCNode Id="34e8ea99-8232-4b07-8742-978920df646c" Title="ServerEndPoint Class" Url="html/T_CacheManager_Redis_ServerEndPoint.htm">
         <HelpTOCNode Title="ServerEndPoint Constructor " Url="html/M_CacheManager_Redis_ServerEndPoint__ctor.htm" />
         <HelpTOCNode Title="ServerEndPoint Methods" Url="html/Methods_T_CacheManager_Redis_ServerEndPoint.htm" />
-        <HelpTOCNode Id="4381c1cd-7db8-4981-a178-e76bdd92d22b" Title="ServerEndPoint Properties" Url="html/Properties_T_CacheManager_Redis_ServerEndPoint.htm">
+        <HelpTOCNode Id="af425afd-5754-4c2f-b0c6-d18a16e0d0ec" Title="ServerEndPoint Properties" Url="html/Properties_T_CacheManager_Redis_ServerEndPoint.htm">
           <HelpTOCNode Title="Host Property " Url="html/P_CacheManager_Redis_ServerEndPoint_Host.htm" />
           <HelpTOCNode Title="Port Property " Url="html/P_CacheManager_Redis_ServerEndPoint_Port.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="1a58317f-211e-4ac3-8989-db01f212ebd8" Title="CacheManager.Serialization" Url="html/N_CacheManager_Serialization.htm">
-      <HelpTOCNode Id="653f26c8-fcd1-4bb3-b513-4f378b67b38b" Title="CacheItemConverter(T) Class" Url="html/T_CacheManager_Serialization_CacheItemConverter_1.htm">
+    <HelpTOCNode Id="83ced876-ee01-4e39-9425-5b298eabee42" Title="CacheManager.Serialization" Url="html/N_CacheManager_Serialization.htm">
+      <HelpTOCNode Id="2d56301e-b8cc-496a-9a5f-1113b023b35d" Title="CacheItemConverter(T) Class" Url="html/T_CacheManager_Serialization_CacheItemConverter_1.htm">
         <HelpTOCNode Title="CacheItemConverter(T) Constructor " Url="html/M_CacheManager_Serialization_CacheItemConverter_1__ctor.htm" />
-        <HelpTOCNode Id="9a653203-6ad9-4082-b9e0-27d7932db65a" Title="CacheItemConverter(T) Methods" Url="html/Methods_T_CacheManager_Serialization_CacheItemConverter_1.htm">
+        <HelpTOCNode Id="0bad805f-5190-4975-bbf2-3937c9529ae8" Title="CacheItemConverter(T) Methods" Url="html/Methods_T_CacheManager_Serialization_CacheItemConverter_1.htm">
           <HelpTOCNode Title="CanConvert Method " Url="html/M_CacheManager_Serialization_CacheItemConverter_1_CanConvert.htm" />
           <HelpTOCNode Title="ReadJson Method " Url="html/M_CacheManager_Serialization_CacheItemConverter_1_ReadJson.htm" />
           <HelpTOCNode Title="WriteJson Method " Url="html/M_CacheManager_Serialization_CacheItemConverter_1_WriteJson.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="dce6ed7a-2512-459c-b384-4ce27ca681ce" Title="CacheItemConverter(T) Properties" Url="html/Properties_T_CacheManager_Serialization_CacheItemConverter_1.htm">
+        <HelpTOCNode Id="3746dad0-b747-4573-8dd7-b74835229a7f" Title="CacheItemConverter(T) Properties" Url="html/Properties_T_CacheManager_Serialization_CacheItemConverter_1.htm">
           <HelpTOCNode Title="CanRead Property " Url="html/P_CacheManager_Serialization_CacheItemConverter_1_CanRead.htm" />
           <HelpTOCNode Title="CanWrite Property " Url="html/P_CacheManager_Serialization_CacheItemConverter_1_CanWrite.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b354c0ce-2ff9-4a46-a9d1-293b5ec722d7" Title="CacheManager.SystemRuntimeCaching" Url="html/N_CacheManager_SystemRuntimeCaching.htm">
-      <HelpTOCNode Id="8d441cd9-5eb7-437b-b401-ea71a55b3639" Title="MemoryCacheHandle Class" Url="html/T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle.htm">
+    <HelpTOCNode Id="83c0d704-4ea1-4613-acac-9ff009e08e2c" Title="CacheManager.SystemRuntimeCaching" Url="html/N_CacheManager_SystemRuntimeCaching.htm">
+      <HelpTOCNode Id="981d6fed-4610-4059-9dca-2d8afad3c9e5" Title="MemoryCacheHandle Class" Url="html/T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle.htm">
         <HelpTOCNode Title="MemoryCacheHandle Constructor " Url="html/M_CacheManager_SystemRuntimeCaching_MemoryCacheHandle__ctor.htm" />
         <HelpTOCNode Title="MemoryCacheHandle Methods" Url="html/Methods_T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle.htm" />
         <HelpTOCNode Title="MemoryCacheHandle Properties" Url="html/Properties_T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="ecff09db-f1c6-42ba-91b9-8fbb04e8f5f3" Title="MemoryCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1.htm">
+      <HelpTOCNode Id="e926582c-e408-4bfb-84a8-c267f9e7f94e" Title="MemoryCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1.htm">
         <HelpTOCNode Title="MemoryCacheHandle(TCacheValue) Constructor " Url="html/M_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1__ctor.htm" />
-        <HelpTOCNode Id="228e8726-3c05-422d-95a5-34e661ce4a22" Title="MemoryCacheHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1.htm">
+        <HelpTOCNode Id="bf3a43c7-eb66-4165-b0f3-93d73883e5c6" Title="MemoryCacheHandle(TCacheValue) Methods" Url="html/Methods_T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1.htm">
           <HelpTOCNode Title="AddInternalPrepared Method " Url="html/M_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_AddInternalPrepared.htm" />
           <HelpTOCNode Title="Clear Method " Url="html/M_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_Clear.htm" />
           <HelpTOCNode Title="ClearRegion Method " Url="html/M_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_ClearRegion.htm" />
-          <HelpTOCNode Id="31e75013-97ed-4ac6-a99e-6dbe0cd41794" Title="GetCacheItemInternal Method " Url="html/Overload_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_GetCacheItemInternal.htm">
+          <HelpTOCNode Id="0da99a0c-1c15-40c2-95f0-568011b2450c" Title="GetCacheItemInternal Method " Url="html/Overload_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_GetCacheItemInternal.htm">
             <HelpTOCNode Title="GetCacheItemInternal Method (String)" Url="html/M_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_GetCacheItemInternal.htm" />
             <HelpTOCNode Title="GetCacheItemInternal Method (String, String)" Url="html/M_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_GetCacheItemInternal_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="PutInternalPrepared Method " Url="html/M_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_PutInternalPrepared.htm" />
-          <HelpTOCNode Id="8beeae4d-4770-4a39-aa05-e766af27332b" Title="RemoveInternal Method " Url="html/Overload_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_RemoveInternal.htm">
+          <HelpTOCNode Id="eb45cb69-8685-49c3-a637-531b72703eca" Title="RemoveInternal Method " Url="html/Overload_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_RemoveInternal.htm">
             <HelpTOCNode Title="RemoveInternal Method (String)" Url="html/M_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_RemoveInternal.htm" />
             <HelpTOCNode Title="RemoveInternal Method (String, String)" Url="html/M_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_RemoveInternal_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="b153a513-ffde-48ca-bed5-3ea97d115247" Title="MemoryCacheHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1.htm">
+        <HelpTOCNode Id="000d416b-fd14-4a3e-b255-176af23e78fb" Title="MemoryCacheHandle(TCacheValue) Properties" Url="html/Properties_T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1.htm">
           <HelpTOCNode Title="CacheSettings Property " Url="html/P_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_CacheSettings.htm" />
           <HelpTOCNode Title="Count Property " Url="html/P_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_Count.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="bad4c0fa-cffd-4048-b3fe-1cbe93d9d946" Title="CacheManager.Web" Url="html/N_CacheManager_Web.htm">
-      <HelpTOCNode Id="92087ce7-824a-490c-905f-39a14bdd089a" Title="CacheManagerOutputCacheProvider Class" Url="html/T_CacheManager_Web_CacheManagerOutputCacheProvider.htm">
+    <HelpTOCNode Id="7f74609b-2f4d-4e64-be9d-aed554dd8d0b" Title="CacheManager.Web" Url="html/N_CacheManager_Web.htm">
+      <HelpTOCNode Id="d77ad052-39bb-42dd-a9e8-0354c7fecd69" Title="CacheManagerOutputCacheProvider Class" Url="html/T_CacheManager_Web_CacheManagerOutputCacheProvider.htm">
         <HelpTOCNode Title="CacheManagerOutputCacheProvider Constructor " Url="html/M_CacheManager_Web_CacheManagerOutputCacheProvider__ctor.htm" />
-        <HelpTOCNode Id="48401263-b18d-462c-8cc4-a87e6e2038a8" Title="CacheManagerOutputCacheProvider Methods" Url="html/Methods_T_CacheManager_Web_CacheManagerOutputCacheProvider.htm">
+        <HelpTOCNode Id="10f46752-cd02-446d-865f-d161ca84c6f1" Title="CacheManagerOutputCacheProvider Methods" Url="html/Methods_T_CacheManager_Web_CacheManagerOutputCacheProvider.htm">
           <HelpTOCNode Title="Add Method " Url="html/M_CacheManager_Web_CacheManagerOutputCacheProvider_Add.htm" />
           <HelpTOCNode Title="Get Method " Url="html/M_CacheManager_Web_CacheManagerOutputCacheProvider_Get.htm" />
           <HelpTOCNode Title="Initialize Method " Url="html/M_CacheManager_Web_CacheManagerOutputCacheProvider_Initialize.htm" />
           <HelpTOCNode Title="Remove Method " Url="html/M_CacheManager_Web_CacheManagerOutputCacheProvider_Remove.htm" />
           <HelpTOCNode Title="Set Method " Url="html/M_CacheManager_Web_CacheManagerOutputCacheProvider_Set.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="fee75449-fe00-4a7a-84d5-e98a0af8827d" Title="CacheManagerOutputCacheProvider Properties" Url="html/Properties_T_CacheManager_Web_CacheManagerOutputCacheProvider.htm">
+        <HelpTOCNode Id="daf76258-c696-48aa-8c66-1d8c9e438246" Title="CacheManagerOutputCacheProvider Properties" Url="html/Properties_T_CacheManager_Web_CacheManagerOutputCacheProvider.htm">
           <HelpTOCNode Title="Cache Property " Url="html/P_CacheManager_Web_CacheManagerOutputCacheProvider_Cache.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5bdb1e68-1e28-44d4-b729-9a0c82a5f8b9" Title="CacheManager.WindowsAzureCaching" Url="html/N_CacheManager_WindowsAzureCaching.htm">
-      <HelpTOCNode Id="ed1a7151-8a0f-429e-b60f-c4393b65dd79" Title="ProtoBufDataCacheObjectSerializer(T) Class" Url="html/T_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1.htm">
+    <HelpTOCNode Id="4ceeecf2-7611-4d43-b1d1-99a44a7a2bc8" Title="CacheManager.WindowsAzureCaching" Url="html/N_CacheManager_WindowsAzureCaching.htm">
+      <HelpTOCNode Id="49f41dff-3488-4d47-ba6c-9c72657d9d40" Title="ProtoBufDataCacheObjectSerializer(T) Class" Url="html/T_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1.htm">
         <HelpTOCNode Title="ProtoBufDataCacheObjectSerializer(T) Constructor " Url="html/M_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1__ctor.htm" />
-        <HelpTOCNode Id="ad7ccdf1-463a-4d64-9590-ce82f0af5312" Title="ProtoBufDataCacheObjectSerializer(T) Methods" Url="html/Methods_T_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1.htm">
+        <HelpTOCNode Id="5618f539-504b-4ddb-9be2-42d324b9fbda" Title="ProtoBufDataCacheObjectSerializer(T) Methods" Url="html/Methods_T_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1.htm">
           <HelpTOCNode Title="Deserialize Method " Url="html/M_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1_Deserialize.htm" />
           <HelpTOCNode Title="Serialize Method " Url="html/M_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1_Serialize.htm" />
         </HelpTOCNode>

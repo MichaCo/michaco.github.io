@@ -64,7 +64,7 @@
     <RootNamespaceTitle>Packages</RootNamespaceTitle>
     <ProjectSummary>&amp;lt%3ba href=&amp;quot%3bhttp://michaco.github.io/CacheManager&amp;quot%3b&amp;gt%3bCacheManager&amp;lt%3b/a&amp;gt%3b is a common interface and abstraction layer for caching. It supports various cache providers and implements many advanced features. </ProjectSummary>
     <FooterText>%24%24footer%24%24</FooterText>
-    <HeaderText>Visit &amp;lt%3ba href=&amp;quot%3bhttp://michaco.github.io&amp;quot%3b&amp;gt%3bmichaco.github.io&amp;lt%3b/a&amp;gt%3b for updates, examples and more documentation.</HeaderText>
+    <HeaderText>Visit &amp;lt%3ba href=&amp;quot%3bhttp://mconrad.azurewebsites.net/&amp;quot%3b&amp;gt%3bmconrad.azurewebsites.net&amp;lt%3b/a&amp;gt%3b for updates, examples and more documentation.</HeaderText>
   </PropertyGroup>
   <!-- There are no properties for these groups.  AnyCPU needs to appear in order for Visual Studio to perform
 			 the build.  The others are optional common platform types that may appear. -->

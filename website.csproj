@@ -45,6 +45,31 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="cachemanager.shfbproj" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_100.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_101.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_102.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_103.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_104.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_105.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_106.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_107.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_108.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_109.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_110.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_111.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_112.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_114.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_115.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_116.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_117.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_118.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_119.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_120.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_122.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_97.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_98.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_99.json" />
+    <Content Include="Documentation\CacheManager\Help\fti\FTI_Files.json" />
     <Content Include="Documentation\CacheManager\Help\html\Events_T_CacheManager_Core_Cache_BaseCacheManager_1.htm" />
     <Content Include="Documentation\CacheManager\Help\html\Events_T_CacheManager_Core_ICacheManager_1.htm" />
     <Content Include="Documentation\CacheManager\Help\html\E_CacheManager_Core_Cache_BaseCacheManager_1_OnAdd.htm" />
@@ -694,6 +719,7 @@
     <Content Include="Documentation\CacheManager\Help\html\P_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_Count.htm" />
     <Content Include="Documentation\CacheManager\Help\html\P_CacheManager_Web_CacheManagerOutputCacheProvider_Cache.htm" />
     <Content Include="Documentation\CacheManager\Help\html\R_Project_CacheManager_Documentation.htm" />
+    <Content Include="Documentation\CacheManager\Help\html\R_Project_Cache_Manager_Documentation.htm" />
     <Content Include="Documentation\CacheManager\Help\html\T_CacheManager_AppFabricCache_AppFabricCacheHandle.htm" />
     <Content Include="Documentation\CacheManager\Help\html\T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm" />
     <Content Include="Documentation\CacheManager\Help\html\T_CacheManager_Core_CacheFactory.htm" />
@@ -997,6 +1023,7 @@
     <Content Include="Documentation\CacheManager\Help\toc\Properties_T_CacheManager_Web_CacheManagerOutputCacheProvider.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\roottoc.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\R_Project_CacheManager_Documentation.xml" />
+    <Content Include="Documentation\CacheManager\Help\toc\R_Project_Cache_Manager_Documentation.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\T_CacheManager_AppFabricCache_AppFabricCacheHandle.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\T_CacheManager_Core_CacheFactory.xml" />
@@ -1056,6 +1083,7 @@
     <Content Include="Documentation\CacheManager\Help\toc\T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\T_CacheManager_Web_CacheManagerOutputCacheProvider.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\T_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1.xml" />
+    <Content Include="Documentation\CacheManager\Help\Web.Config" />
     <Content Include="Documentation\CacheManager\Help\WebKI.xml" />
     <Content Include="Documentation\CacheManager\Help\WebTOC.xml" />
     <Content Include="index.html" />
@@ -1063,34 +1091,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_100.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_101.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_102.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_103.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_104.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_105.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_106.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_107.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_108.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_109.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_110.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_111.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_112.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_114.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_115.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_116.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_117.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_118.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_119.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_120.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_122.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_97.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_98.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_99.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_Files.json" />
-    <Content Include="Documentation\CacheManager\Help\Web.Config" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="README.md" />
