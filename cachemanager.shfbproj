@@ -15,7 +15,7 @@
     <!-- SHFB properties -->
     <FrameworkVersion>.NET Framework 4.5</FrameworkVersion>
     <OutputPath>Documentation\CacheManager\Help\</OutputPath>
-    <HtmlHelpName>CacheManager Documentation</HtmlHelpName>
+    <HtmlHelpName>Cache Manager Documentation</HtmlHelpName>
     <Language>en-US</Language>
     <BuildAssemblerVerbosity>OnlyWarningsAndErrors</BuildAssemblerVerbosity>
     <BuildLogFile>C:\Temp\build.log</BuildLogFile>
@@ -46,7 +46,7 @@
     <PresentationStyle>VS2013</PresentationStyle>
     <Preliminary>False</Preliminary>
     <NamingMethod>MemberName</NamingMethod>
-    <HelpTitle>CacheManager Documentation</HelpTitle>
+    <HelpTitle>Cache Manager Documentation</HelpTitle>
     <ContentPlacement>AboveNamespaces</ContentPlacement>
     <NamespaceSummaries>
       <NamespaceSummaryItem name="(global)" isDocumented="True" />
