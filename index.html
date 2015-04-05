@@ -20,19 +20,29 @@
             <div id="primary" class="content-area col-sm-12 col-md-12">
                 <main id="main" class="site-main" role="main">
                     <div ng-view>
+                        
                         <a href="CacheManager">Cache Manager documentation</a><br />
                         <a href="Documentation/CacheManager/Help/">Cache Manager html help</a>
-                        <div itemscope itemtype="http://schema.org/Person" style="display:none">
-                            <p itemprop="name">Michael Conrad</p>
-                            <p itemprop="addressCountry">Germany</p>
-                            <p itemprop="about">
-                                Hi, I'm Michael <br />and I'm a developer!<br />
-                            </p>
-                            <div itemprop="articleBody">
-                                On <a href="/">this page</a> you might find updates and a list of open source projects I'm interested in or working on...<br />
-                                My focus is on C#, JavaScript/TypeScript and in general anything interesting and web related.
-                            </div>
-                        </div>
+                        <script type="application/ld+json">
+                            { "@context" : "http://schema.org",
+                            "@type" : "Product",
+                            "name" : "CacheManager",
+                            "description": "CacheManager is a common interface and abstraction layer for caching. It supports various cache providers and implements many advanced features.",
+                            "url" : "https://github.com/MichaCo/CacheManager",
+                            "sameAs" : [ "http://michaco.github.io/CacheManager",
+                            "http://michaco.github.io/Documentation/CacheManager/Help"]
+                            }
+                        </script>
+                        <script type="application/ld+json">
+                            { "@context" : "http://schema.org",
+                            "@type" : "Person",
+                            "name" : "Michael Conrad",
+                            "url" : "http://michaco.github.io/",
+                            "sameAs" : [ "https://twitter.com/micha_conrad",
+                            "https://www.youtube.com/channel/UCszMc4v0IwG14tf5NGhk4AA",
+                            "https://plus.google.com/107267611548768829420"]
+                            }
+                        </script>
                     </div>
 
                 </main>
