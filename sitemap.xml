@@ -1,11 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
     <loc>http://michaco.github.io/</loc>
+  </sitemap>
+  <sitemap>
     <loc>http://michaco.github.io/#/</loc>
+  </sitemap>
+  <sitemap>
     <loc>http://michaco.github.io/#/CacheManager</loc>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help</loc>
+  </sitemap>
+  <loc>http://michaco.github.io/Documentation/CacheManager/Help</loc>
+  </sitemap>
+  <sitemap>
     <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/R_Project_Cache_Manager_Documentation.htm</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://github.com/MichaCo/CacheManager</loc>
-  </url>
-</urlset>
+  </sitemap>
+</sitemapindex>
