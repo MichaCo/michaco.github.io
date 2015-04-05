@@ -7,8 +7,15 @@ indexPage.controller('ContentCtrl', function ($scope, $route, $routeParams, $loc
     $scope.$routeParams = $routeParams;
 });
 
+indexPage.controller('HeaderCtrl', function ($scope, $route, $routeParams, $location) {
+    $scope.$route = $route;
+    $scope.$location = $location;
+    $scope.$routeParams = $routeParams;
+})
+
 indexPage.config(function ($routeProvider, $locationProvider) {
     $routeProvider.when("/", {
+        controller: "ContentCtrl",
         templateUrl: 'index-content.html'
     });
     $routeProvider.when("/CacheManager", {

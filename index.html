@@ -2,16 +2,28 @@
 <html ng-app="indexPage" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title>Micha Conrad</title>
-    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/dazzling/inc/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/dazzling/inc/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="Content/dazzling/inc/css/flexslider.css" rel="stylesheet" />
+    <link href="Content/dazzling/inc/css/jigoshop.css" rel="stylesheet" />
+    <link href="Content/dazzling/style.css" rel="stylesheet" />
+    <link href="Content/style.css" rel="stylesheet" />
+</head>
+<body class="blog">
+    <!--<div ng-include="'navigation.html'"></div>-->
+    <div class="container" ng-controller="ContentCtrl">
+        <div class="row">
+            <div id="primary" class="content-area col-sm-12 col-md-12">
+                <main id="main" class="site-main" role="main">
+                    <div ng-view></div>
+                </main>
+            </div>
+        </div>
+    </div>
     <script src="Scripts/jquery-1.9.1.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
     <script src="Scripts/angular.js"></script>
     <script src="Scripts/angular-route.js"></script>
     <script src="Scripts/index.js"></script>
-</head>
-<body>
-    <div class="container" ng-controller="ContentCtrl">
-        <div ng-view></div>
-    </div>
 </body>
 </html>
