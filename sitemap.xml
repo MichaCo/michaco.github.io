@@ -1,20 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <sitemap>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
     <loc>http://michaco.github.io/</loc>
-  </sitemap>
-  <sitemap>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://michaco.github.io/#/</loc>
-  </sitemap>
-  <sitemap>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://michaco.github.io/#/CacheManager</loc>
-  </sitemap>
-  <loc>http://michaco.github.io/Documentation/CacheManager/Help</loc>
-  </sitemap>
-  <sitemap>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/R_Project_Cache_Manager_Documentation.htm</loc>
-  </sitemap>
-  <sitemap>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://github.com/MichaCo/CacheManager</loc>
-  </sitemap>
-</sitemapindex>
+  </url>
+</urlset>
