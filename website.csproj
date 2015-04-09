@@ -1086,6 +1086,8 @@
     <Content Include="Documentation\CacheManager\Help\Web.Config" />
     <Content Include="Documentation\CacheManager\Help\WebKI.xml" />
     <Content Include="Documentation\CacheManager\Help\WebTOC.xml" />
+    <Content Include="Documentation\sitemap.xml" />
+    <Content Include="Documentation\sitemap.xslt" />
     <Content Include="index.html" />
     <Content Include="sitemap.xml" />
   </ItemGroup>
