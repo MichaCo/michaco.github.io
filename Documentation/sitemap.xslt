@@ -7,9 +7,14 @@
   <msxsl:script language="JScript" implements-prefix="date">
     function today()
     {
-    // JJJJ-MM-TT
-    var date = new Date();
-    return date.getFullYear() + "-" + date.getMonth() + "-" + date.getDate();
+      // JJJJ-MM-TT
+      var date = new Date();
+      var year = date.getFullYear().toString();
+      var month = date.getMonth().toString();
+      var day = date.getDate().toString();
+      month = month.length == 1 ? "0" + month : month;
+      day = day.length == 1 ? "0" + day : day;
+      return year + "-" + month + "-" + day;
     }
   </msxsl:script>
   <xsl:output method="xml" indent="yes"/>
