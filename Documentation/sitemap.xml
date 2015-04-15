@@ -187,13 +187,79 @@
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_CacheFactory_FromConfiguration__1.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
     <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_CacheFactory_FromConfiguration__1_1.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_CacheFactory_FromConfiguration__1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_CacheFactory_FromConfiguration__1_2.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_CacheHandleConfiguration.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_CacheHandleConfiguration__ctor.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Methods_T_CacheManager_Core_CacheHandleConfiguration.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Properties_T_CacheManager_Core_CacheHandleConfiguration.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_CacheHandleConfiguration_EnablePerformanceCounters.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_CacheHandleConfiguration_EnableStatistics.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_CacheHandleConfiguration_ExpirationMode.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_CacheHandleConfiguration_ExpirationTimeout.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_CacheHandleConfiguration_HandleName.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_CacheHandleConfiguration_IsBackPlateSource.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
@@ -325,6 +391,72 @@
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_CacheManagerConfiguration.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Overload_CacheManager_Core_CacheManagerConfiguration__ctor.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_CacheManagerConfiguration__ctor.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_CacheManagerConfiguration__ctor_1.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Methods_T_CacheManager_Core_CacheManagerConfiguration.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Properties_T_CacheManager_Core_CacheManagerConfiguration.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_CacheManagerConfiguration_BackPlateName.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_CacheManagerConfiguration_CacheUpdateMode.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_CacheManagerConfiguration_MaxRetries.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_CacheManagerConfiguration_RetryTimeout.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_CacheUpdateMode.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
     <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_ConfigurationBuilderExtensions.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
@@ -343,13 +475,13 @@
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithAppFabricCacheHandle__1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithAppFabricCacheHandle.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithAppFabricCacheHandle__1_1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithAppFabricCacheHandle_1.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
@@ -361,31 +493,31 @@
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseCacheHandle__1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseCacheHandle.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseCacheHandle__1_1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseCacheHandle_1.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseCacheHandle__1_2.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseCacheHandle_2.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseCacheHandle__1_3.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseCacheHandle_3.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseConfiguration__1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseConfiguration.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
@@ -397,19 +529,19 @@
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithMemcachedCacheHandle__1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithMemcachedCacheHandle.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithMemcachedCacheHandle__1_1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithMemcachedCacheHandle_1.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisBackPlate__1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisBackPlate.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
@@ -421,13 +553,13 @@
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisCacheHandle__1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisCacheHandle.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisCacheHandle__1_1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisCacheHandle_1.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
@@ -439,13 +571,13 @@
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisConfiguration__1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisConfiguration.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisConfiguration__1_1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithRedisConfiguration_1.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
@@ -457,13 +589,19 @@
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithSystemRuntimeCacheHandle__1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithSystemRuntimeCacheHandle.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithSystemRuntimeCacheHandle__1_1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithSystemRuntimeCacheHandle_1.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_ExpirationMode.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
@@ -631,234 +769,6 @@
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_ICacheBackPlate.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Methods_T_CacheManager_Core_ICacheBackPlate.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Overload_CacheManager_Core_ICacheBackPlate_NotifyChange.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_NotifyChange.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_NotifyChange_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_NotifyClear.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_NotifyClearRegion.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Overload_CacheManager_Core_ICacheBackPlate_NotifyRemove.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_NotifyRemove.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_NotifyRemove_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Overload_CacheManager_Core_ICacheBackPlate_OnChange.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_OnChange.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_OnChange_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_OnClear.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_OnClearRegion.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Overload_CacheManager_Core_ICacheBackPlate_OnRemove.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_OnRemove.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_OnRemove_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Overload_CacheManager_Core_ICacheBackPlate_SubscribeChanged.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_SubscribeChanged.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_SubscribeChanged_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_SubscribeClear.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_SubscribeClearRegion.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Overload_CacheManager_Core_ICacheBackPlate_SubscribeRemove.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_SubscribeRemove.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheBackPlate_SubscribeRemove_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Properties_T_CacheManager_Core_ICacheBackPlate.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_ICacheBackPlate_Configuration.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_ICacheBackPlate_Name.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_ICacheHandle_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Methods_T_CacheManager_Core_ICacheHandle_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Overload_CacheManager_Core_ICacheHandle_1_Update.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheHandle_1_Update.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_ICacheHandle_1_Update_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Properties_T_CacheManager_Core_ICacheHandle_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_ICacheHandle_1_Configuration.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_ICacheHandle_1_Count.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_ICacheHandle_1_Stats.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
     <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_ICacheManager_1.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
@@ -914,6 +824,12 @@
   </url>
   <url>
     <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_ICacheManager_1_Configuration.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_ICacheManager_1_Name.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
@@ -985,13 +901,19 @@
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_UpdateItemConfig__ctor_2.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
     <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_UpdateItemConfig__ctor_1.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_UpdateItemConfig__ctor_2.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_UpdateItemConfig__ctor_3.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
@@ -1441,7 +1363,19 @@
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Overload_CacheManager_Core_Cache_BaseCacheHandle_1__ctor.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
     <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Cache_BaseCacheHandle_1__ctor.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Cache_BaseCacheHandle_1__ctor_1.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
@@ -1622,6 +1556,12 @@
   </url>
   <url>
     <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Cache_BaseCacheManager_1_Configuration.htm</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <lastmod>2015-03-15</lastmod>
+  </url>
+  <url>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Cache_BaseCacheManager_1_Name.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
@@ -1849,61 +1789,13 @@
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Overload_CacheManager_Core_Cache_CacheBackPlate_SubscribeChanged.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Cache_CacheBackPlate_SubscribeChanged.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Cache_CacheBackPlate_SubscribeChanged_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Cache_CacheBackPlate_SubscribeClear.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Cache_CacheBackPlate_SubscribeClearRegion.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Overload_CacheManager_Core_Cache_CacheBackPlate_SubscribeRemove.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Cache_CacheBackPlate_SubscribeRemove.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Cache_CacheBackPlate_SubscribeRemove_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
     <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Properties_T_CacheManager_Core_Cache_CacheBackPlate.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Cache_CacheBackPlate_Configuration.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Cache_CacheBackPlate_CacheName.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
@@ -2251,66 +2143,6 @@
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_Configuration_CacheHandleConfiguration_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Methods_T_CacheManager_Core_Configuration_CacheHandleConfiguration_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Properties_T_CacheManager_Core_Configuration_CacheHandleConfiguration_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_CacheHandleConfiguration_1_CacheName.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_CacheHandleConfiguration_1_EnablePerformanceCounters.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_CacheHandleConfiguration_1_EnableStatistics.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_CacheHandleConfiguration_1_ExpirationMode.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_CacheHandleConfiguration_1_ExpirationTimeout.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_CacheHandleConfiguration_1_HandleName.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_CacheHandleConfiguration_1_IsBackPlateSource.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
     <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_Configuration_CacheHandleDefinition.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
@@ -2414,54 +2246,6 @@
   </url>
   <url>
     <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Properties_T_CacheManager_Core_Configuration_CacheManagerCollection.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_Configuration_CacheManagerConfiguration_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Methods_T_CacheManager_Core_Configuration_CacheManagerConfiguration_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Properties_T_CacheManager_Core_Configuration_CacheManagerConfiguration_1.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_CacheManagerConfiguration_1_BackPlateName.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_CacheManagerConfiguration_1_CacheUpdateMode.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_CacheManagerConfiguration_1_MaxRetries.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_CacheManagerConfiguration_1_Name.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_CacheManagerConfiguration_1_RetryTimeout.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
@@ -2653,12 +2437,6 @@
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_Configuration_CacheUpdateMode.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
     <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_Configuration_ConfigurationBuilder.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
@@ -2671,7 +2449,7 @@
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilder_BuildConfiguration__1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilder_BuildConfiguration.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
@@ -2683,13 +2461,13 @@
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilder_LoadConfiguration__1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilder_LoadConfiguration.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilder_LoadConfiguration__1_1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilder_LoadConfiguration_1.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
@@ -2701,217 +2479,121 @@
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilder_LoadConfigurationFile__1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilder_LoadConfigurationFile.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilder_LoadConfigurationFile__1_1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilder_LoadConfigurationFile_1.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Methods_T_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Methods_T_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1_DisablePerformanceCounters.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_DisablePerformanceCounters.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1_DisableStatistics.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_DisableStatistics.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1_EnablePerformanceCounters.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_EnablePerformanceCounters.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1_EnableStatistics.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_EnableStatistics.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1_WithExpiration.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_WithExpiration.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Properties_T_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Properties_T_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_1_And.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_And.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_Configuration_ConfigurationBuilderCachePart.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Methods_T_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Methods_T_CacheManager_Core_Configuration_ConfigurationBuilderCachePart.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1_WithBackPlate__1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_WithBackPlate__1.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Overload_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1_WithHandle.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Overload_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_WithHandle.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1_WithHandle__1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_WithHandle.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1_WithHandle__1_1.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_WithHandle_1.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1_WithMaxRetries.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_WithMaxRetries.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1_WithRetryTimeout.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_WithRetryTimeout.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
   </url>
   <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1_WithUpdateMode.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_Configuration_ExpirationMode.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_Configuration_ICacheHandleConfiguration.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Properties_T_CacheManager_Core_Configuration_ICacheHandleConfiguration.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_ICacheHandleConfiguration_CacheName.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_ICacheHandleConfiguration_EnablePerformanceCounters.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_ICacheHandleConfiguration_EnableStatistics.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_ICacheHandleConfiguration_ExpirationMode.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_ICacheHandleConfiguration_ExpirationTimeout.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_ICacheHandleConfiguration_HandleName.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_ICacheHandleConfiguration_IsBackPlateSource.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/T_CacheManager_Core_Configuration_ICacheManagerConfiguration.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/Properties_T_CacheManager_Core_Configuration_ICacheManagerConfiguration.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_ICacheManagerConfiguration_CacheUpdateMode.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_ICacheManagerConfiguration_MaxRetries.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_ICacheManagerConfiguration_Name.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Core_Configuration_ICacheManagerConfiguration_RetryTimeout.htm</loc>
+    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_WithUpdateMode.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
@@ -3284,12 +2966,6 @@
   </url>
   <url>
     <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Memcached_MemcachedClientHandle_1_Count.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <lastmod>2015-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/P_CacheManager_Memcached_MemcachedClientHandle_1_ServerStats.htm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     <lastmod>2015-03-15</lastmod>
