@@ -420,32 +420,6 @@
   <HelpKINode Title="CacheItem&lt;T&gt;.ValueType property" Url="html/P_CacheManager_Core_CacheItem_1_ValueType.htm" />
   <HelpKINode Title="CacheItem&lt;T&gt;.WithExpiration method" Url="html/M_CacheManager_Core_CacheItem_1_WithExpiration.htm" />
   <HelpKINode Title="CacheItem&lt;T&gt;.WithValue method" Url="html/M_CacheManager_Core_CacheItem_1_WithValue.htm" />
-  <HelpKINode Title="CacheItemConverter(Of T) class">
-    <HelpKINode Title="CacheItemConverter(T) Class" Url="html/T_CacheManager_Serialization_CacheItemConverter_1.htm" />
-    <HelpKINode Title="about CacheItemConverter(Of T) class" Url="html/T_CacheManager_Serialization_CacheItemConverter_1.htm" />
-    <HelpKINode Title="constructor" Url="html/M_CacheManager_Serialization_CacheItemConverter_1__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_Serialization_CacheItemConverter_1.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Serialization_CacheItemConverter_1.htm" />
-  </HelpKINode>
-  <HelpKINode Title="CacheItemConverter(Of T).CacheItemConverter constructor" Url="html/M_CacheManager_Serialization_CacheItemConverter_1__ctor.htm" />
-  <HelpKINode Title="CacheItemConverter(Of T).CanConvert method" Url="html/M_CacheManager_Serialization_CacheItemConverter_1_CanConvert.htm" />
-  <HelpKINode Title="CacheItemConverter(Of T).CanRead property" Url="html/P_CacheManager_Serialization_CacheItemConverter_1_CanRead.htm" />
-  <HelpKINode Title="CacheItemConverter(Of T).CanWrite property" Url="html/P_CacheManager_Serialization_CacheItemConverter_1_CanWrite.htm" />
-  <HelpKINode Title="CacheItemConverter(Of T).ReadJson method" Url="html/M_CacheManager_Serialization_CacheItemConverter_1_ReadJson.htm" />
-  <HelpKINode Title="CacheItemConverter(Of T).WriteJson method" Url="html/M_CacheManager_Serialization_CacheItemConverter_1_WriteJson.htm" />
-  <HelpKINode Title="CacheItemConverter&lt;T&gt; class">
-    <HelpKINode Title="CacheItemConverter(T) Class" Url="html/T_CacheManager_Serialization_CacheItemConverter_1.htm" />
-    <HelpKINode Title="about CacheItemConverter&lt;T&gt; class" Url="html/T_CacheManager_Serialization_CacheItemConverter_1.htm" />
-    <HelpKINode Title="constructor" Url="html/M_CacheManager_Serialization_CacheItemConverter_1__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_Serialization_CacheItemConverter_1.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Serialization_CacheItemConverter_1.htm" />
-  </HelpKINode>
-  <HelpKINode Title="CacheItemConverter&lt;T&gt;.CacheItemConverter constructor" Url="html/M_CacheManager_Serialization_CacheItemConverter_1__ctor.htm" />
-  <HelpKINode Title="CacheItemConverter&lt;T&gt;.CanConvert method" Url="html/M_CacheManager_Serialization_CacheItemConverter_1_CanConvert.htm" />
-  <HelpKINode Title="CacheItemConverter&lt;T&gt;.CanRead property" Url="html/P_CacheManager_Serialization_CacheItemConverter_1_CanRead.htm" />
-  <HelpKINode Title="CacheItemConverter&lt;T&gt;.CanWrite property" Url="html/P_CacheManager_Serialization_CacheItemConverter_1_CanWrite.htm" />
-  <HelpKINode Title="CacheItemConverter&lt;T&gt;.ReadJson method" Url="html/M_CacheManager_Serialization_CacheItemConverter_1_ReadJson.htm" />
-  <HelpKINode Title="CacheItemConverter&lt;T&gt;.WriteJson method" Url="html/M_CacheManager_Serialization_CacheItemConverter_1_WriteJson.htm" />
   <HelpKINode Title="CacheManager.AppFabricCache namespace" Url="html/N_CacheManager_AppFabricCache.htm" />
   <HelpKINode Title="CacheManager.AppFabricCache.AppFabricCacheHandle class" Url="html/T_CacheManager_AppFabricCache_AppFabricCacheHandle.htm" />
   <HelpKINode Title="CacheManager.AppFabricCache.AppFabricCacheHandle(Of TCacheValue) class" Url="html/T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm" />
@@ -530,9 +504,6 @@
   <HelpKINode Title="CacheManager.Redis.RedisOptionCollection class" Url="html/T_CacheManager_Redis_RedisOptionCollection.htm" />
   <HelpKINode Title="CacheManager.Redis.RedisOptions class" Url="html/T_CacheManager_Redis_RedisOptions.htm" />
   <HelpKINode Title="CacheManager.Redis.ServerEndPoint class" Url="html/T_CacheManager_Redis_ServerEndPoint.htm" />
-  <HelpKINode Title="CacheManager.Serialization namespace" Url="html/N_CacheManager_Serialization.htm" />
-  <HelpKINode Title="CacheManager.Serialization.CacheItemConverter(Of T) class" Url="html/T_CacheManager_Serialization_CacheItemConverter_1.htm" />
-  <HelpKINode Title="CacheManager.Serialization.CacheItemConverter&lt;T&gt; class" Url="html/T_CacheManager_Serialization_CacheItemConverter_1.htm" />
   <HelpKINode Title="CacheManager.SystemRuntimeCaching namespace" Url="html/N_CacheManager_SystemRuntimeCaching.htm" />
   <HelpKINode Title="CacheManager.SystemRuntimeCaching.MemoryCacheHandle class" Url="html/T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle.htm" />
   <HelpKINode Title="CacheManager.SystemRuntimeCaching.MemoryCacheHandle(Of TCacheValue) class" Url="html/T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1.htm" />
@@ -690,9 +661,6 @@
     <HelpKINode Title="CacheManagerConfiguration(TCacheValue).CacheUpdateMode Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerConfiguration_1_CacheUpdateMode.htm" />
     <HelpKINode Title="ICacheManagerConfiguration.CacheUpdateMode Property " Url="html/P_CacheManager_Core_Configuration_ICacheManagerConfiguration_CacheUpdateMode.htm" />
   </HelpKINode>
-  <HelpKINode Title="CanConvert method" Url="html/M_CacheManager_Serialization_CacheItemConverter_1_CanConvert.htm" />
-  <HelpKINode Title="CanRead property" Url="html/P_CacheManager_Serialization_CacheItemConverter_1_CanRead.htm" />
-  <HelpKINode Title="CanWrite property" Url="html/P_CacheManager_Serialization_CacheItemConverter_1_CanWrite.htm" />
   <HelpKINode Title="Changed enumeration member" Url="html/T_CacheManager_Core_Cache_BackPlateAction.htm" />
   <HelpKINode Title="Clear enumeration member" Url="html/T_CacheManager_Core_Cache_BackPlateAction.htm" />
   <HelpKINode Title="Clear method">
@@ -1402,7 +1370,6 @@
     <HelpKINode Title="MemoryCacheHandle(TCacheValue).PutInternalPrepared Method " Url="html/M_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_PutInternalPrepared.htm" />
     <HelpKINode Title="RedisCacheHandle(TCacheValue).PutInternalPrepared Method " Url="html/M_CacheManager_Redis_RedisCacheHandle_1_PutInternalPrepared.htm" />
   </HelpKINode>
-  <HelpKINode Title="ReadJson method" Url="html/M_CacheManager_Serialization_CacheItemConverter_1_ReadJson.htm" />
   <HelpKINode Title="RedisCacheBackPlate class">
     <HelpKINode Title="RedisCacheBackPlate Class" Url="html/T_CacheManager_Redis_RedisCacheBackPlate.htm" />
     <HelpKINode Title="about RedisCacheBackPlate class" Url="html/T_CacheManager_Redis_RedisCacheBackPlate.htm" />
@@ -1680,7 +1647,6 @@
   <HelpKINode Title="WithSystemRuntimeCacheHandle method" Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithSystemRuntimeCacheHandle.htm" />
   <HelpKINode Title="WithUpdateMode method" Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_1_WithUpdateMode.htm" />
   <HelpKINode Title="WithValue method" Url="html/M_CacheManager_Core_CacheItem_1_WithValue.htm" />
-  <HelpKINode Title="WriteJson method" Url="html/M_CacheManager_Serialization_CacheItemConverter_1_WriteJson.htm" />
   <HelpKINode Title="Xmlns property">
     <HelpKINode Title="CacheManagerSection.Xmlns Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerSection_Xmlns.htm" />
     <HelpKINode Title="RedisConfigurationSection.Xmlns Property " Url="html/P_CacheManager_Redis_RedisConfigurationSection_Xmlns.htm" />

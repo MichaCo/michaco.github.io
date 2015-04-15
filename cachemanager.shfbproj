@@ -26,17 +26,15 @@
     <CppCommentsFixup>False</CppCommentsFixup>
     <CleanIntermediates>True</CleanIntermediates>
     <DocumentationSources>
-      <DocumentationSource sourceFile="..\CacheManager\src\CacheManager.AppFabricCache\CacheManager.AppFabricCache.csproj" xmlns="" />
-      <DocumentationSource sourceFile="..\CacheManager\src\CacheManager.Core\CacheManager.Core.csproj" xmlns="" />
-      <DocumentationSource sourceFile="..\CacheManager\src\CacheManager.Couchbase\CacheManager.Couchbase.csproj" xmlns="" />
-      <DocumentationSource sourceFile="..\CacheManager\src\CacheManager.MemCached\CacheManager.Memcached.csproj" xmlns="" />
-      <DocumentationSource sourceFile="..\CacheManager\src\CacheManager.Redis\CacheManager.Redis.csproj" xmlns="" />
-      <DocumentationSource sourceFile="..\CacheManager\src\CacheManager.Serialization\CacheManager.Serialization.csproj" xmlns="" />
-      <DocumentationSource sourceFile="..\CacheManager\src\CacheManager.StackExchange.Redis\CacheManager.StackExchange.Redis.csproj" xmlns="" />
-      <DocumentationSource sourceFile="..\CacheManager\src\CacheManager.SystemRuntimeCaching\CacheManager.SystemRuntimeCaching.csproj" xmlns="" />
-      <DocumentationSource sourceFile="..\CacheManager\src\CacheManager.Web\CacheManager.Web.csproj" xmlns="" />
-      <DocumentationSource sourceFile="..\CacheManager\src\CacheManager.WindowsAzureCaching\CacheManager.WindowsAzureCaching.csproj" xmlns="" />
-    </DocumentationSources>
+      <DocumentationSource sourceFile="..\CacheManager\src\CacheManager.AppFabricCache\CacheManager.AppFabricCache.csproj" />
+<DocumentationSource sourceFile="..\CacheManager\src\CacheManager.Core\CacheManager.Core.csproj" />
+<DocumentationSource sourceFile="..\CacheManager\src\CacheManager.Couchbase\CacheManager.Couchbase.csproj" />
+<DocumentationSource sourceFile="..\CacheManager\src\CacheManager.MemCached\CacheManager.Memcached.csproj" />
+<DocumentationSource sourceFile="..\CacheManager\src\CacheManager.Redis\CacheManager.Redis.csproj" />
+<DocumentationSource sourceFile="..\CacheManager\src\CacheManager.StackExchange.Redis\CacheManager.StackExchange.Redis.csproj" />
+<DocumentationSource sourceFile="..\CacheManager\src\CacheManager.SystemRuntimeCaching\CacheManager.SystemRuntimeCaching.csproj" />
+<DocumentationSource sourceFile="..\CacheManager\src\CacheManager.Web\CacheManager.Web.csproj" />
+<DocumentationSource sourceFile="..\CacheManager\src\CacheManager.WindowsAzureCaching\CacheManager.WindowsAzureCaching.csproj" /></DocumentationSources>
     <MissingTags>Summary, Parameter, Returns, AutoDocumentCtors, TypeParameter, AutoDocumentDispose</MissingTags>
     <MaximumGroupParts>2</MaximumGroupParts>
     <NamespaceGrouping>False</NamespaceGrouping>

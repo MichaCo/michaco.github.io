@@ -51,7 +51,6 @@
     <Content Include="Documentation\CacheManager\Help\fti\FTI_103.json" />
     <Content Include="Documentation\CacheManager\Help\fti\FTI_104.json" />
     <Content Include="Documentation\CacheManager\Help\fti\FTI_105.json" />
-    <Content Include="Documentation\CacheManager\Help\fti\FTI_106.json" />
     <Content Include="Documentation\CacheManager\Help\fti\FTI_107.json" />
     <Content Include="Documentation\CacheManager\Help\fti\FTI_108.json" />
     <Content Include="Documentation\CacheManager\Help\fti\FTI_109.json" />
@@ -142,7 +141,6 @@
     <Content Include="Documentation\CacheManager\Help\html\Methods_T_CacheManager_Redis_RedisOptionCollection.htm" />
     <Content Include="Documentation\CacheManager\Help\html\Methods_T_CacheManager_Redis_RedisOptions.htm" />
     <Content Include="Documentation\CacheManager\Help\html\Methods_T_CacheManager_Redis_ServerEndPoint.htm" />
-    <Content Include="Documentation\CacheManager\Help\html\Methods_T_CacheManager_Serialization_CacheItemConverter_1.htm" />
     <Content Include="Documentation\CacheManager\Help\html\Methods_T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle.htm" />
     <Content Include="Documentation\CacheManager\Help\html\Methods_T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1.htm" />
     <Content Include="Documentation\CacheManager\Help\html\Methods_T_CacheManager_Web_CacheManagerOutputCacheProvider.htm" />
@@ -436,10 +434,6 @@
     <Content Include="Documentation\CacheManager\Help\html\M_CacheManager_Redis_RedisOptionCollection__ctor.htm" />
     <Content Include="Documentation\CacheManager\Help\html\M_CacheManager_Redis_RedisOptions__ctor.htm" />
     <Content Include="Documentation\CacheManager\Help\html\M_CacheManager_Redis_ServerEndPoint__ctor.htm" />
-    <Content Include="Documentation\CacheManager\Help\html\M_CacheManager_Serialization_CacheItemConverter_1_CanConvert.htm" />
-    <Content Include="Documentation\CacheManager\Help\html\M_CacheManager_Serialization_CacheItemConverter_1_ReadJson.htm" />
-    <Content Include="Documentation\CacheManager\Help\html\M_CacheManager_Serialization_CacheItemConverter_1_WriteJson.htm" />
-    <Content Include="Documentation\CacheManager\Help\html\M_CacheManager_Serialization_CacheItemConverter_1__ctor.htm" />
     <Content Include="Documentation\CacheManager\Help\html\M_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_AddInternalPrepared.htm" />
     <Content Include="Documentation\CacheManager\Help\html\M_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_Clear.htm" />
     <Content Include="Documentation\CacheManager\Help\html\M_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_ClearRegion.htm" />
@@ -466,7 +460,6 @@
     <Content Include="Documentation\CacheManager\Help\html\N_CacheManager_Couchbase.htm" />
     <Content Include="Documentation\CacheManager\Help\html\N_CacheManager_Memcached.htm" />
     <Content Include="Documentation\CacheManager\Help\html\N_CacheManager_Redis.htm" />
-    <Content Include="Documentation\CacheManager\Help\html\N_CacheManager_Serialization.htm" />
     <Content Include="Documentation\CacheManager\Help\html\N_CacheManager_SystemRuntimeCaching.htm" />
     <Content Include="Documentation\CacheManager\Help\html\N_CacheManager_Web.htm" />
     <Content Include="Documentation\CacheManager\Help\html\N_CacheManager_WindowsAzureCaching.htm" />
@@ -587,7 +580,6 @@
     <Content Include="Documentation\CacheManager\Help\html\Properties_T_CacheManager_Redis_RedisOptionCollection.htm" />
     <Content Include="Documentation\CacheManager\Help\html\Properties_T_CacheManager_Redis_RedisOptions.htm" />
     <Content Include="Documentation\CacheManager\Help\html\Properties_T_CacheManager_Redis_ServerEndPoint.htm" />
-    <Content Include="Documentation\CacheManager\Help\html\Properties_T_CacheManager_Serialization_CacheItemConverter_1.htm" />
     <Content Include="Documentation\CacheManager\Help\html\Properties_T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle.htm" />
     <Content Include="Documentation\CacheManager\Help\html\Properties_T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1.htm" />
     <Content Include="Documentation\CacheManager\Help\html\Properties_T_CacheManager_Web_CacheManagerOutputCacheProvider.htm" />
@@ -713,12 +705,9 @@
     <Content Include="Documentation\CacheManager\Help\html\P_CacheManager_Redis_RedisOptions_SslHost.htm" />
     <Content Include="Documentation\CacheManager\Help\html\P_CacheManager_Redis_ServerEndPoint_Host.htm" />
     <Content Include="Documentation\CacheManager\Help\html\P_CacheManager_Redis_ServerEndPoint_Port.htm" />
-    <Content Include="Documentation\CacheManager\Help\html\P_CacheManager_Serialization_CacheItemConverter_1_CanRead.htm" />
-    <Content Include="Documentation\CacheManager\Help\html\P_CacheManager_Serialization_CacheItemConverter_1_CanWrite.htm" />
     <Content Include="Documentation\CacheManager\Help\html\P_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_CacheSettings.htm" />
     <Content Include="Documentation\CacheManager\Help\html\P_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_Count.htm" />
     <Content Include="Documentation\CacheManager\Help\html\P_CacheManager_Web_CacheManagerOutputCacheProvider_Cache.htm" />
-    <Content Include="Documentation\CacheManager\Help\html\R_Project_CacheManager_Documentation.htm" />
     <Content Include="Documentation\CacheManager\Help\html\R_Project_Cache_Manager_Documentation.htm" />
     <Content Include="Documentation\CacheManager\Help\html\T_CacheManager_AppFabricCache_AppFabricCacheHandle.htm" />
     <Content Include="Documentation\CacheManager\Help\html\T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm" />
@@ -779,7 +768,6 @@
     <Content Include="Documentation\CacheManager\Help\html\T_CacheManager_Redis_RedisOptionCollection.htm" />
     <Content Include="Documentation\CacheManager\Help\html\T_CacheManager_Redis_RedisOptions.htm" />
     <Content Include="Documentation\CacheManager\Help\html\T_CacheManager_Redis_ServerEndPoint.htm" />
-    <Content Include="Documentation\CacheManager\Help\html\T_CacheManager_Serialization_CacheItemConverter_1.htm" />
     <Content Include="Documentation\CacheManager\Help\html\T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle.htm" />
     <Content Include="Documentation\CacheManager\Help\html\T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1.htm" />
     <Content Include="Documentation\CacheManager\Help\html\T_CacheManager_Web_CacheManagerOutputCacheProvider.htm" />
@@ -896,7 +884,6 @@
     <Content Include="Documentation\CacheManager\Help\toc\Methods_T_CacheManager_Redis_RedisConfigurationBuilder.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\Methods_T_CacheManager_Redis_RedisConfigurations.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\Methods_T_CacheManager_Redis_RedisOptionCollection.xml" />
-    <Content Include="Documentation\CacheManager\Help\toc\Methods_T_CacheManager_Serialization_CacheItemConverter_1.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\Methods_T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\Methods_T_CacheManager_Web_CacheManagerOutputCacheProvider.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\Methods_T_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1.xml" />
@@ -1018,11 +1005,9 @@
     <Content Include="Documentation\CacheManager\Help\toc\Properties_T_CacheManager_Redis_RedisConfigurationSection.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\Properties_T_CacheManager_Redis_RedisOptions.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\Properties_T_CacheManager_Redis_ServerEndPoint.xml" />
-    <Content Include="Documentation\CacheManager\Help\toc\Properties_T_CacheManager_Serialization_CacheItemConverter_1.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\Properties_T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\Properties_T_CacheManager_Web_CacheManagerOutputCacheProvider.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\roottoc.xml" />
-    <Content Include="Documentation\CacheManager\Help\toc\R_Project_CacheManager_Documentation.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\R_Project_Cache_Manager_Documentation.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\T_CacheManager_AppFabricCache_AppFabricCacheHandle.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.xml" />
@@ -1078,7 +1063,6 @@
     <Content Include="Documentation\CacheManager\Help\toc\T_CacheManager_Redis_RedisOptionCollection.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\T_CacheManager_Redis_RedisOptions.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\T_CacheManager_Redis_ServerEndPoint.xml" />
-    <Content Include="Documentation\CacheManager\Help\toc\T_CacheManager_Serialization_CacheItemConverter_1.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1.xml" />
     <Content Include="Documentation\CacheManager\Help\toc\T_CacheManager_Web_CacheManagerOutputCacheProvider.xml" />
