@@ -1072,6 +1072,7 @@
     <Content Include="Documentation\CacheManager\Help\WebTOC.xml" />
     <Content Include="Documentation\sitemap.xml" />
     <Content Include="Documentation\sitemap.xslt" />
+    <Content Include="google5372e4703dc04bc4.html" />
     <Content Include="index.html" />
     <Content Include="sitemap.xml" />
   </ItemGroup>
