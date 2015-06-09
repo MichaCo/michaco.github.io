@@ -7,7 +7,6 @@
     <HelpKINode Title="CacheManagerOutputCacheProvider.Add Method " Url="html/M_CacheManager_Web_CacheManagerOutputCacheProvider_Add.htm" />
     <HelpKINode Title="ICache(TCacheValue).Add Method " Url="html/Overload_CacheManager_Core_ICache_1_Add.htm" />
   </HelpKINode>
-  <HelpKINode Title="AddCacheHandle method" Url="html/M_CacheManager_Core_Cache_BaseCacheManager_1_AddCacheHandle.htm" />
   <HelpKINode Title="AddCalls enumeration member" Url="html/T_CacheManager_Core_Cache_CacheStatsCounterType.htm" />
   <HelpKINode Title="AddConfiguration method">
     <HelpKINode Title="CouchbaseConfigurationManager.AddConfiguration Method " Url="html/M_CacheManager_Couchbase_CouchbaseConfigurationManager_AddConfiguration.htm" />
@@ -18,7 +17,6 @@
     <HelpKINode Title="BaseCacheHandle(TCacheValue).AddInternal Method " Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1_AddInternal.htm" />
   </HelpKINode>
   <HelpKINode Title="AddInternalPrepared method">
-    <HelpKINode Title="AppFabricCacheHandle(TCacheValue).AddInternalPrepared Method " Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_AddInternalPrepared.htm" />
     <HelpKINode Title="BaseCacheHandle(TCacheValue).AddInternalPrepared Method " Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1_AddInternalPrepared.htm" />
     <HelpKINode Title="BucketCacheHandle(TCacheValue).AddInternalPrepared Method " Url="html/M_CacheManager_Couchbase_BucketCacheHandle_1_AddInternalPrepared.htm" />
     <HelpKINode Title="DictionaryCacheHandle(TCacheValue).AddInternalPrepared Method " Url="html/M_CacheManager_Core_Cache_DictionaryCacheHandle_1_AddInternalPrepared.htm" />
@@ -26,51 +24,15 @@
     <HelpKINode Title="MemoryCacheHandle(TCacheValue).AddInternalPrepared Method " Url="html/M_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_AddInternalPrepared.htm" />
     <HelpKINode Title="RedisCacheHandle(TCacheValue).AddInternalPrepared Method " Url="html/M_CacheManager_Redis_RedisCacheHandle_1_AddInternalPrepared.htm" />
   </HelpKINode>
+  <HelpKINode Title="AddOrUpdate method">
+    <HelpKINode Title="BaseCacheManager(TCacheValue).AddOrUpdate Method " Url="html/Overload_CacheManager_Core_Cache_BaseCacheManager_1_AddOrUpdate.htm" />
+    <HelpKINode Title="ICacheManager(TCacheValue).AddOrUpdate Method " Url="html/Overload_CacheManager_Core_ICacheManager_1_AddOrUpdate.htm" />
+  </HelpKINode>
   <HelpKINode Title="AllowAdmin property">
     <HelpKINode Title="RedisConfiguration.AllowAdmin Property " Url="html/P_CacheManager_Redis_RedisConfiguration_AllowAdmin.htm" />
     <HelpKINode Title="RedisOptions.AllowAdmin Property " Url="html/P_CacheManager_Redis_RedisOptions_AllowAdmin.htm" />
   </HelpKINode>
   <HelpKINode Title="And property" Url="html/P_CacheManager_Core_Configuration_ConfigurationBuilderCacheHandlePart_And.htm" />
-  <HelpKINode Title="AppFabricCacheHandle class">
-    <HelpKINode Title="AppFabricCacheHandle Class" Url="html/T_CacheManager_AppFabricCache_AppFabricCacheHandle.htm" />
-    <HelpKINode Title="about AppFabricCacheHandle class" Url="html/T_CacheManager_AppFabricCache_AppFabricCacheHandle.htm" />
-    <HelpKINode Title="constructor" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_AppFabricCache_AppFabricCacheHandle.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_AppFabricCache_AppFabricCacheHandle.htm" />
-  </HelpKINode>
-  <HelpKINode Title="AppFabricCacheHandle(Of TCacheValue) class">
-    <HelpKINode Title="AppFabricCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm" />
-    <HelpKINode Title="about AppFabricCacheHandle(Of TCacheValue) class" Url="html/T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm" />
-    <HelpKINode Title="constructor" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm" />
-  </HelpKINode>
-  <HelpKINode Title="AppFabricCacheHandle(Of TCacheValue).AddInternalPrepared method" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_AddInternalPrepared.htm" />
-  <HelpKINode Title="AppFabricCacheHandle(Of TCacheValue).AppFabricCacheHandle constructor" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1__ctor.htm" />
-  <HelpKINode Title="AppFabricCacheHandle(Of TCacheValue).Clear method" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_Clear.htm" />
-  <HelpKINode Title="AppFabricCacheHandle(Of TCacheValue).ClearRegion method" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_ClearRegion.htm" />
-  <HelpKINode Title="AppFabricCacheHandle(Of TCacheValue).Count property" Url="html/P_CacheManager_AppFabricCache_AppFabricCacheHandle_1_Count.htm" />
-  <HelpKINode Title="AppFabricCacheHandle(Of TCacheValue).GetCacheItemInternal method" Url="html/Overload_CacheManager_AppFabricCache_AppFabricCacheHandle_1_GetCacheItemInternal.htm" />
-  <HelpKINode Title="AppFabricCacheHandle(Of TCacheValue).PutInternalPrepared method" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_PutInternalPrepared.htm" />
-  <HelpKINode Title="AppFabricCacheHandle(Of TCacheValue).RemoveInternal method" Url="html/Overload_CacheManager_AppFabricCache_AppFabricCacheHandle_1_RemoveInternal.htm" />
-  <HelpKINode Title="AppFabricCacheHandle(Of TCacheValue).Update method" Url="html/Overload_CacheManager_AppFabricCache_AppFabricCacheHandle_1_Update.htm" />
-  <HelpKINode Title="AppFabricCacheHandle.AppFabricCacheHandle constructor" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle__ctor.htm" />
-  <HelpKINode Title="AppFabricCacheHandle&lt;TCacheValue&gt; class">
-    <HelpKINode Title="AppFabricCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm" />
-    <HelpKINode Title="about AppFabricCacheHandle&lt;TCacheValue&gt; class" Url="html/T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm" />
-    <HelpKINode Title="constructor" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm" />
-  </HelpKINode>
-  <HelpKINode Title="AppFabricCacheHandle&lt;TCacheValue&gt;.AddInternalPrepared method" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_AddInternalPrepared.htm" />
-  <HelpKINode Title="AppFabricCacheHandle&lt;TCacheValue&gt;.AppFabricCacheHandle constructor" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1__ctor.htm" />
-  <HelpKINode Title="AppFabricCacheHandle&lt;TCacheValue&gt;.Clear method" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_Clear.htm" />
-  <HelpKINode Title="AppFabricCacheHandle&lt;TCacheValue&gt;.ClearRegion method" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_ClearRegion.htm" />
-  <HelpKINode Title="AppFabricCacheHandle&lt;TCacheValue&gt;.Count property" Url="html/P_CacheManager_AppFabricCache_AppFabricCacheHandle_1_Count.htm" />
-  <HelpKINode Title="AppFabricCacheHandle&lt;TCacheValue&gt;.GetCacheItemInternal method" Url="html/Overload_CacheManager_AppFabricCache_AppFabricCacheHandle_1_GetCacheItemInternal.htm" />
-  <HelpKINode Title="AppFabricCacheHandle&lt;TCacheValue&gt;.PutInternalPrepared method" Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_PutInternalPrepared.htm" />
-  <HelpKINode Title="AppFabricCacheHandle&lt;TCacheValue&gt;.RemoveInternal method" Url="html/Overload_CacheManager_AppFabricCache_AppFabricCacheHandle_1_RemoveInternal.htm" />
-  <HelpKINode Title="AppFabricCacheHandle&lt;TCacheValue&gt;.Update method" Url="html/Overload_CacheManager_AppFabricCache_AppFabricCacheHandle_1_Update.htm" />
   <HelpKINode Title="BackPlateAction enumeration" Url="html/T_CacheManager_Core_Cache_BackPlateAction.htm" />
   <HelpKINode Title="BackPlateMessage class">
     <HelpKINode Title="BackPlateMessage Class" Url="html/T_CacheManager_Core_Cache_BackPlateMessage.htm" />
@@ -92,7 +54,10 @@
     <HelpKINode Title="CacheManagerConfiguration.BackPlateName Property " Url="html/P_CacheManager_Core_CacheManagerConfiguration_BackPlateName.htm" />
     <HelpKINode Title="CacheManagerHandleCollection.BackPlateName Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerHandleCollection_BackPlateName.htm" />
   </HelpKINode>
-  <HelpKINode Title="BackPlateType property" Url="html/P_CacheManager_Core_Configuration_CacheManagerHandleCollection_BackPlateType.htm" />
+  <HelpKINode Title="BackPlateType property">
+    <HelpKINode Title="CacheManagerConfiguration.BackPlateType Property " Url="html/P_CacheManager_Core_CacheManagerConfiguration_BackPlateType.htm" />
+    <HelpKINode Title="CacheManagerHandleCollection.BackPlateType Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerHandleCollection_BackPlateType.htm" />
+  </HelpKINode>
   <HelpKINode Title="BaseCache(Of TCacheValue) class">
     <HelpKINode Title="BaseCache(TCacheValue) Class" Url="html/T_CacheManager_Core_Cache_BaseCache_1.htm" />
     <HelpKINode Title="about BaseCache(Of TCacheValue) class" Url="html/T_CacheManager_Core_Cache_BaseCache_1.htm" />
@@ -144,13 +109,13 @@
   <HelpKINode Title="BaseCacheHandle(Of TCacheValue) class">
     <HelpKINode Title="BaseCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_Core_Cache_BaseCacheHandle_1.htm" />
     <HelpKINode Title="about BaseCacheHandle(Of TCacheValue) class" Url="html/T_CacheManager_Core_Cache_BaseCacheHandle_1.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_CacheManager_Core_Cache_BaseCacheHandle_1__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_Core_Cache_BaseCacheHandle_1.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Core_Cache_BaseCacheHandle_1.htm" />
   </HelpKINode>
   <HelpKINode Title="BaseCacheHandle(Of TCacheValue).AddInternal method" Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1_AddInternal.htm" />
   <HelpKINode Title="BaseCacheHandle(Of TCacheValue).AddInternalPrepared method" Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1_AddInternalPrepared.htm" />
-  <HelpKINode Title="BaseCacheHandle(Of TCacheValue).BaseCacheHandle constructor" Url="html/Overload_CacheManager_Core_Cache_BaseCacheHandle_1__ctor.htm" />
+  <HelpKINode Title="BaseCacheHandle(Of TCacheValue).BaseCacheHandle constructor" Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1__ctor.htm" />
   <HelpKINode Title="BaseCacheHandle(Of TCacheValue).Configuration property" Url="html/P_CacheManager_Core_Cache_BaseCacheHandle_1_Configuration.htm" />
   <HelpKINode Title="BaseCacheHandle(Of TCacheValue).Count property" Url="html/P_CacheManager_Core_Cache_BaseCacheHandle_1_Count.htm" />
   <HelpKINode Title="BaseCacheHandle(Of TCacheValue).Dispose method" Url="html/Overload_CacheManager_Core_Cache_BaseCacheHandle_1_Dispose.htm" />
@@ -163,13 +128,13 @@
   <HelpKINode Title="BaseCacheHandle&lt;TCacheValue&gt; class">
     <HelpKINode Title="BaseCacheHandle(TCacheValue) Class" Url="html/T_CacheManager_Core_Cache_BaseCacheHandle_1.htm" />
     <HelpKINode Title="about BaseCacheHandle&lt;TCacheValue&gt; class" Url="html/T_CacheManager_Core_Cache_BaseCacheHandle_1.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_CacheManager_Core_Cache_BaseCacheHandle_1__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_Core_Cache_BaseCacheHandle_1.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Core_Cache_BaseCacheHandle_1.htm" />
   </HelpKINode>
   <HelpKINode Title="BaseCacheHandle&lt;TCacheValue&gt;.AddInternal method" Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1_AddInternal.htm" />
   <HelpKINode Title="BaseCacheHandle&lt;TCacheValue&gt;.AddInternalPrepared method" Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1_AddInternalPrepared.htm" />
-  <HelpKINode Title="BaseCacheHandle&lt;TCacheValue&gt;.BaseCacheHandle constructor" Url="html/Overload_CacheManager_Core_Cache_BaseCacheHandle_1__ctor.htm" />
+  <HelpKINode Title="BaseCacheHandle&lt;TCacheValue&gt;.BaseCacheHandle constructor" Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1__ctor.htm" />
   <HelpKINode Title="BaseCacheHandle&lt;TCacheValue&gt;.Configuration property" Url="html/P_CacheManager_Core_Cache_BaseCacheHandle_1_Configuration.htm" />
   <HelpKINode Title="BaseCacheHandle&lt;TCacheValue&gt;.Count property" Url="html/P_CacheManager_Core_Cache_BaseCacheHandle_1_Count.htm" />
   <HelpKINode Title="BaseCacheHandle&lt;TCacheValue&gt;.Dispose method" Url="html/Overload_CacheManager_Core_Cache_BaseCacheHandle_1_Dispose.htm" />
@@ -187,7 +152,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_Core_Cache_BaseCacheManager_1.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Core_Cache_BaseCacheManager_1.htm" />
   </HelpKINode>
-  <HelpKINode Title="BaseCacheManager(Of TCacheValue).AddCacheHandle method" Url="html/M_CacheManager_Core_Cache_BaseCacheManager_1_AddCacheHandle.htm" />
+  <HelpKINode Title="BaseCacheManager(Of TCacheValue).AddOrUpdate method" Url="html/Overload_CacheManager_Core_Cache_BaseCacheManager_1_AddOrUpdate.htm" />
   <HelpKINode Title="BaseCacheManager(Of TCacheValue).BaseCacheManager constructor" Url="html/M_CacheManager_Core_Cache_BaseCacheManager_1__ctor.htm" />
   <HelpKINode Title="BaseCacheManager(Of TCacheValue).CacheHandles property" Url="html/P_CacheManager_Core_Cache_BaseCacheManager_1_CacheHandles.htm" />
   <HelpKINode Title="BaseCacheManager(Of TCacheValue).Clear method" Url="html/M_CacheManager_Core_Cache_BaseCacheManager_1_Clear.htm" />
@@ -201,6 +166,7 @@
   <HelpKINode Title="BaseCacheManager(Of TCacheValue).OnPut event" Url="html/E_CacheManager_Core_Cache_BaseCacheManager_1_OnPut.htm" />
   <HelpKINode Title="BaseCacheManager(Of TCacheValue).OnRemove event" Url="html/E_CacheManager_Core_Cache_BaseCacheManager_1_OnRemove.htm" />
   <HelpKINode Title="BaseCacheManager(Of TCacheValue).OnUpdate event" Url="html/E_CacheManager_Core_Cache_BaseCacheManager_1_OnUpdate.htm" />
+  <HelpKINode Title="BaseCacheManager(Of TCacheValue).TryUpdate method" Url="html/Overload_CacheManager_Core_Cache_BaseCacheManager_1_TryUpdate.htm" />
   <HelpKINode Title="BaseCacheManager(Of TCacheValue).Update method" Url="html/Overload_CacheManager_Core_Cache_BaseCacheManager_1_Update.htm" />
   <HelpKINode Title="BaseCacheManager&lt;TCacheValue&gt; class">
     <HelpKINode Title="BaseCacheManager(TCacheValue) Class" Url="html/T_CacheManager_Core_Cache_BaseCacheManager_1.htm" />
@@ -210,7 +176,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_Core_Cache_BaseCacheManager_1.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Core_Cache_BaseCacheManager_1.htm" />
   </HelpKINode>
-  <HelpKINode Title="BaseCacheManager&lt;TCacheValue&gt;.AddCacheHandle method" Url="html/M_CacheManager_Core_Cache_BaseCacheManager_1_AddCacheHandle.htm" />
+  <HelpKINode Title="BaseCacheManager&lt;TCacheValue&gt;.AddOrUpdate method" Url="html/Overload_CacheManager_Core_Cache_BaseCacheManager_1_AddOrUpdate.htm" />
   <HelpKINode Title="BaseCacheManager&lt;TCacheValue&gt;.BaseCacheManager constructor" Url="html/M_CacheManager_Core_Cache_BaseCacheManager_1__ctor.htm" />
   <HelpKINode Title="BaseCacheManager&lt;TCacheValue&gt;.CacheHandles property" Url="html/P_CacheManager_Core_Cache_BaseCacheManager_1_CacheHandles.htm" />
   <HelpKINode Title="BaseCacheManager&lt;TCacheValue&gt;.Clear method" Url="html/M_CacheManager_Core_Cache_BaseCacheManager_1_Clear.htm" />
@@ -224,6 +190,7 @@
   <HelpKINode Title="BaseCacheManager&lt;TCacheValue&gt;.OnPut event" Url="html/E_CacheManager_Core_Cache_BaseCacheManager_1_OnPut.htm" />
   <HelpKINode Title="BaseCacheManager&lt;TCacheValue&gt;.OnRemove event" Url="html/E_CacheManager_Core_Cache_BaseCacheManager_1_OnRemove.htm" />
   <HelpKINode Title="BaseCacheManager&lt;TCacheValue&gt;.OnUpdate event" Url="html/E_CacheManager_Core_Cache_BaseCacheManager_1_OnUpdate.htm" />
+  <HelpKINode Title="BaseCacheManager&lt;TCacheValue&gt;.TryUpdate method" Url="html/Overload_CacheManager_Core_Cache_BaseCacheManager_1_TryUpdate.htm" />
   <HelpKINode Title="BaseCacheManager&lt;TCacheValue&gt;.Update method" Url="html/Overload_CacheManager_Core_Cache_BaseCacheManager_1_Update.htm" />
   <HelpKINode Title="BucketCacheHandle class">
     <HelpKINode Title="BucketCacheHandle Class" Url="html/T_CacheManager_Couchbase_BucketCacheHandle.htm" />
@@ -292,6 +259,7 @@
     <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Core_Cache_CacheBackPlate.htm" />
   </HelpKINode>
   <HelpKINode Title="CacheBackPlate.CacheBackPlate constructor" Url="html/M_CacheManager_Core_Cache_CacheBackPlate__ctor.htm" />
+  <HelpKINode Title="CacheBackPlate.CacheConfiguration property" Url="html/P_CacheManager_Core_Cache_CacheBackPlate_CacheConfiguration.htm" />
   <HelpKINode Title="CacheBackPlate.CacheName property" Url="html/P_CacheManager_Core_Cache_CacheBackPlate_CacheName.htm" />
   <HelpKINode Title="CacheBackPlate.Dispose method" Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_Dispose.htm" />
   <HelpKINode Title="CacheBackPlate.Finalize method" Url="html/M_CacheManager_Core_Cache_CacheBackPlate_Finalize.htm" />
@@ -320,6 +288,7 @@
   </HelpKINode>
   <HelpKINode Title="CacheClearRegionEventArgs.CacheClearRegionEventArgs constructor" Url="html/M_CacheManager_Core_Cache_CacheClearRegionEventArgs__ctor.htm" />
   <HelpKINode Title="CacheClearRegionEventArgs.Region property" Url="html/P_CacheManager_Core_Cache_CacheClearRegionEventArgs_Region.htm" />
+  <HelpKINode Title="CacheConfiguration property" Url="html/P_CacheManager_Core_Cache_CacheBackPlate_CacheConfiguration.htm" />
   <HelpKINode Title="CacheFactory class">
     <HelpKINode Title="CacheFactory Class" Url="html/T_CacheManager_Core_CacheFactory.htm" />
     <HelpKINode Title="about CacheFactory class" Url="html/T_CacheManager_Core_CacheFactory.htm" />
@@ -341,6 +310,7 @@
   <HelpKINode Title="CacheHandleConfiguration.ExpirationTimeout property" Url="html/P_CacheManager_Core_CacheHandleConfiguration_ExpirationTimeout.htm" />
   <HelpKINode Title="CacheHandleConfiguration.HandleName property" Url="html/P_CacheManager_Core_CacheHandleConfiguration_HandleName.htm" />
   <HelpKINode Title="CacheHandleConfiguration.IsBackPlateSource property" Url="html/P_CacheManager_Core_CacheHandleConfiguration_IsBackPlateSource.htm" />
+  <HelpKINode Title="CacheHandleConfigurations property" Url="html/P_CacheManager_Core_CacheManagerConfiguration_CacheHandleConfigurations.htm" />
   <HelpKINode Title="CacheHandleDefinition class">
     <HelpKINode Title="CacheHandleDefinition Class" Url="html/T_CacheManager_Core_Configuration_CacheHandleDefinition.htm" />
     <HelpKINode Title="about CacheHandleDefinition class" Url="html/T_CacheManager_Core_Configuration_CacheHandleDefinition.htm" />
@@ -405,10 +375,6 @@
   <HelpKINode Title="CacheItem&lt;T&gt;.ValueType property" Url="html/P_CacheManager_Core_CacheItem_1_ValueType.htm" />
   <HelpKINode Title="CacheItem&lt;T&gt;.WithExpiration method" Url="html/M_CacheManager_Core_CacheItem_1_WithExpiration.htm" />
   <HelpKINode Title="CacheItem&lt;T&gt;.WithValue method" Url="html/M_CacheManager_Core_CacheItem_1_WithValue.htm" />
-  <HelpKINode Title="CacheManager.AppFabricCache namespace" Url="html/N_CacheManager_AppFabricCache.htm" />
-  <HelpKINode Title="CacheManager.AppFabricCache.AppFabricCacheHandle class" Url="html/T_CacheManager_AppFabricCache_AppFabricCacheHandle.htm" />
-  <HelpKINode Title="CacheManager.AppFabricCache.AppFabricCacheHandle(Of TCacheValue) class" Url="html/T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm" />
-  <HelpKINode Title="CacheManager.AppFabricCache.AppFabricCacheHandle&lt;TCacheValue&gt; class" Url="html/T_CacheManager_AppFabricCache_AppFabricCacheHandle_1.htm" />
   <HelpKINode Title="CacheManager.Core namespace" Url="html/N_CacheManager_Core.htm" />
   <HelpKINode Title="CacheManager.Core.Cache namespace" Url="html/N_CacheManager_Core_Cache.htm" />
   <HelpKINode Title="CacheManager.Core.Cache.BackPlateAction enumeration" Url="html/T_CacheManager_Core_Cache_BackPlateAction.htm" />
@@ -423,10 +389,11 @@
   <HelpKINode Title="CacheManager.Core.Cache.CacheBackPlate class" Url="html/T_CacheManager_Core_Cache_CacheBackPlate.htm" />
   <HelpKINode Title="CacheManager.Core.Cache.CacheClearEventArgs class" Url="html/T_CacheManager_Core_Cache_CacheClearEventArgs.htm" />
   <HelpKINode Title="CacheManager.Core.Cache.CacheClearRegionEventArgs class" Url="html/T_CacheManager_Core_Cache_CacheClearRegionEventArgs.htm" />
-  <HelpKINode Title="CacheManager.Core.Cache.CacheStats(Of T) class" Url="html/T_CacheManager_Core_Cache_CacheStats_1.htm" />
-  <HelpKINode Title="CacheManager.Core.Cache.CacheStats&lt;T&gt; class" Url="html/T_CacheManager_Core_Cache_CacheStats_1.htm" />
+  <HelpKINode Title="CacheManager.Core.Cache.CacheStats(Of TCacheValue) class" Url="html/T_CacheManager_Core_Cache_CacheStats_1.htm" />
+  <HelpKINode Title="CacheManager.Core.Cache.CacheStats&lt;TCacheValue&gt; class" Url="html/T_CacheManager_Core_Cache_CacheStats_1.htm" />
   <HelpKINode Title="CacheManager.Core.Cache.CacheStatsCounterType enumeration" Url="html/T_CacheManager_Core_Cache_CacheStatsCounterType.htm" />
-  <HelpKINode Title="CacheManager.Core.Cache.CacheUpdateEventArgs class" Url="html/T_CacheManager_Core_Cache_CacheUpdateEventArgs.htm" />
+  <HelpKINode Title="CacheManager.Core.Cache.CacheUpdateEventArgs(Of TCacheValue) class" Url="html/T_CacheManager_Core_Cache_CacheUpdateEventArgs_1.htm" />
+  <HelpKINode Title="CacheManager.Core.Cache.CacheUpdateEventArgs&lt;TCacheValue&gt; class" Url="html/T_CacheManager_Core_Cache_CacheUpdateEventArgs_1.htm" />
   <HelpKINode Title="CacheManager.Core.Cache.DictionaryCacheHandle class" Url="html/T_CacheManager_Core_Cache_DictionaryCacheHandle.htm" />
   <HelpKINode Title="CacheManager.Core.Cache.DictionaryCacheHandle(Of TCacheValue) class" Url="html/T_CacheManager_Core_Cache_DictionaryCacheHandle_1.htm" />
   <HelpKINode Title="CacheManager.Core.Cache.DictionaryCacheHandle&lt;TCacheValue&gt; class" Url="html/T_CacheManager_Core_Cache_DictionaryCacheHandle_1.htm" />
@@ -454,6 +421,9 @@
   <HelpKINode Title="CacheManager.Core.ICacheManager&lt;TCacheValue&gt; interface" Url="html/T_CacheManager_Core_ICacheManager_1.htm" />
   <HelpKINode Title="CacheManager.Core.UpdateItemConfig class" Url="html/T_CacheManager_Core_UpdateItemConfig.htm" />
   <HelpKINode Title="CacheManager.Core.UpdateItemResult class" Url="html/T_CacheManager_Core_UpdateItemResult.htm" />
+  <HelpKINode Title="CacheManager.Core.UpdateItemResult(Of TCacheValue) class" Url="html/T_CacheManager_Core_UpdateItemResult_1.htm" />
+  <HelpKINode Title="CacheManager.Core.UpdateItemResult&lt;TCacheValue&gt; class" Url="html/T_CacheManager_Core_UpdateItemResult_1.htm" />
+  <HelpKINode Title="CacheManager.Core.UpdateItemResultState enumeration" Url="html/T_CacheManager_Core_UpdateItemResultState.htm" />
   <HelpKINode Title="CacheManager.Core.VersionConflictHandling enumeration" Url="html/T_CacheManager_Core_VersionConflictHandling.htm" />
   <HelpKINode Title="CacheManager.Couchbase namespace" Url="html/N_CacheManager_Couchbase.htm" />
   <HelpKINode Title="CacheManager.Couchbase.BucketCacheHandle class" Url="html/T_CacheManager_Couchbase_BucketCacheHandle.htm" />
@@ -486,9 +456,6 @@
   <HelpKINode Title="CacheManager.SystemRuntimeCaching.MemoryCacheHandle&lt;TCacheValue&gt; class" Url="html/T_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1.htm" />
   <HelpKINode Title="CacheManager.Web namespace" Url="html/N_CacheManager_Web.htm" />
   <HelpKINode Title="CacheManager.Web.CacheManagerOutputCacheProvider class" Url="html/T_CacheManager_Web_CacheManagerOutputCacheProvider.htm" />
-  <HelpKINode Title="CacheManager.WindowsAzureCaching namespace" Url="html/N_CacheManager_WindowsAzureCaching.htm" />
-  <HelpKINode Title="CacheManager.WindowsAzureCaching.ProtoBufDataCacheObjectSerializer(Of T) class" Url="html/T_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1.htm" />
-  <HelpKINode Title="CacheManager.WindowsAzureCaching.ProtoBufDataCacheObjectSerializer&lt;T&gt; class" Url="html/T_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1.htm" />
   <HelpKINode Title="CacheManagerCollection class">
     <HelpKINode Title="CacheManagerCollection Class" Url="html/T_CacheManager_Core_Configuration_CacheManagerCollection.htm" />
     <HelpKINode Title="about CacheManagerCollection class" Url="html/T_CacheManager_Core_Configuration_CacheManagerCollection.htm" />
@@ -506,8 +473,11 @@
     <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Core_CacheManagerConfiguration.htm" />
   </HelpKINode>
   <HelpKINode Title="CacheManagerConfiguration.BackPlateName property" Url="html/P_CacheManager_Core_CacheManagerConfiguration_BackPlateName.htm" />
+  <HelpKINode Title="CacheManagerConfiguration.BackPlateType property" Url="html/P_CacheManager_Core_CacheManagerConfiguration_BackPlateType.htm" />
+  <HelpKINode Title="CacheManagerConfiguration.CacheHandleConfigurations property" Url="html/P_CacheManager_Core_CacheManagerConfiguration_CacheHandleConfigurations.htm" />
   <HelpKINode Title="CacheManagerConfiguration.CacheManagerConfiguration constructor" Url="html/Overload_CacheManager_Core_CacheManagerConfiguration__ctor.htm" />
   <HelpKINode Title="CacheManagerConfiguration.CacheUpdateMode property" Url="html/P_CacheManager_Core_CacheManagerConfiguration_CacheUpdateMode.htm" />
+  <HelpKINode Title="CacheManagerConfiguration.HasBackPlate property" Url="html/P_CacheManager_Core_CacheManagerConfiguration_HasBackPlate.htm" />
   <HelpKINode Title="CacheManagerConfiguration.MaxRetries property" Url="html/P_CacheManager_Core_CacheManagerConfiguration_MaxRetries.htm" />
   <HelpKINode Title="CacheManagerConfiguration.RetryTimeout property" Url="html/P_CacheManager_Core_CacheManagerConfiguration_RetryTimeout.htm" />
   <HelpKINode Title="CacheManagerHandle class">
@@ -570,61 +540,72 @@
   <HelpKINode Title="CacheManagerSection.Xmlns property" Url="html/P_CacheManager_Core_Configuration_CacheManagerSection_Xmlns.htm" />
   <HelpKINode Title="CacheName property" Url="html/P_CacheManager_Core_Cache_CacheBackPlate_CacheName.htm" />
   <HelpKINode Title="CacheSettings property" Url="html/P_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_CacheSettings.htm" />
-  <HelpKINode Title="CacheStats(Of T) class">
-    <HelpKINode Title="CacheStats(T) Class" Url="html/T_CacheManager_Core_Cache_CacheStats_1.htm" />
-    <HelpKINode Title="about CacheStats(Of T) class" Url="html/T_CacheManager_Core_Cache_CacheStats_1.htm" />
+  <HelpKINode Title="CacheStats(Of TCacheValue) class">
+    <HelpKINode Title="CacheStats(TCacheValue) Class" Url="html/T_CacheManager_Core_Cache_CacheStats_1.htm" />
+    <HelpKINode Title="about CacheStats(Of TCacheValue) class" Url="html/T_CacheManager_Core_Cache_CacheStats_1.htm" />
     <HelpKINode Title="constructor" Url="html/M_CacheManager_Core_Cache_CacheStats_1__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_Core_Cache_CacheStats_1.htm" />
   </HelpKINode>
-  <HelpKINode Title="CacheStats(Of T).CacheStats constructor" Url="html/M_CacheManager_Core_Cache_CacheStats_1__ctor.htm" />
-  <HelpKINode Title="CacheStats(Of T).Dispose method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_Dispose.htm" />
-  <HelpKINode Title="CacheStats(Of T).GetStatistic method" Url="html/Overload_CacheManager_Core_Cache_CacheStats_1_GetStatistic.htm" />
-  <HelpKINode Title="CacheStats(Of T).OnAdd method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnAdd.htm" />
-  <HelpKINode Title="CacheStats(Of T).OnClear method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnClear.htm" />
-  <HelpKINode Title="CacheStats(Of T).OnClearRegion method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnClearRegion.htm" />
-  <HelpKINode Title="CacheStats(Of T).OnGet method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnGet.htm" />
-  <HelpKINode Title="CacheStats(Of T).OnHit method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnHit.htm" />
-  <HelpKINode Title="CacheStats(Of T).OnMiss method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnMiss.htm" />
-  <HelpKINode Title="CacheStats(Of T).OnPut method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnPut.htm" />
-  <HelpKINode Title="CacheStats(Of T).OnRemove method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnRemove.htm" />
-  <HelpKINode Title="CacheStats(Of T).OnUpdate method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnUpdate.htm" />
-  <HelpKINode Title="CacheStats&lt;T&gt; class">
-    <HelpKINode Title="CacheStats(T) Class" Url="html/T_CacheManager_Core_Cache_CacheStats_1.htm" />
-    <HelpKINode Title="about CacheStats&lt;T&gt; class" Url="html/T_CacheManager_Core_Cache_CacheStats_1.htm" />
+  <HelpKINode Title="CacheStats(Of TCacheValue).CacheStats constructor" Url="html/M_CacheManager_Core_Cache_CacheStats_1__ctor.htm" />
+  <HelpKINode Title="CacheStats(Of TCacheValue).Dispose method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_Dispose.htm" />
+  <HelpKINode Title="CacheStats(Of TCacheValue).GetStatistic method" Url="html/Overload_CacheManager_Core_Cache_CacheStats_1_GetStatistic.htm" />
+  <HelpKINode Title="CacheStats(Of TCacheValue).OnAdd method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnAdd.htm" />
+  <HelpKINode Title="CacheStats(Of TCacheValue).OnClear method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnClear.htm" />
+  <HelpKINode Title="CacheStats(Of TCacheValue).OnClearRegion method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnClearRegion.htm" />
+  <HelpKINode Title="CacheStats(Of TCacheValue).OnGet method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnGet.htm" />
+  <HelpKINode Title="CacheStats(Of TCacheValue).OnHit method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnHit.htm" />
+  <HelpKINode Title="CacheStats(Of TCacheValue).OnMiss method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnMiss.htm" />
+  <HelpKINode Title="CacheStats(Of TCacheValue).OnPut method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnPut.htm" />
+  <HelpKINode Title="CacheStats(Of TCacheValue).OnRemove method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnRemove.htm" />
+  <HelpKINode Title="CacheStats(Of TCacheValue).OnUpdate method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnUpdate.htm" />
+  <HelpKINode Title="CacheStats&lt;TCacheValue&gt; class">
+    <HelpKINode Title="CacheStats(TCacheValue) Class" Url="html/T_CacheManager_Core_Cache_CacheStats_1.htm" />
+    <HelpKINode Title="about CacheStats&lt;TCacheValue&gt; class" Url="html/T_CacheManager_Core_Cache_CacheStats_1.htm" />
     <HelpKINode Title="constructor" Url="html/M_CacheManager_Core_Cache_CacheStats_1__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_Core_Cache_CacheStats_1.htm" />
   </HelpKINode>
-  <HelpKINode Title="CacheStats&lt;T&gt;.CacheStats constructor" Url="html/M_CacheManager_Core_Cache_CacheStats_1__ctor.htm" />
-  <HelpKINode Title="CacheStats&lt;T&gt;.Dispose method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_Dispose.htm" />
-  <HelpKINode Title="CacheStats&lt;T&gt;.GetStatistic method" Url="html/Overload_CacheManager_Core_Cache_CacheStats_1_GetStatistic.htm" />
-  <HelpKINode Title="CacheStats&lt;T&gt;.OnAdd method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnAdd.htm" />
-  <HelpKINode Title="CacheStats&lt;T&gt;.OnClear method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnClear.htm" />
-  <HelpKINode Title="CacheStats&lt;T&gt;.OnClearRegion method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnClearRegion.htm" />
-  <HelpKINode Title="CacheStats&lt;T&gt;.OnGet method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnGet.htm" />
-  <HelpKINode Title="CacheStats&lt;T&gt;.OnHit method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnHit.htm" />
-  <HelpKINode Title="CacheStats&lt;T&gt;.OnMiss method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnMiss.htm" />
-  <HelpKINode Title="CacheStats&lt;T&gt;.OnPut method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnPut.htm" />
-  <HelpKINode Title="CacheStats&lt;T&gt;.OnRemove method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnRemove.htm" />
-  <HelpKINode Title="CacheStats&lt;T&gt;.OnUpdate method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnUpdate.htm" />
+  <HelpKINode Title="CacheStats&lt;TCacheValue&gt;.CacheStats constructor" Url="html/M_CacheManager_Core_Cache_CacheStats_1__ctor.htm" />
+  <HelpKINode Title="CacheStats&lt;TCacheValue&gt;.Dispose method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_Dispose.htm" />
+  <HelpKINode Title="CacheStats&lt;TCacheValue&gt;.GetStatistic method" Url="html/Overload_CacheManager_Core_Cache_CacheStats_1_GetStatistic.htm" />
+  <HelpKINode Title="CacheStats&lt;TCacheValue&gt;.OnAdd method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnAdd.htm" />
+  <HelpKINode Title="CacheStats&lt;TCacheValue&gt;.OnClear method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnClear.htm" />
+  <HelpKINode Title="CacheStats&lt;TCacheValue&gt;.OnClearRegion method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnClearRegion.htm" />
+  <HelpKINode Title="CacheStats&lt;TCacheValue&gt;.OnGet method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnGet.htm" />
+  <HelpKINode Title="CacheStats&lt;TCacheValue&gt;.OnHit method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnHit.htm" />
+  <HelpKINode Title="CacheStats&lt;TCacheValue&gt;.OnMiss method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnMiss.htm" />
+  <HelpKINode Title="CacheStats&lt;TCacheValue&gt;.OnPut method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnPut.htm" />
+  <HelpKINode Title="CacheStats&lt;TCacheValue&gt;.OnRemove method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnRemove.htm" />
+  <HelpKINode Title="CacheStats&lt;TCacheValue&gt;.OnUpdate method" Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnUpdate.htm" />
   <HelpKINode Title="CacheStatsCounterType enumeration" Url="html/T_CacheManager_Core_Cache_CacheStatsCounterType.htm" />
-  <HelpKINode Title="CacheUpdateEventArgs class">
-    <HelpKINode Title="CacheUpdateEventArgs Class" Url="html/T_CacheManager_Core_Cache_CacheUpdateEventArgs.htm" />
-    <HelpKINode Title="about CacheUpdateEventArgs class" Url="html/T_CacheManager_Core_Cache_CacheUpdateEventArgs.htm" />
-    <HelpKINode Title="constructor" Url="html/M_CacheManager_Core_Cache_CacheUpdateEventArgs__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_Core_Cache_CacheUpdateEventArgs.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Core_Cache_CacheUpdateEventArgs.htm" />
+  <HelpKINode Title="CacheUpdateEventArgs(Of TCacheValue) class">
+    <HelpKINode Title="CacheUpdateEventArgs(TCacheValue) Class" Url="html/T_CacheManager_Core_Cache_CacheUpdateEventArgs_1.htm" />
+    <HelpKINode Title="about CacheUpdateEventArgs(Of TCacheValue) class" Url="html/T_CacheManager_Core_Cache_CacheUpdateEventArgs_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_CacheManager_Core_Cache_CacheUpdateEventArgs_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_Core_Cache_CacheUpdateEventArgs_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Core_Cache_CacheUpdateEventArgs_1.htm" />
   </HelpKINode>
-  <HelpKINode Title="CacheUpdateEventArgs.CacheUpdateEventArgs constructor" Url="html/M_CacheManager_Core_Cache_CacheUpdateEventArgs__ctor.htm" />
-  <HelpKINode Title="CacheUpdateEventArgs.Config property" Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_Config.htm" />
-  <HelpKINode Title="CacheUpdateEventArgs.Key property" Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_Key.htm" />
-  <HelpKINode Title="CacheUpdateEventArgs.Region property" Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_Region.htm" />
-  <HelpKINode Title="CacheUpdateEventArgs.Result property" Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_Result.htm" />
+  <HelpKINode Title="CacheUpdateEventArgs(Of TCacheValue).CacheUpdateEventArgs constructor" Url="html/M_CacheManager_Core_Cache_CacheUpdateEventArgs_1__ctor.htm" />
+  <HelpKINode Title="CacheUpdateEventArgs(Of TCacheValue).Config property" Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_1_Config.htm" />
+  <HelpKINode Title="CacheUpdateEventArgs(Of TCacheValue).Key property" Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_1_Key.htm" />
+  <HelpKINode Title="CacheUpdateEventArgs(Of TCacheValue).Region property" Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_1_Region.htm" />
+  <HelpKINode Title="CacheUpdateEventArgs(Of TCacheValue).Result property" Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_1_Result.htm" />
+  <HelpKINode Title="CacheUpdateEventArgs&lt;TCacheValue&gt; class">
+    <HelpKINode Title="CacheUpdateEventArgs(TCacheValue) Class" Url="html/T_CacheManager_Core_Cache_CacheUpdateEventArgs_1.htm" />
+    <HelpKINode Title="about CacheUpdateEventArgs&lt;TCacheValue&gt; class" Url="html/T_CacheManager_Core_Cache_CacheUpdateEventArgs_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_CacheManager_Core_Cache_CacheUpdateEventArgs_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_Core_Cache_CacheUpdateEventArgs_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Core_Cache_CacheUpdateEventArgs_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CacheUpdateEventArgs&lt;TCacheValue&gt;.CacheUpdateEventArgs constructor" Url="html/M_CacheManager_Core_Cache_CacheUpdateEventArgs_1__ctor.htm" />
+  <HelpKINode Title="CacheUpdateEventArgs&lt;TCacheValue&gt;.Config property" Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_1_Config.htm" />
+  <HelpKINode Title="CacheUpdateEventArgs&lt;TCacheValue&gt;.Key property" Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_1_Key.htm" />
+  <HelpKINode Title="CacheUpdateEventArgs&lt;TCacheValue&gt;.Region property" Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_1_Region.htm" />
+  <HelpKINode Title="CacheUpdateEventArgs&lt;TCacheValue&gt;.Result property" Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_1_Result.htm" />
   <HelpKINode Title="CacheUpdateMode enumeration" Url="html/T_CacheManager_Core_CacheUpdateMode.htm" />
   <HelpKINode Title="CacheUpdateMode property" Url="html/P_CacheManager_Core_CacheManagerConfiguration_CacheUpdateMode.htm" />
   <HelpKINode Title="Changed enumeration member" Url="html/T_CacheManager_Core_Cache_BackPlateAction.htm" />
   <HelpKINode Title="Clear enumeration member" Url="html/T_CacheManager_Core_Cache_BackPlateAction.htm" />
   <HelpKINode Title="Clear method">
-    <HelpKINode Title="AppFabricCacheHandle(TCacheValue).Clear Method " Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_Clear.htm" />
     <HelpKINode Title="BaseCache(TCacheValue).Clear Method " Url="html/M_CacheManager_Core_Cache_BaseCache_1_Clear.htm" />
     <HelpKINode Title="BaseCacheManager(TCacheValue).Clear Method " Url="html/M_CacheManager_Core_Cache_BaseCacheManager_1_Clear.htm" />
     <HelpKINode Title="BucketCacheHandle(TCacheValue).Clear Method " Url="html/M_CacheManager_Couchbase_BucketCacheHandle_1_Clear.htm" />
@@ -637,7 +618,6 @@
   <HelpKINode Title="ClearCalls enumeration member" Url="html/T_CacheManager_Core_Cache_CacheStatsCounterType.htm" />
   <HelpKINode Title="ClearRegion enumeration member" Url="html/T_CacheManager_Core_Cache_BackPlateAction.htm" />
   <HelpKINode Title="ClearRegion method">
-    <HelpKINode Title="AppFabricCacheHandle(TCacheValue).ClearRegion Method " Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_ClearRegion.htm" />
     <HelpKINode Title="BaseCache(TCacheValue).ClearRegion Method " Url="html/M_CacheManager_Core_Cache_BaseCache_1_ClearRegion.htm" />
     <HelpKINode Title="BaseCacheManager(TCacheValue).ClearRegion Method " Url="html/M_CacheManager_Core_Cache_BaseCacheManager_1_ClearRegion.htm" />
     <HelpKINode Title="BucketCacheHandle(TCacheValue).ClearRegion Method " Url="html/M_CacheManager_Couchbase_BucketCacheHandle_1_ClearRegion.htm" />
@@ -648,7 +628,7 @@
     <HelpKINode Title="RedisCacheHandle(TCacheValue).ClearRegion Method " Url="html/M_CacheManager_Redis_RedisCacheHandle_1_ClearRegion.htm" />
   </HelpKINode>
   <HelpKINode Title="ClearRegionCalls enumeration member" Url="html/T_CacheManager_Core_Cache_CacheStatsCounterType.htm" />
-  <HelpKINode Title="Config property" Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_Config.htm" />
+  <HelpKINode Title="Config property" Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_1_Config.htm" />
   <HelpKINode Title="Configuration property">
     <HelpKINode Title="BaseCacheHandle(TCacheValue).Configuration Property " Url="html/P_CacheManager_Core_Cache_BaseCacheHandle_1_Configuration.htm" />
     <HelpKINode Title="BaseCacheManager(TCacheValue).Configuration Property " Url="html/P_CacheManager_Core_Cache_BaseCacheManager_1_Configuration.htm" />
@@ -681,6 +661,7 @@
   </HelpKINode>
   <HelpKINode Title="ConfigurationBuilderCachePart.WithBackPlate(Of TBackPlate) method" Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_WithBackPlate__1.htm" />
   <HelpKINode Title="ConfigurationBuilderCachePart.WithBackPlate&lt;TBackPlate&gt; method" Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_WithBackPlate__1.htm" />
+  <HelpKINode Title="ConfigurationBuilderCachePart.WithDictionaryHandle method" Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_WithDictionaryHandle.htm" />
   <HelpKINode Title="ConfigurationBuilderCachePart.WithHandle method" Url="html/Overload_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_WithHandle.htm" />
   <HelpKINode Title="ConfigurationBuilderCachePart.WithMaxRetries method" Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_WithMaxRetries.htm" />
   <HelpKINode Title="ConfigurationBuilderCachePart.WithRetryTimeout method" Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_WithRetryTimeout.htm" />
@@ -690,7 +671,6 @@
     <HelpKINode Title="about ConfigurationBuilderExtensions class" Url="html/T_CacheManager_Core_ConfigurationBuilderExtensions.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_Core_ConfigurationBuilderExtensions.htm" />
   </HelpKINode>
-  <HelpKINode Title="ConfigurationBuilderExtensions.WithAppFabricCacheHandle method" Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithAppFabricCacheHandle.htm" />
   <HelpKINode Title="ConfigurationBuilderExtensions.WithCouchbaseCacheHandle method" Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseCacheHandle.htm" />
   <HelpKINode Title="ConfigurationBuilderExtensions.WithCouchbaseConfiguration method" Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseConfiguration.htm" />
   <HelpKINode Title="ConfigurationBuilderExtensions.WithMemcachedCacheHandle method" Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithMemcachedCacheHandle.htm" />
@@ -717,7 +697,6 @@
   <HelpKINode Title="CouchbaseConfigurationManager.GetCluster method" Url="html/M_CacheManager_Couchbase_CouchbaseConfigurationManager_GetCluster.htm" />
   <HelpKINode Title="CouchbaseConfigurationManager.GetConfiguration method" Url="html/M_CacheManager_Couchbase_CouchbaseConfigurationManager_GetConfiguration.htm" />
   <HelpKINode Title="Count property">
-    <HelpKINode Title="AppFabricCacheHandle(TCacheValue).Count Property " Url="html/P_CacheManager_AppFabricCache_AppFabricCacheHandle_1_Count.htm" />
     <HelpKINode Title="BaseCacheHandle(TCacheValue).Count Property " Url="html/P_CacheManager_Core_Cache_BaseCacheHandle_1_Count.htm" />
     <HelpKINode Title="BucketCacheHandle(TCacheValue).Count Property " Url="html/P_CacheManager_Couchbase_BucketCacheHandle_1_Count.htm" />
     <HelpKINode Title="DictionaryCacheHandle(TCacheValue).Count Property " Url="html/P_CacheManager_Core_Cache_DictionaryCacheHandle_1_Count.htm" />
@@ -736,10 +715,7 @@
     <HelpKINode Title="RedisConfigurationSection.DefaultSectionName Field" Url="html/F_CacheManager_Redis_RedisConfigurationSection_DefaultSectionName.htm" />
   </HelpKINode>
   <HelpKINode Title="DefaultTimeout property" Url="html/P_CacheManager_Core_Configuration_CacheHandleDefinition_DefaultTimeout.htm" />
-  <HelpKINode Title="Deserialize method">
-    <HelpKINode Title="BackPlateMessage.Deserialize Method " Url="html/M_CacheManager_Core_Cache_BackPlateMessage_Deserialize.htm" />
-    <HelpKINode Title="ProtoBufDataCacheObjectSerializer(T).Deserialize Method " Url="html/M_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1_Deserialize.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Deserialize method" Url="html/M_CacheManager_Core_Cache_BackPlateMessage_Deserialize.htm" />
   <HelpKINode Title="DictionaryCacheHandle class">
     <HelpKINode Title="DictionaryCacheHandle Class" Url="html/T_CacheManager_Core_Cache_DictionaryCacheHandle.htm" />
     <HelpKINode Title="about DictionaryCacheHandle class" Url="html/T_CacheManager_Core_Cache_DictionaryCacheHandle.htm" />
@@ -787,7 +763,7 @@
     <HelpKINode Title="BaseCacheHandle(TCacheValue).Dispose Method " Url="html/Overload_CacheManager_Core_Cache_BaseCacheHandle_1_Dispose.htm" />
     <HelpKINode Title="BucketCacheHandle(TCacheValue).Dispose Method " Url="html/Overload_CacheManager_Couchbase_BucketCacheHandle_1_Dispose.htm" />
     <HelpKINode Title="CacheBackPlate.Dispose Method " Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_Dispose.htm" />
-    <HelpKINode Title="CacheStats(T).Dispose Method " Url="html/M_CacheManager_Core_Cache_CacheStats_1_Dispose.htm" />
+    <HelpKINode Title="CacheStats(TCacheValue).Dispose Method " Url="html/M_CacheManager_Core_Cache_CacheStats_1_Dispose.htm" />
     <HelpKINode Title="MemcachedClientHandle(TCacheValue).Dispose Method " Url="html/Overload_CacheManager_Memcached_MemcachedClientHandle_1_Dispose.htm" />
     <HelpKINode Title="RedisCacheHandle(TCacheValue).Dispose Method " Url="html/Overload_CacheManager_Redis_RedisCacheHandle_1_Dispose.htm" />
   </HelpKINode>
@@ -844,7 +820,13 @@
   <HelpKINode Title="ForChanged method" Url="html/Overload_CacheManager_Core_Cache_BackPlateMessage_ForChanged.htm" />
   <HelpKINode Title="ForClear method" Url="html/M_CacheManager_Core_Cache_BackPlateMessage_ForClear.htm" />
   <HelpKINode Title="ForClearRegion method" Url="html/M_CacheManager_Core_Cache_BackPlateMessage_ForClearRegion.htm" />
+  <HelpKINode Title="ForItemDidNotExist(Of TCacheValue) method" Url="html/M_CacheManager_Core_UpdateItemResult_ForItemDidNotExist__1.htm" />
+  <HelpKINode Title="ForItemDidNotExist&lt;TCacheValue&gt; method" Url="html/M_CacheManager_Core_UpdateItemResult_ForItemDidNotExist__1.htm" />
   <HelpKINode Title="ForRemoved method" Url="html/Overload_CacheManager_Core_Cache_BackPlateMessage_ForRemoved.htm" />
+  <HelpKINode Title="ForSuccess(Of TCacheValue) method" Url="html/M_CacheManager_Core_UpdateItemResult_ForSuccess__1.htm" />
+  <HelpKINode Title="ForSuccess&lt;TCacheValue&gt; method" Url="html/M_CacheManager_Core_UpdateItemResult_ForSuccess__1.htm" />
+  <HelpKINode Title="ForTooManyRetries(Of TCacheValue) method" Url="html/M_CacheManager_Core_UpdateItemResult_ForTooManyRetries__1.htm" />
+  <HelpKINode Title="ForTooManyRetries&lt;TCacheValue&gt; method" Url="html/M_CacheManager_Core_UpdateItemResult_ForTooManyRetries__1.htm" />
   <HelpKINode Title="FromConfiguration method" Url="html/Overload_CacheManager_Core_CacheFactory_FromConfiguration.htm" />
   <HelpKINode Title="Full enumeration member" Url="html/T_CacheManager_Core_CacheUpdateMode.htm" />
   <HelpKINode Title="Get method">
@@ -858,7 +840,6 @@
     <HelpKINode Title="ICache(TCacheValue).GetCacheItem Method " Url="html/Overload_CacheManager_Core_ICache_1_GetCacheItem.htm" />
   </HelpKINode>
   <HelpKINode Title="GetCacheItemInternal method">
-    <HelpKINode Title="AppFabricCacheHandle(TCacheValue).GetCacheItemInternal Method " Url="html/Overload_CacheManager_AppFabricCache_AppFabricCacheHandle_1_GetCacheItemInternal.htm" />
     <HelpKINode Title="BaseCache(TCacheValue).GetCacheItemInternal Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_GetCacheItemInternal.htm" />
     <HelpKINode Title="BucketCacheHandle(TCacheValue).GetCacheItemInternal Method " Url="html/Overload_CacheManager_Couchbase_BucketCacheHandle_1_GetCacheItemInternal.htm" />
     <HelpKINode Title="DictionaryCacheHandle(TCacheValue).GetCacheItemInternal Method " Url="html/Overload_CacheManager_Core_Cache_DictionaryCacheHandle_1_GetCacheItemInternal.htm" />
@@ -882,11 +863,11 @@
   <HelpKINode Title="GetItemExpiration method" Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1_GetItemExpiration.htm" />
   <HelpKINode Title="GetMemcachedClientConfiguration property" Url="html/P_CacheManager_Memcached_MemcachedCacheHandle_1_GetMemcachedClientConfiguration.htm" />
   <HelpKINode Title="GetObjectData method" Url="html/M_CacheManager_Core_CacheItem_1_GetObjectData.htm" />
-  <HelpKINode Title="GetServerCount method" Url="html/M_CacheManager_Memcached_MemcachedCacheHandle_1_GetServerCount.htm" />
   <HelpKINode Title="GetServers method" Url="html/M_CacheManager_Redis_RedisCacheHandle_1_GetServers.htm" />
   <HelpKINode Title="GetStatistic method" Url="html/Overload_CacheManager_Core_Cache_CacheStats_1_GetStatistic.htm" />
   <HelpKINode Title="HandleName property" Url="html/P_CacheManager_Core_CacheHandleConfiguration_HandleName.htm" />
   <HelpKINode Title="HandleType property" Url="html/P_CacheManager_Core_Configuration_CacheHandleDefinition_HandleType.htm" />
+  <HelpKINode Title="HasBackPlate property" Url="html/P_CacheManager_Core_CacheManagerConfiguration_HasBackPlate.htm" />
   <HelpKINode Title="Hits enumeration member" Url="html/T_CacheManager_Core_Cache_CacheStatsCounterType.htm" />
   <HelpKINode Title="Host property">
     <HelpKINode Title="Endpoint.Host Property " Url="html/P_CacheManager_Redis_Endpoint_Host.htm" />
@@ -927,6 +908,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_Core_ICacheManager_1.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Core_ICacheManager_1.htm" />
   </HelpKINode>
+  <HelpKINode Title="ICacheManager(Of TCacheValue).AddOrUpdate method" Url="html/Overload_CacheManager_Core_ICacheManager_1_AddOrUpdate.htm" />
   <HelpKINode Title="ICacheManager(Of TCacheValue).CacheHandles property" Url="html/P_CacheManager_Core_ICacheManager_1_CacheHandles.htm" />
   <HelpKINode Title="ICacheManager(Of TCacheValue).Configuration property" Url="html/P_CacheManager_Core_ICacheManager_1_Configuration.htm" />
   <HelpKINode Title="ICacheManager(Of TCacheValue).Name property" Url="html/P_CacheManager_Core_ICacheManager_1_Name.htm" />
@@ -937,6 +919,7 @@
   <HelpKINode Title="ICacheManager(Of TCacheValue).OnPut event" Url="html/E_CacheManager_Core_ICacheManager_1_OnPut.htm" />
   <HelpKINode Title="ICacheManager(Of TCacheValue).OnRemove event" Url="html/E_CacheManager_Core_ICacheManager_1_OnRemove.htm" />
   <HelpKINode Title="ICacheManager(Of TCacheValue).OnUpdate event" Url="html/E_CacheManager_Core_ICacheManager_1_OnUpdate.htm" />
+  <HelpKINode Title="ICacheManager(Of TCacheValue).TryUpdate method" Url="html/Overload_CacheManager_Core_ICacheManager_1_TryUpdate.htm" />
   <HelpKINode Title="ICacheManager(Of TCacheValue).Update method" Url="html/Overload_CacheManager_Core_ICacheManager_1_Update.htm" />
   <HelpKINode Title="ICacheManager&lt;TCacheValue&gt; interface">
     <HelpKINode Title="ICacheManager(TCacheValue) Interface" Url="html/T_CacheManager_Core_ICacheManager_1.htm" />
@@ -945,6 +928,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_Core_ICacheManager_1.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Core_ICacheManager_1.htm" />
   </HelpKINode>
+  <HelpKINode Title="ICacheManager&lt;TCacheValue&gt;.AddOrUpdate method" Url="html/Overload_CacheManager_Core_ICacheManager_1_AddOrUpdate.htm" />
   <HelpKINode Title="ICacheManager&lt;TCacheValue&gt;.CacheHandles property" Url="html/P_CacheManager_Core_ICacheManager_1_CacheHandles.htm" />
   <HelpKINode Title="ICacheManager&lt;TCacheValue&gt;.Configuration property" Url="html/P_CacheManager_Core_ICacheManager_1_Configuration.htm" />
   <HelpKINode Title="ICacheManager&lt;TCacheValue&gt;.Name property" Url="html/P_CacheManager_Core_ICacheManager_1_Name.htm" />
@@ -955,6 +939,7 @@
   <HelpKINode Title="ICacheManager&lt;TCacheValue&gt;.OnPut event" Url="html/E_CacheManager_Core_ICacheManager_1_OnPut.htm" />
   <HelpKINode Title="ICacheManager&lt;TCacheValue&gt;.OnRemove event" Url="html/E_CacheManager_Core_ICacheManager_1_OnRemove.htm" />
   <HelpKINode Title="ICacheManager&lt;TCacheValue&gt;.OnUpdate event" Url="html/E_CacheManager_Core_ICacheManager_1_OnUpdate.htm" />
+  <HelpKINode Title="ICacheManager&lt;TCacheValue&gt;.TryUpdate method" Url="html/Overload_CacheManager_Core_ICacheManager_1_TryUpdate.htm" />
   <HelpKINode Title="ICacheManager&lt;TCacheValue&gt;.Update method" Url="html/Overload_CacheManager_Core_ICacheManager_1_Update.htm" />
   <HelpKINode Title="Id property">
     <HelpKINode Title="CacheHandleDefinition.Id Property " Url="html/P_CacheManager_Core_Configuration_CacheHandleDefinition_Id.htm" />
@@ -971,12 +956,13 @@
     <HelpKINode Title="BaseCache(TCacheValue).Item Property " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_Item.htm" />
     <HelpKINode Title="ICache(TCacheValue).Item Property " Url="html/Overload_CacheManager_Core_ICache_1_Item.htm" />
   </HelpKINode>
+  <HelpKINode Title="ItemDidNotExist enumeration member" Url="html/T_CacheManager_Core_UpdateItemResultState.htm" />
   <HelpKINode Title="Items enumeration member" Url="html/T_CacheManager_Core_Cache_CacheStatsCounterType.htm" />
   <HelpKINode Title="Key property">
     <HelpKINode Title="BackPlateMessage.Key Property " Url="html/P_CacheManager_Core_Cache_BackPlateMessage_Key.htm" />
     <HelpKINode Title="CacheActionEventArgs.Key Property " Url="html/P_CacheManager_Core_Cache_CacheActionEventArgs_Key.htm" />
     <HelpKINode Title="CacheItem(T).Key Property " Url="html/P_CacheManager_Core_CacheItem_1_Key.htm" />
-    <HelpKINode Title="CacheUpdateEventArgs.Key Property " Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_Key.htm" />
+    <HelpKINode Title="CacheUpdateEventArgs(TCacheValue).Key Property " Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_1_Key.htm" />
     <HelpKINode Title="RedisConfiguration.Key Property " Url="html/P_CacheManager_Redis_RedisConfiguration_Key.htm" />
   </HelpKINode>
   <HelpKINode Title="LastAccessedUtc property" Url="html/P_CacheManager_Core_CacheItem_1_LastAccessedUtc.htm" />
@@ -1006,8 +992,8 @@
     <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Memcached_MemcachedCacheHandle_1.htm" />
   </HelpKINode>
   <HelpKINode Title="MemcachedCacheHandle(Of TCacheValue).GetMemcachedClientConfiguration property" Url="html/P_CacheManager_Memcached_MemcachedCacheHandle_1_GetMemcachedClientConfiguration.htm" />
-  <HelpKINode Title="MemcachedCacheHandle(Of TCacheValue).GetServerCount method" Url="html/M_CacheManager_Memcached_MemcachedCacheHandle_1_GetServerCount.htm" />
   <HelpKINode Title="MemcachedCacheHandle(Of TCacheValue).MemcachedCacheHandle constructor" Url="html/M_CacheManager_Memcached_MemcachedCacheHandle_1__ctor.htm" />
+  <HelpKINode Title="MemcachedCacheHandle(Of TCacheValue).ServerItemCount property" Url="html/P_CacheManager_Memcached_MemcachedCacheHandle_1_ServerItemCount.htm" />
   <HelpKINode Title="MemcachedCacheHandle(Of TCacheValue).Servers property" Url="html/P_CacheManager_Memcached_MemcachedCacheHandle_1_Servers.htm" />
   <HelpKINode Title="MemcachedCacheHandle.MemcachedCacheHandle constructor" Url="html/M_CacheManager_Memcached_MemcachedCacheHandle__ctor.htm" />
   <HelpKINode Title="MemcachedCacheHandle&lt;TCacheValue&gt; class">
@@ -1018,8 +1004,8 @@
     <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Memcached_MemcachedCacheHandle_1.htm" />
   </HelpKINode>
   <HelpKINode Title="MemcachedCacheHandle&lt;TCacheValue&gt;.GetMemcachedClientConfiguration property" Url="html/P_CacheManager_Memcached_MemcachedCacheHandle_1_GetMemcachedClientConfiguration.htm" />
-  <HelpKINode Title="MemcachedCacheHandle&lt;TCacheValue&gt;.GetServerCount method" Url="html/M_CacheManager_Memcached_MemcachedCacheHandle_1_GetServerCount.htm" />
   <HelpKINode Title="MemcachedCacheHandle&lt;TCacheValue&gt;.MemcachedCacheHandle constructor" Url="html/M_CacheManager_Memcached_MemcachedCacheHandle_1__ctor.htm" />
+  <HelpKINode Title="MemcachedCacheHandle&lt;TCacheValue&gt;.ServerItemCount property" Url="html/P_CacheManager_Memcached_MemcachedCacheHandle_1_ServerItemCount.htm" />
   <HelpKINode Title="MemcachedCacheHandle&lt;TCacheValue&gt;.Servers property" Url="html/P_CacheManager_Memcached_MemcachedCacheHandle_1_Servers.htm" />
   <HelpKINode Title="MemcachedClientHandle(Of TCacheValue) class">
     <HelpKINode Title="MemcachedClientHandle(TCacheValue) Class" Url="html/T_CacheManager_Memcached_MemcachedClientHandle_1.htm" />
@@ -1127,7 +1113,7 @@
     <HelpKINode Title="CacheBackPlate.NotifyRemove Method " Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_NotifyRemove.htm" />
     <HelpKINode Title="RedisCacheBackPlate.NotifyRemove Method " Url="html/Overload_CacheManager_Redis_RedisCacheBackPlate_NotifyRemove.htm" />
   </HelpKINode>
-  <HelpKINode Title="NumberOfRetriesNeeded property" Url="html/P_CacheManager_Core_UpdateItemResult_NumberOfRetriesNeeded.htm" />
+  <HelpKINode Title="NumberOfTriesNeeded property" Url="html/P_CacheManager_Core_UpdateItemResult_1_NumberOfTriesNeeded.htm" />
   <HelpKINode Title="OnAdd event">
     <HelpKINode Title="BaseCacheManager(TCacheValue).OnAdd Event" Url="html/E_CacheManager_Core_Cache_BaseCacheManager_1_OnAdd.htm" />
     <HelpKINode Title="ICacheManager(TCacheValue).OnAdd Event" Url="html/E_CacheManager_Core_ICacheManager_1_OnAdd.htm" />
@@ -1140,7 +1126,7 @@
   </HelpKINode>
   <HelpKINode Title="OnClear method">
     <HelpKINode Title="CacheBackPlate.OnClear Method " Url="html/M_CacheManager_Core_Cache_CacheBackPlate_OnClear.htm" />
-    <HelpKINode Title="CacheStats(T).OnClear Method " Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnClear.htm" />
+    <HelpKINode Title="CacheStats(TCacheValue).OnClear Method " Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnClear.htm" />
   </HelpKINode>
   <HelpKINode Title="OnClearRegion event">
     <HelpKINode Title="BaseCacheManager(TCacheValue).OnClearRegion Event" Url="html/E_CacheManager_Core_Cache_BaseCacheManager_1_OnClearRegion.htm" />
@@ -1148,7 +1134,7 @@
   </HelpKINode>
   <HelpKINode Title="OnClearRegion method">
     <HelpKINode Title="CacheBackPlate.OnClearRegion Method " Url="html/M_CacheManager_Core_Cache_CacheBackPlate_OnClearRegion.htm" />
-    <HelpKINode Title="CacheStats(T).OnClearRegion Method " Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnClearRegion.htm" />
+    <HelpKINode Title="CacheStats(TCacheValue).OnClearRegion Method " Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnClearRegion.htm" />
   </HelpKINode>
   <HelpKINode Title="OnGet event">
     <HelpKINode Title="BaseCacheManager(TCacheValue).OnGet Event" Url="html/E_CacheManager_Core_Cache_BaseCacheManager_1_OnGet.htm" />
@@ -1168,7 +1154,7 @@
   </HelpKINode>
   <HelpKINode Title="OnRemove method">
     <HelpKINode Title="CacheBackPlate.OnRemove Method " Url="html/Overload_CacheManager_Core_Cache_CacheBackPlate_OnRemove.htm" />
-    <HelpKINode Title="CacheStats(T).OnRemove Method " Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnRemove.htm" />
+    <HelpKINode Title="CacheStats(TCacheValue).OnRemove Method " Url="html/M_CacheManager_Core_Cache_CacheStats_1_OnRemove.htm" />
   </HelpKINode>
   <HelpKINode Title="OnUpdate event">
     <HelpKINode Title="BaseCacheManager(TCacheValue).OnUpdate Event" Url="html/E_CacheManager_Core_Cache_BaseCacheManager_1_OnUpdate.htm" />
@@ -1184,24 +1170,6 @@
     <HelpKINode Title="Endpoint.Port Property " Url="html/P_CacheManager_Redis_Endpoint_Port.htm" />
     <HelpKINode Title="ServerEndPoint.Port Property " Url="html/P_CacheManager_Redis_ServerEndPoint_Port.htm" />
   </HelpKINode>
-  <HelpKINode Title="ProtoBufDataCacheObjectSerializer(Of T) class">
-    <HelpKINode Title="ProtoBufDataCacheObjectSerializer(T) Class" Url="html/T_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1.htm" />
-    <HelpKINode Title="about ProtoBufDataCacheObjectSerializer(Of T) class" Url="html/T_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1.htm" />
-    <HelpKINode Title="constructor" Url="html/M_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1.htm" />
-  </HelpKINode>
-  <HelpKINode Title="ProtoBufDataCacheObjectSerializer(Of T).Deserialize method" Url="html/M_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1_Deserialize.htm" />
-  <HelpKINode Title="ProtoBufDataCacheObjectSerializer(Of T).ProtoBufDataCacheObjectSerializer constructor" Url="html/M_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1__ctor.htm" />
-  <HelpKINode Title="ProtoBufDataCacheObjectSerializer(Of T).Serialize method" Url="html/M_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1_Serialize.htm" />
-  <HelpKINode Title="ProtoBufDataCacheObjectSerializer&lt;T&gt; class">
-    <HelpKINode Title="ProtoBufDataCacheObjectSerializer(T) Class" Url="html/T_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1.htm" />
-    <HelpKINode Title="about ProtoBufDataCacheObjectSerializer&lt;T&gt; class" Url="html/T_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1.htm" />
-    <HelpKINode Title="constructor" Url="html/M_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1.htm" />
-  </HelpKINode>
-  <HelpKINode Title="ProtoBufDataCacheObjectSerializer&lt;T&gt;.Deserialize method" Url="html/M_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1_Deserialize.htm" />
-  <HelpKINode Title="ProtoBufDataCacheObjectSerializer&lt;T&gt;.ProtoBufDataCacheObjectSerializer constructor" Url="html/M_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1__ctor.htm" />
-  <HelpKINode Title="ProtoBufDataCacheObjectSerializer&lt;T&gt;.Serialize method" Url="html/M_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1_Serialize.htm" />
   <HelpKINode Title="Put method">
     <HelpKINode Title="BaseCache(TCacheValue).Put Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_Put.htm" />
     <HelpKINode Title="ICache(TCacheValue).Put Method " Url="html/Overload_CacheManager_Core_ICache_1_Put.htm" />
@@ -1213,7 +1181,6 @@
     <HelpKINode Title="RedisCacheHandle(TCacheValue).PutInternal Method " Url="html/M_CacheManager_Redis_RedisCacheHandle_1_PutInternal.htm" />
   </HelpKINode>
   <HelpKINode Title="PutInternalPrepared method">
-    <HelpKINode Title="AppFabricCacheHandle(TCacheValue).PutInternalPrepared Method " Url="html/M_CacheManager_AppFabricCache_AppFabricCacheHandle_1_PutInternalPrepared.htm" />
     <HelpKINode Title="BaseCacheHandle(TCacheValue).PutInternalPrepared Method " Url="html/M_CacheManager_Core_Cache_BaseCacheHandle_1_PutInternalPrepared.htm" />
     <HelpKINode Title="BucketCacheHandle(TCacheValue).PutInternalPrepared Method " Url="html/M_CacheManager_Couchbase_BucketCacheHandle_1_PutInternalPrepared.htm" />
     <HelpKINode Title="DictionaryCacheHandle(TCacheValue).PutInternalPrepared Method " Url="html/M_CacheManager_Core_Cache_DictionaryCacheHandle_1_PutInternalPrepared.htm" />
@@ -1362,7 +1329,7 @@
     <HelpKINode Title="CacheActionEventArgs.Region Property " Url="html/P_CacheManager_Core_Cache_CacheActionEventArgs_Region.htm" />
     <HelpKINode Title="CacheClearRegionEventArgs.Region Property " Url="html/P_CacheManager_Core_Cache_CacheClearRegionEventArgs_Region.htm" />
     <HelpKINode Title="CacheItem(T).Region Property " Url="html/P_CacheManager_Core_CacheItem_1_Region.htm" />
-    <HelpKINode Title="CacheUpdateEventArgs.Region Property " Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_Region.htm" />
+    <HelpKINode Title="CacheUpdateEventArgs(TCacheValue).Region Property " Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_1_Region.htm" />
   </HelpKINode>
   <HelpKINode Title="Remove method">
     <HelpKINode Title="BaseCache(TCacheValue).Remove Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_Remove.htm" />
@@ -1372,7 +1339,6 @@
   <HelpKINode Title="RemoveCalls enumeration member" Url="html/T_CacheManager_Core_Cache_CacheStatsCounterType.htm" />
   <HelpKINode Title="Removed enumeration member" Url="html/T_CacheManager_Core_Cache_BackPlateAction.htm" />
   <HelpKINode Title="RemoveInternal method">
-    <HelpKINode Title="AppFabricCacheHandle(TCacheValue).RemoveInternal Method " Url="html/Overload_CacheManager_AppFabricCache_AppFabricCacheHandle_1_RemoveInternal.htm" />
     <HelpKINode Title="BaseCache(TCacheValue).RemoveInternal Method " Url="html/Overload_CacheManager_Core_Cache_BaseCache_1_RemoveInternal.htm" />
     <HelpKINode Title="BucketCacheHandle(TCacheValue).RemoveInternal Method " Url="html/Overload_CacheManager_Couchbase_BucketCacheHandle_1_RemoveInternal.htm" />
     <HelpKINode Title="DictionaryCacheHandle(TCacheValue).RemoveInternal Method " Url="html/Overload_CacheManager_Core_Cache_DictionaryCacheHandle_1_RemoveInternal.htm" />
@@ -1380,15 +1346,12 @@
     <HelpKINode Title="MemoryCacheHandle(TCacheValue).RemoveInternal Method " Url="html/Overload_CacheManager_SystemRuntimeCaching_MemoryCacheHandle_1_RemoveInternal.htm" />
     <HelpKINode Title="RedisCacheHandle(TCacheValue).RemoveInternal Method " Url="html/Overload_CacheManager_Redis_RedisCacheHandle_1_RemoveInternal.htm" />
   </HelpKINode>
-  <HelpKINode Title="Result property" Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P_CacheManager_Core_Cache_CacheUpdateEventArgs_1_Result.htm" />
   <HelpKINode Title="RetryTimeout property">
     <HelpKINode Title="CacheManagerConfiguration.RetryTimeout Property " Url="html/P_CacheManager_Core_CacheManagerConfiguration_RetryTimeout.htm" />
     <HelpKINode Title="CacheManagerHandleCollection.RetryTimeout Property " Url="html/P_CacheManager_Core_Configuration_CacheManagerHandleCollection_RetryTimeout.htm" />
   </HelpKINode>
-  <HelpKINode Title="Serialize method">
-    <HelpKINode Title="BackPlateMessage.Serialize Method " Url="html/M_CacheManager_Core_Cache_BackPlateMessage_Serialize.htm" />
-    <HelpKINode Title="ProtoBufDataCacheObjectSerializer(T).Serialize Method " Url="html/M_CacheManager_WindowsAzureCaching_ProtoBufDataCacheObjectSerializer_1_Serialize.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Serialize method" Url="html/M_CacheManager_Core_Cache_BackPlateMessage_Serialize.htm" />
   <HelpKINode Title="ServerEndPoint class">
     <HelpKINode Title="ServerEndPoint Class" Url="html/T_CacheManager_Redis_ServerEndPoint.htm" />
     <HelpKINode Title="about ServerEndPoint class" Url="html/T_CacheManager_Redis_ServerEndPoint.htm" />
@@ -1399,6 +1362,7 @@
   <HelpKINode Title="ServerEndPoint.Host property" Url="html/P_CacheManager_Redis_ServerEndPoint_Host.htm" />
   <HelpKINode Title="ServerEndPoint.Port property" Url="html/P_CacheManager_Redis_ServerEndPoint_Port.htm" />
   <HelpKINode Title="ServerEndPoint.ServerEndPoint constructor" Url="html/M_CacheManager_Redis_ServerEndPoint__ctor.htm" />
+  <HelpKINode Title="ServerItemCount property" Url="html/P_CacheManager_Memcached_MemcachedCacheHandle_1_ServerItemCount.htm" />
   <HelpKINode Title="Servers property" Url="html/P_CacheManager_Memcached_MemcachedCacheHandle_1_Servers.htm" />
   <HelpKINode Title="Set method" Url="html/M_CacheManager_Web_CacheManagerOutputCacheProvider_Set.htm" />
   <HelpKINode Title="Sliding enumeration member" Url="html/T_CacheManager_Core_ExpirationMode.htm" />
@@ -1409,11 +1373,15 @@
   </HelpKINode>
   <HelpKINode Title="Stats property" Url="html/P_CacheManager_Core_Cache_BaseCacheHandle_1_Stats.htm" />
   <HelpKINode Title="Store method" Url="html/M_CacheManager_Memcached_MemcachedClientHandle_1_Store.htm" />
-  <HelpKINode Title="Success property" Url="html/P_CacheManager_Core_UpdateItemResult_Success.htm" />
+  <HelpKINode Title="Success enumeration member" Url="html/T_CacheManager_Core_UpdateItemResultState.htm" />
   <HelpKINode Title="Timeout property" Url="html/P_CacheManager_Core_Configuration_CacheManagerHandle_Timeout.htm" />
+  <HelpKINode Title="TooManyRetries enumeration member" Url="html/T_CacheManager_Core_UpdateItemResultState.htm" />
+  <HelpKINode Title="TryUpdate method">
+    <HelpKINode Title="BaseCacheManager(TCacheValue).TryUpdate Method " Url="html/Overload_CacheManager_Core_Cache_BaseCacheManager_1_TryUpdate.htm" />
+    <HelpKINode Title="ICacheManager(TCacheValue).TryUpdate Method " Url="html/Overload_CacheManager_Core_ICacheManager_1_TryUpdate.htm" />
+  </HelpKINode>
   <HelpKINode Title="Up enumeration member" Url="html/T_CacheManager_Core_CacheUpdateMode.htm" />
   <HelpKINode Title="Update method">
-    <HelpKINode Title="AppFabricCacheHandle(TCacheValue).Update Method " Url="html/Overload_CacheManager_AppFabricCache_AppFabricCacheHandle_1_Update.htm" />
     <HelpKINode Title="BaseCacheHandle(TCacheValue).Update Method " Url="html/Overload_CacheManager_Core_Cache_BaseCacheHandle_1_Update.htm" />
     <HelpKINode Title="BaseCacheManager(TCacheValue).Update Method " Url="html/Overload_CacheManager_Core_Cache_BaseCacheManager_1_Update.htm" />
     <HelpKINode Title="DictionaryCacheHandle(TCacheValue).Update Method " Url="html/Overload_CacheManager_Core_Cache_DictionaryCacheHandle_1_Update.htm" />
@@ -1434,29 +1402,54 @@
   <HelpKINode Title="UpdateItemResult class">
     <HelpKINode Title="UpdateItemResult Class" Url="html/T_CacheManager_Core_UpdateItemResult.htm" />
     <HelpKINode Title="about UpdateItemResult class" Url="html/T_CacheManager_Core_UpdateItemResult.htm" />
-    <HelpKINode Title="constructor" Url="html/M_CacheManager_Core_UpdateItemResult__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_Core_UpdateItemResult.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Core_UpdateItemResult.htm" />
   </HelpKINode>
-  <HelpKINode Title="UpdateItemResult.NumberOfRetriesNeeded property" Url="html/P_CacheManager_Core_UpdateItemResult_NumberOfRetriesNeeded.htm" />
-  <HelpKINode Title="UpdateItemResult.Success property" Url="html/P_CacheManager_Core_UpdateItemResult_Success.htm" />
-  <HelpKINode Title="UpdateItemResult.UpdateItemResult constructor" Url="html/M_CacheManager_Core_UpdateItemResult__ctor.htm" />
-  <HelpKINode Title="UpdateItemResult.VersionConflictOccurred property" Url="html/P_CacheManager_Core_UpdateItemResult_VersionConflictOccurred.htm" />
+  <HelpKINode Title="UpdateItemResult(Of TCacheValue) class">
+    <HelpKINode Title="UpdateItemResult(TCacheValue) Class" Url="html/T_CacheManager_Core_UpdateItemResult_1.htm" />
+    <HelpKINode Title="about UpdateItemResult(Of TCacheValue) class" Url="html/T_CacheManager_Core_UpdateItemResult_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_Core_UpdateItemResult_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Core_UpdateItemResult_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UpdateItemResult(Of TCacheValue).NumberOfTriesNeeded property" Url="html/P_CacheManager_Core_UpdateItemResult_1_NumberOfTriesNeeded.htm" />
+  <HelpKINode Title="UpdateItemResult(Of TCacheValue).UpdateState property" Url="html/P_CacheManager_Core_UpdateItemResult_1_UpdateState.htm" />
+  <HelpKINode Title="UpdateItemResult(Of TCacheValue).Value property" Url="html/P_CacheManager_Core_UpdateItemResult_1_Value.htm" />
+  <HelpKINode Title="UpdateItemResult(Of TCacheValue).VersionConflictOccurred property" Url="html/P_CacheManager_Core_UpdateItemResult_1_VersionConflictOccurred.htm" />
+  <HelpKINode Title="UpdateItemResult.ForItemDidNotExist(Of TCacheValue) method" Url="html/M_CacheManager_Core_UpdateItemResult_ForItemDidNotExist__1.htm" />
+  <HelpKINode Title="UpdateItemResult.ForItemDidNotExist&lt;TCacheValue&gt; method" Url="html/M_CacheManager_Core_UpdateItemResult_ForItemDidNotExist__1.htm" />
+  <HelpKINode Title="UpdateItemResult.ForSuccess(Of TCacheValue) method" Url="html/M_CacheManager_Core_UpdateItemResult_ForSuccess__1.htm" />
+  <HelpKINode Title="UpdateItemResult.ForSuccess&lt;TCacheValue&gt; method" Url="html/M_CacheManager_Core_UpdateItemResult_ForSuccess__1.htm" />
+  <HelpKINode Title="UpdateItemResult.ForTooManyRetries(Of TCacheValue) method" Url="html/M_CacheManager_Core_UpdateItemResult_ForTooManyRetries__1.htm" />
+  <HelpKINode Title="UpdateItemResult.ForTooManyRetries&lt;TCacheValue&gt; method" Url="html/M_CacheManager_Core_UpdateItemResult_ForTooManyRetries__1.htm" />
+  <HelpKINode Title="UpdateItemResult&lt;TCacheValue&gt; class">
+    <HelpKINode Title="UpdateItemResult(TCacheValue) Class" Url="html/T_CacheManager_Core_UpdateItemResult_1.htm" />
+    <HelpKINode Title="about UpdateItemResult&lt;TCacheValue&gt; class" Url="html/T_CacheManager_Core_UpdateItemResult_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_CacheManager_Core_UpdateItemResult_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_CacheManager_Core_UpdateItemResult_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UpdateItemResult&lt;TCacheValue&gt;.NumberOfTriesNeeded property" Url="html/P_CacheManager_Core_UpdateItemResult_1_NumberOfTriesNeeded.htm" />
+  <HelpKINode Title="UpdateItemResult&lt;TCacheValue&gt;.UpdateState property" Url="html/P_CacheManager_Core_UpdateItemResult_1_UpdateState.htm" />
+  <HelpKINode Title="UpdateItemResult&lt;TCacheValue&gt;.Value property" Url="html/P_CacheManager_Core_UpdateItemResult_1_Value.htm" />
+  <HelpKINode Title="UpdateItemResult&lt;TCacheValue&gt;.VersionConflictOccurred property" Url="html/P_CacheManager_Core_UpdateItemResult_1_VersionConflictOccurred.htm" />
+  <HelpKINode Title="UpdateItemResultState enumeration" Url="html/T_CacheManager_Core_UpdateItemResultState.htm" />
   <HelpKINode Title="UpdateMode property" Url="html/P_CacheManager_Core_Configuration_CacheManagerHandleCollection_UpdateMode.htm" />
   <HelpKINode Title="UpdateOtherCaches enumeration member" Url="html/T_CacheManager_Core_VersionConflictHandling.htm" />
-  <HelpKINode Title="Value property" Url="html/P_CacheManager_Core_CacheItem_1_Value.htm" />
+  <HelpKINode Title="UpdateState property" Url="html/P_CacheManager_Core_UpdateItemResult_1_UpdateState.htm" />
+  <HelpKINode Title="Value property">
+    <HelpKINode Title="CacheItem(T).Value Property " Url="html/P_CacheManager_Core_CacheItem_1_Value.htm" />
+    <HelpKINode Title="UpdateItemResult(TCacheValue).Value Property " Url="html/P_CacheManager_Core_UpdateItemResult_1_Value.htm" />
+  </HelpKINode>
   <HelpKINode Title="ValueType property" Url="html/P_CacheManager_Core_CacheItem_1_ValueType.htm" />
   <HelpKINode Title="VersionConflictHandling enumeration" Url="html/T_CacheManager_Core_VersionConflictHandling.htm" />
-  <HelpKINode Title="VersionConflictOccurred property" Url="html/P_CacheManager_Core_UpdateItemResult_VersionConflictOccurred.htm" />
+  <HelpKINode Title="VersionConflictOccurred property" Url="html/P_CacheManager_Core_UpdateItemResult_1_VersionConflictOccurred.htm" />
   <HelpKINode Title="VersionConflictOperation property" Url="html/P_CacheManager_Core_UpdateItemConfig_VersionConflictOperation.htm" />
   <HelpKINode Title="WithAllowAdmin method" Url="html/M_CacheManager_Redis_RedisConfigurationBuilder_WithAllowAdmin.htm" />
-  <HelpKINode Title="WithAppFabricCacheHandle method" Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithAppFabricCacheHandle.htm" />
   <HelpKINode Title="WithBackPlate(Of TBackPlate) method" Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_WithBackPlate__1.htm" />
   <HelpKINode Title="WithBackPlate&lt;TBackPlate&gt; method" Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_WithBackPlate__1.htm" />
   <HelpKINode Title="WithConnectionTimeout method" Url="html/M_CacheManager_Redis_RedisConfigurationBuilder_WithConnectionTimeout.htm" />
   <HelpKINode Title="WithCouchbaseCacheHandle method" Url="html/Overload_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseCacheHandle.htm" />
   <HelpKINode Title="WithCouchbaseConfiguration method" Url="html/M_CacheManager_Core_ConfigurationBuilderExtensions_WithCouchbaseConfiguration.htm" />
   <HelpKINode Title="WithDatabase method" Url="html/M_CacheManager_Redis_RedisConfigurationBuilder_WithDatabase.htm" />
+  <HelpKINode Title="WithDictionaryHandle method" Url="html/M_CacheManager_Core_Configuration_ConfigurationBuilderCachePart_WithDictionaryHandle.htm" />
   <HelpKINode Title="WithEndpoint method" Url="html/M_CacheManager_Redis_RedisConfigurationBuilder_WithEndpoint.htm" />
   <HelpKINode Title="WithExpiration method">
     <HelpKINode Title="CacheItem(T).WithExpiration Method " Url="html/M_CacheManager_Core_CacheItem_1_WithExpiration.htm" />
