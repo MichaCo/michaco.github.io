@@ -5,14 +5,4 @@
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>http://michaco.github.io/Documentation/CacheManager/Help/html/R_Project_CacheManager_0_6_0_0.htm</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-  </url>
 </urlset>
